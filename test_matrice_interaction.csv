@@ -1,0 +1,4330 @@
+Drug1,Drug2,Interaction
+Ketoconazole,tolterodine,1
+ketoconazole,azole antifungals,0
+ketoconazole,itraconazole,0
+ketoconazole,miconazole,0
+ketoconazole,macrolide antibiotics,0
+ketoconazole,erythromycin,0
+ketoconazole,clarithromycin,0
+ketoconazole,cyclosporine,0
+ketoconazole,vinblastine,0
+ketoconazole,DETROL LA,1
+azole antifungals,itraconazole,0
+azole antifungals,miconazole,0
+azole antifungals,macrolide antibiotics,0
+azole antifungals,erythromycin,0
+azole antifungals,clarithromycin,0
+azole antifungals,cyclosporine,0
+azole antifungals,vinblastine,0
+azole antifungals,DETROL LA,1
+itraconazole,miconazole,0
+itraconazole,macrolide antibiotics,0
+itraconazole,erythromycin,0
+itraconazole,clarithromycin,0
+itraconazole,cyclosporine,0
+itraconazole,vinblastine,0
+itraconazole,DETROL LA,1
+miconazole,macrolide antibiotics,0
+miconazole,erythromycin,0
+miconazole,clarithromycin,0
+miconazole,cyclosporine,0
+miconazole,vinblastine,0
+miconazole,DETROL LA,1
+macrolide antibiotics,erythromycin,0
+macrolide antibiotics,clarithromycin,0
+macrolide antibiotics,cyclosporine,0
+macrolide antibiotics,vinblastine,0
+macrolide antibiotics,DETROL LA,1
+erythromycin,clarithromycin,0
+erythromycin,cyclosporine,0
+erythromycin,vinblastine,0
+erythromycin,DETROL LA,1
+clarithromycin,cyclosporine,0
+clarithromycin,vinblastine,0
+clarithromycin,DETROL LA,1
+cyclosporine,vinblastine,0
+cyclosporine,DETROL LA,1
+vinblastine,DETROL LA,1
+INVEGA,Paliperidone,0
+paliperidone,INVEGA,0
+paliperidone,centrally acting drugs,1
+paliperidone,alcohol,1
+INVEGA,centrally acting drugs,1
+INVEGA,alcohol,1
+centrally acting drugs,alcohol,0
+Paliperidone,levodopa,1
+Paliperidone,dopamine agonists,1
+levodopa,dopamine agonists,0
+oxybutynin,anticholinergic drugs,1
+oxybutynin chloride,DITROPAN XL,0
+oxybutynin chloride,ketoconazole,0
+DITROPAN XL,ketoconazole,1
+antimycotic agents,itraconazole,0
+antimycotic agents,miconazole,0
+antimycotic agents,macrolide antibiotics,0
+antimycotic agents,erythromycin,0
+antimycotic agents,clarithromycin,0
+antimycotic agents,oxybutynin,1
+itraconazole,oxybutynin,1
+miconazole,oxybutynin,1
+macrolide antibiotics,oxybutynin,1
+erythromycin,oxybutynin,1
+clarithromycin,oxybutynin,1
+antacid,antacid,0
+antacid,aluminum hydroxide,0
+antacid,magnesium hydroxide,0
+antacid,simethicone,0
+antacid,oxybutynin,0
+antacid,desethyloxybutynin,0
+aluminum hydroxide,magnesium hydroxide,0
+aluminum hydroxide,simethicone,0
+aluminum hydroxide,oxybutynin,0
+aluminum hydroxide,desethyloxybutynin,0
+magnesium hydroxide,simethicone,0
+magnesium hydroxide,oxybutynin,0
+magnesium hydroxide,desethyloxybutynin,0
+simethicone,oxybutynin,0
+simethicone,desethyloxybutynin,0
+oxybutynin,desethyloxybutynin,0
+Mitotane,warfarin,0
+warfarin,warfarin,0
+anticoagulant,Mitotane,0
+anticoagulant,coumarin-type anticoagulants,0
+Mitotane,coumarin-type anticoagulants,1
+vancomycin,anesthetic agents,1
+amphotericin B,aminoglycosides,0
+amphotericin B,bacitracin,0
+amphotericin B,polymyxin B,0
+amphotericin B,colistin,0
+amphotericin B,viomycin,0
+amphotericin B,cisplatin,0
+aminoglycosides,bacitracin,0
+aminoglycosides,polymyxin B,0
+aminoglycosides,colistin,0
+aminoglycosides,viomycin,0
+aminoglycosides,cisplatin,0
+bacitracin,polymyxin B,0
+bacitracin,colistin,0
+bacitracin,viomycin,0
+bacitracin,cisplatin,0
+polymyxin B,colistin,0
+polymyxin B,viomycin,0
+polymyxin B,cisplatin,0
+colistin,viomycin,0
+colistin,cisplatin,0
+viomycin,cisplatin,0
+TRITEC,clarithromycin,1
+TRITEC,ranitidine,0
+TRITEC,14- hydroxy- clarithromycin,0
+clarithromycin,ranitidine,0
+clarithromycin,14- hydroxy- clarithromycin,0
+ranitidine,14- hydroxy- clarithromycin,0
+aspirin,salicylate,0
+antacid,ranitidine,1
+antacid,TRITEC,1
+ranitidine,TRITEC,0
+ranitidine,ZANTAC,0
+sympathomimetic bronchodilators,methylxanthines,0
+sympathomimetic bronchodilators,steroids,0
+methylxanthines,steroids,0
+SPIRIVA,anticholinergic,1
+SPIRIVA,ipratropium,1
+anticholinergic,ipratropium,0
+tigecycline,warfarin,1
+antibacterial drugs,contraceptives,0
+contraceptives,contraceptives,0
+Triprolidine,central nervous system depressants,1
+Triprolidine,alcohol,1
+Triprolidine,barbiturates,1
+Triprolidine,hypnotics,1
+Triprolidine,narcotic analgesics,1
+Triprolidine,sedatives,1
+Triprolidine,tranquillisers,1
+central nervous system depressants,alcohol,0
+central nervous system depressants,barbiturates,0
+central nervous system depressants,hypnotics,0
+central nervous system depressants,narcotic analgesics,0
+central nervous system depressants,sedatives,0
+central nervous system depressants,tranquillisers,0
+alcohol,barbiturates,0
+alcohol,hypnotics,0
+alcohol,narcotic analgesics,0
+alcohol,sedatives,0
+alcohol,tranquillisers,0
+barbiturates,hypnotics,0
+barbiturates,narcotic analgesics,0
+barbiturates,sedatives,0
+barbiturates,tranquillisers,0
+hypnotics,narcotic analgesics,0
+hypnotics,sedatives,0
+hypnotics,tranquillisers,0
+narcotic analgesics,sedatives,0
+narcotic analgesics,tranquillisers,0
+sedatives,tranquillisers,0
+anticholinergic drugs,atropine,0
+anticholinergic drugs,tricyclic antidepressants,1
+anticholinergic drugs,triprolidine,1
+atropine,tricyclic antidepressants,0
+atropine,triprolidine,1
+tricyclic antidepressants,triprolidine,1
+Macrolide Antibiotics,Protease Inhibitors,0
+Macrolide Antibiotics,ergot alkaloid drugs,0
+Macrolide Antibiotics,dihydroergotamine,0
+Macrolide Antibiotics,ergotamine,0
+Protease Inhibitors,ergot alkaloid drugs,0
+Protease Inhibitors,dihydroergotamine,0
+Protease Inhibitors,ergotamine,0
+ergot alkaloid drugs,dihydroergotamine,0
+ergot alkaloid drugs,ergotamine,0
+dihydroergotamine,ergotamine,0
+macrolide antibiotics,troleandomycin,0
+macrolide antibiotics,HIV protease inhibitors,0
+macrolide antibiotics,reverse transcriptase inhibitors,0
+macrolide antibiotics,ritonavir,0
+macrolide antibiotics,indinavir,0
+macrolide antibiotics,nelfinavir,0
+macrolide antibiotics,delavirdine,0
+macrolide antibiotics,azole antifungals,0
+macrolide antibiotics,ketoconazole,0
+macrolide antibiotics,itraconazole,0
+macrolide antibiotics,voriconazole,0
+erythromycin,troleandomycin,0
+erythromycin,HIV protease inhibitors,0
+erythromycin,reverse transcriptase inhibitors,0
+erythromycin,ritonavir,0
+erythromycin,indinavir,0
+erythromycin,nelfinavir,0
+erythromycin,delavirdine,0
+erythromycin,azole antifungals,0
+erythromycin,ketoconazole,0
+erythromycin,itraconazole,0
+erythromycin,voriconazole,0
+troleandomycin,clarithromycin,0
+troleandomycin,HIV protease inhibitors,0
+troleandomycin,reverse transcriptase inhibitors,0
+troleandomycin,ritonavir,0
+troleandomycin,indinavir,0
+troleandomycin,nelfinavir,0
+troleandomycin,delavirdine,0
+troleandomycin,azole antifungals,0
+troleandomycin,ketoconazole,0
+troleandomycin,itraconazole,0
+troleandomycin,voriconazole,0
+clarithromycin,HIV protease inhibitors,0
+clarithromycin,reverse transcriptase inhibitors,0
+clarithromycin,ritonavir,0
+clarithromycin,indinavir,0
+clarithromycin,nelfinavir,0
+clarithromycin,delavirdine,0
+clarithromycin,azole antifungals,0
+clarithromycin,ketoconazole,0
+clarithromycin,itraconazole,0
+clarithromycin,voriconazole,0
+HIV protease inhibitors,reverse transcriptase inhibitors,0
+HIV protease inhibitors,ritonavir,0
+HIV protease inhibitors,indinavir,0
+HIV protease inhibitors,nelfinavir,0
+HIV protease inhibitors,delavirdine,0
+HIV protease inhibitors,azole antifungals,0
+HIV protease inhibitors,ketoconazole,0
+HIV protease inhibitors,itraconazole,0
+HIV protease inhibitors,voriconazole,0
+reverse transcriptase inhibitors,ritonavir,0
+reverse transcriptase inhibitors,indinavir,0
+reverse transcriptase inhibitors,nelfinavir,0
+reverse transcriptase inhibitors,delavirdine,0
+reverse transcriptase inhibitors,azole antifungals,0
+reverse transcriptase inhibitors,ketoconazole,0
+reverse transcriptase inhibitors,itraconazole,0
+reverse transcriptase inhibitors,voriconazole,0
+ritonavir,indinavir,0
+ritonavir,nelfinavir,0
+ritonavir,delavirdine,0
+ritonavir,azole antifungals,0
+ritonavir,ketoconazole,0
+ritonavir,itraconazole,0
+ritonavir,voriconazole,0
+indinavir,nelfinavir,0
+indinavir,delavirdine,0
+indinavir,azole antifungals,0
+indinavir,ketoconazole,0
+indinavir,itraconazole,0
+indinavir,voriconazole,0
+nelfinavir,delavirdine,0
+nelfinavir,azole antifungals,0
+nelfinavir,ketoconazole,0
+nelfinavir,itraconazole,0
+nelfinavir,voriconazole,0
+delavirdine,azole antifungals,0
+delavirdine,ketoconazole,0
+delavirdine,itraconazole,0
+delavirdine,voriconazole,0
+azole antifungals,ketoconazole,0
+azole antifungals,voriconazole,0
+ketoconazole,voriconazole,0
+itraconazole,voriconazole,0
+saquinavir,nefazodone,0
+saquinavir,fluconazole,0
+saquinavir,fluoxetine,0
+saquinavir,fluvoxamine,0
+saquinavir,zileuton,0
+saquinavir,clotrimazole,0
+nefazodone,fluconazole,0
+nefazodone,fluoxetine,0
+nefazodone,fluvoxamine,0
+nefazodone,zileuton,0
+nefazodone,clotrimazole,0
+fluconazole,fluoxetine,0
+fluconazole,fluvoxamine,0
+fluconazole,zileuton,0
+fluconazole,clotrimazole,0
+fluoxetine,fluvoxamine,0
+fluoxetine,zileuton,0
+fluoxetine,clotrimazole,0
+fluvoxamine,zileuton,0
+fluvoxamine,clotrimazole,0
+zileuton,clotrimazole,0
+Methergine,methylergonovine maleate,0
+Methergine,vasoconstrictors,1
+Methergine,ergot alkaloids,1
+methylergonovine maleate,vasoconstrictors,1
+methylergonovine maleate,ergot alkaloids,0
+vasoconstrictors,ergot alkaloids,0
+trimetrexate,trimetrexate,0
+trimetrexate,erythromycin,1
+trimetrexate,rifampin,1
+trimetrexate,rifabutin,1
+trimetrexate,ketoconazole,1
+trimetrexate,fluconazole,1
+erythromycin,rifampin,0
+erythromycin,rifabutin,0
+erythromycin,fluconazole,0
+rifampin,rifabutin,0
+rifampin,ketoconazole,0
+rifampin,fluconazole,0
+rifabutin,ketoconazole,0
+rifabutin,fluconazole,1
+ketoconazole,fluconazole,0
+cimetidine,trimetrexate,1
+cimetidine,acetaminophen,0
+trimetrexate,acetaminophen,0
+imidazole drugs,clotrimazole,0
+imidazole drugs,ketoconazole,0
+imidazole drugs,miconazole,0
+imidazole drugs,trimetrexate,1
+clotrimazole,ketoconazole,0
+clotrimazole,miconazole,0
+clotrimazole,trimetrexate,1
+ketoconazole,trimetrexate,1
+miconazole,trimetrexate,1
+AGGRASTAT,aspirin,0
+AGGRASTAT,heparin,0
+aspirin,heparin,0
+heparin,aspirin,0
+heparin,heparin,0
+aspirin,aspirin,0
+diphosphonate,Calcitonin (salmon),1
+barbiturates,antihistamines,0
+barbiturates,narcotics,0
+barbiturates,hypotensive agents,0
+barbiturates,phenothiazines,0
+antihistamines,narcotics,0
+antihistamines,hypotensive agents,0
+antihistamines,phenothiazines,0
+narcotics,hypotensive agents,0
+narcotics,phenothiazines,0
+hypotensive agents,phenothiazines,0
+Matulane,sympathomimetic drugs,1
+Matulane,tricyclic antidepressant,1
+Matulane,amitriptyline HCl,1
+Matulane,imipramine HCl,1
+Matulane,tyramine,1
+sympathomimetic drugs,tricyclic antidepressant,0
+sympathomimetic drugs,amitriptyline HCl,0
+sympathomimetic drugs,imipramine HCl,0
+sympathomimetic drugs,tyramine,0
+tricyclic antidepressant,amitriptyline HCl,0
+tricyclic antidepressant,imipramine HCl,0
+tricyclic antidepressant,tyramine,0
+amitriptyline HCl,imipramine HCl,0
+amitriptyline HCl,tyramine,0
+imipramine HCl,tyramine,0
+chemotherapeutic agents,steroids,0
+lithium,Neulasta,1
+MYCAMINE,mycophenolate mofetil,0
+MYCAMINE,cyclosporine,0
+MYCAMINE,tacrolimus,0
+MYCAMINE,prednisolone,0
+MYCAMINE,sirolimus,0
+MYCAMINE,nifedipine,0
+MYCAMINE,fluconazole,0
+MYCAMINE,ritonavir,0
+MYCAMINE,rifampin,0
+mycophenolate mofetil,cyclosporine,0
+mycophenolate mofetil,tacrolimus,0
+mycophenolate mofetil,prednisolone,0
+mycophenolate mofetil,sirolimus,0
+mycophenolate mofetil,nifedipine,0
+mycophenolate mofetil,fluconazole,0
+mycophenolate mofetil,ritonavir,0
+mycophenolate mofetil,rifampin,0
+cyclosporine,tacrolimus,0
+cyclosporine,prednisolone,0
+cyclosporine,sirolimus,0
+cyclosporine,nifedipine,0
+cyclosporine,fluconazole,0
+cyclosporine,ritonavir,0
+cyclosporine,rifampin,0
+tacrolimus,prednisolone,0
+tacrolimus,sirolimus,0
+tacrolimus,nifedipine,0
+tacrolimus,fluconazole,1
+tacrolimus,ritonavir,0
+tacrolimus,rifampin,0
+prednisolone,sirolimus,0
+prednisolone,nifedipine,0
+prednisolone,fluconazole,0
+prednisolone,ritonavir,0
+prednisolone,rifampin,0
+sirolimus,nifedipine,0
+sirolimus,fluconazole,0
+sirolimus,ritonavir,0
+sirolimus,rifampin,0
+nifedipine,fluconazole,0
+nifedipine,ritonavir,0
+nifedipine,rifampin,0
+fluconazole,ritonavir,0
+fluconazole,rifampin,0
+ritonavir,rifampin,0
+Sirolimus,MYCAMINE,1
+Sirolimus,sirolimus,0
+Nifedipine,MYCAMINE,1
+Nifedipine,nifedipine,0
+sirolimus,MYCAMINE,1
+sirolimus,sirolimus,0
+nifedipine,MYCAMINE,1
+nifedipine,sirolimus,0
+nifedipine,nifedipine,0
+opioids,levomepromazine,1
+opioids,opioids,0
+levomepromazine,opioids,1
+tramadol,Ultram,0
+levomepromazine,benzodiazepines,1
+levomepromazine,barbiturates,1
+benzodiazepines,barbiturates,0
+levomepromazine,anticholinergic drugs,1
+levomepromazine,tricyclic antidepressants,1
+levomepromazine,antiparkinsonian-agents,1
+anticholinergic drugs,antiparkinsonian-agents,0
+tricyclic antidepressants,antiparkinsonian-agents,0
+Caffeine,ephedrine,0
+Caffeine,amphetamine,0
+Caffeine,levomepromazine,1
+ephedrine,amphetamine,0
+ephedrine,levomepromazine,1
+amphetamine,levomepromazine,1
+MIVACRON,MIVACRON,0
+MIVACRON,succinylcholine,0
+succinylcholine,nondepolarizing agents,1
+succinylcholine,MIVACRON,1
+succinylcholine,succinylcholine,0
+MIVACRON,nondepolarizing neuromuscular blocking agents,0
+Isoflurane,enflurane,0
+Isoflurane,nitrous oxide,0
+Isoflurane,oxygen,0
+enflurane,nitrous oxide,0
+enflurane,oxygen,0
+nitrous oxide,oxygen,0
+MIVACRON,enflurane,0
+MIVACRON,isoflurane,0
+enflurane,isoflurane,0
+nondepolarizing agents,MIVACRON,0
+nondepolarizing agents,antibiotics,1
+nondepolarizing agents,aminoglycosides,1
+nondepolarizing agents,tetracyclines,1
+nondepolarizing agents,bacitracin,1
+nondepolarizing agents,polymyxins,1
+nondepolarizing agents,lincomycin,1
+nondepolarizing agents,clindamycin,1
+nondepolarizing agents,colistin,1
+nondepolarizing agents,sodium colistimethate,1
+nondepolarizing agents,magnesium,1
+nondepolarizing agents,lithium,1
+nondepolarizing agents,anesthetics,1
+nondepolarizing agents,procainamide,1
+nondepolarizing agents,quinidine,1
+MIVACRON,antibiotics,1
+MIVACRON,aminoglycosides,1
+MIVACRON,tetracyclines,1
+MIVACRON,bacitracin,1
+MIVACRON,polymyxins,1
+MIVACRON,lincomycin,1
+MIVACRON,clindamycin,1
+MIVACRON,colistin,1
+MIVACRON,sodium colistimethate,1
+MIVACRON,magnesium,1
+MIVACRON,lithium,1
+MIVACRON,anesthetics,1
+MIVACRON,procainamide,1
+MIVACRON,quinidine,1
+antibiotics,aminoglycosides,0
+antibiotics,tetracyclines,0
+antibiotics,bacitracin,0
+antibiotics,polymyxins,0
+antibiotics,lincomycin,0
+antibiotics,clindamycin,0
+antibiotics,colistin,0
+antibiotics,sodium colistimethate,0
+antibiotics,magnesium,0
+antibiotics,lithium,0
+antibiotics,anesthetics,0
+antibiotics,procainamide,0
+antibiotics,quinidine,0
+aminoglycosides,tetracyclines,0
+aminoglycosides,polymyxins,0
+aminoglycosides,lincomycin,0
+aminoglycosides,clindamycin,0
+aminoglycosides,sodium colistimethate,0
+aminoglycosides,magnesium,0
+aminoglycosides,lithium,0
+aminoglycosides,anesthetics,0
+aminoglycosides,procainamide,0
+aminoglycosides,quinidine,0
+tetracyclines,bacitracin,0
+tetracyclines,polymyxins,0
+tetracyclines,lincomycin,0
+tetracyclines,clindamycin,0
+tetracyclines,colistin,0
+tetracyclines,sodium colistimethate,0
+tetracyclines,magnesium,1
+tetracyclines,lithium,0
+tetracyclines,anesthetics,0
+tetracyclines,procainamide,0
+tetracyclines,quinidine,0
+bacitracin,polymyxins,0
+bacitracin,lincomycin,0
+bacitracin,clindamycin,0
+bacitracin,sodium colistimethate,0
+bacitracin,magnesium,0
+bacitracin,lithium,0
+bacitracin,anesthetics,0
+bacitracin,procainamide,0
+bacitracin,quinidine,0
+polymyxins,lincomycin,0
+polymyxins,clindamycin,0
+polymyxins,colistin,0
+polymyxins,sodium colistimethate,0
+polymyxins,magnesium,0
+polymyxins,lithium,0
+polymyxins,anesthetics,0
+polymyxins,procainamide,0
+polymyxins,quinidine,0
+lincomycin,clindamycin,0
+lincomycin,colistin,0
+lincomycin,sodium colistimethate,0
+lincomycin,magnesium,0
+lincomycin,lithium,0
+lincomycin,anesthetics,0
+lincomycin,procainamide,0
+lincomycin,quinidine,0
+clindamycin,colistin,0
+clindamycin,sodium colistimethate,0
+clindamycin,magnesium,0
+clindamycin,lithium,0
+clindamycin,anesthetics,0
+clindamycin,procainamide,0
+clindamycin,quinidine,0
+colistin,sodium colistimethate,0
+colistin,magnesium,0
+colistin,lithium,0
+colistin,anesthetics,0
+colistin,procainamide,0
+colistin,quinidine,0
+sodium colistimethate,magnesium,0
+sodium colistimethate,lithium,0
+sodium colistimethate,anesthetics,0
+sodium colistimethate,procainamide,0
+sodium colistimethate,quinidine,0
+magnesium,lithium,0
+magnesium,anesthetics,0
+magnesium,procainamide,0
+magnesium,quinidine,0
+lithium,anesthetics,0
+lithium,procainamide,0
+lithium,quinidine,0
+anesthetics,procainamide,0
+anesthetics,quinidine,0
+procainamide,quinidine,0
+MIVACRON,contraceptives,1
+MIVACRON,glucocorticoids,1
+MIVACRON,monoamine oxidase inhibitors,1
+MIVACRON,neuromuscular blocking agents,0
+MIVACRON,phenytoin,0
+MIVACRON,carbamazepine,0
+contraceptives,glucocorticoids,0
+contraceptives,monoamine oxidase inhibitors,0
+contraceptives,neuromuscular blocking agents,0
+contraceptives,phenytoin,0
+contraceptives,carbamazepine,0
+glucocorticoids,monoamine oxidase inhibitors,0
+glucocorticoids,neuromuscular blocking agents,0
+glucocorticoids,phenytoin,0
+glucocorticoids,carbamazepine,0
+monoamine oxidase inhibitors,neuromuscular blocking agents,0
+monoamine oxidase inhibitors,phenytoin,0
+monoamine oxidase inhibitors,carbamazepine,0
+neuromuscular blocking agents,phenytoin,1
+neuromuscular blocking agents,carbamazepine,1
+phenytoin,carbamazepine,0
+phenytoin,MIVACRON,1
+carbamazepine,MIVACRON,1
+corticosteroids,phenytoin,0
+corticosteroids,carbamazepine,0
+corticosteroids,antibiotics,0
+corticosteroids,cisplatin,0
+corticosteroids,edrophonium,0
+corticosteroids,neostigmine,0
+corticosteroids,polymyxin B,0
+corticosteroids,bacitracin,0
+corticosteroids,anesthetics,0
+corticosteroids,procaine,0
+corticosteroids,succinylcholine,0
+corticosteroids,muscle relaxants,0
+phenytoin,antibiotics,0
+phenytoin,cisplatin,0
+phenytoin,edrophonium,0
+phenytoin,neostigmine,0
+phenytoin,polymyxin B,0
+phenytoin,bacitracin,0
+phenytoin,anesthetics,0
+phenytoin,procaine,0
+phenytoin,succinylcholine,0
+phenytoin,muscle relaxants,0
+carbamazepine,antibiotics,0
+carbamazepine,cisplatin,0
+carbamazepine,edrophonium,0
+carbamazepine,neostigmine,0
+carbamazepine,polymyxin B,0
+carbamazepine,bacitracin,0
+carbamazepine,anesthetics,0
+carbamazepine,procaine,0
+carbamazepine,succinylcholine,0
+carbamazepine,muscle relaxants,0
+antibiotics,cisplatin,0
+antibiotics,edrophonium,0
+antibiotics,neostigmine,0
+antibiotics,polymyxin B,0
+antibiotics,procaine,0
+antibiotics,succinylcholine,0
+antibiotics,muscle relaxants,0
+cisplatin,edrophonium,0
+cisplatin,neostigmine,0
+cisplatin,polymyxin B,0
+cisplatin,bacitracin,0
+cisplatin,anesthetics,0
+cisplatin,procaine,0
+cisplatin,succinylcholine,0
+cisplatin,muscle relaxants,0
+edrophonium,neostigmine,0
+edrophonium,polymyxin B,0
+edrophonium,bacitracin,0
+edrophonium,anesthetics,0
+edrophonium,procaine,0
+edrophonium,succinylcholine,0
+edrophonium,muscle relaxants,0
+neostigmine,polymyxin B,0
+neostigmine,bacitracin,0
+neostigmine,anesthetics,0
+neostigmine,procaine,0
+neostigmine,succinylcholine,0
+neostigmine,muscle relaxants,0
+polymyxin B,bacitracin,0
+polymyxin B,anesthetics,0
+polymyxin B,procaine,0
+polymyxin B,succinylcholine,0
+polymyxin B,muscle relaxants,0
+bacitracin,procaine,0
+bacitracin,succinylcholine,0
+bacitracin,muscle relaxants,0
+anesthetics,procaine,0
+anesthetics,anesthetics,0
+anesthetics,succinylcholine,0
+anesthetics,muscle relaxants,0
+procaine,anesthetics,0
+procaine,succinylcholine,0
+procaine,muscle relaxants,0
+succinylcholine,muscle relaxants,0
+VESIcare,ketoconazole,1
+solifenacin,solifenacin,0
+solifenacin,moxifloxacin,0
+Guanethidine,minoxidil,0
+Guanethidine,guanethidine,0
+minoxidil,guanethidine,1
+guanethidine,minoxidil,1
+ZAVESCA,Cerezyme,0
+Cerezyme,Cerezyme,0
+Cerezyme,imiglucerase,0
+Cerezyme,ZAVESCA,1
+imiglucerase,ZAVESCA,1
+Aminoglutethimide,depo-subQ provera 104,1
+Aminoglutethimide,MPA,0
+depo-subQ provera 104,MPA,0
+steroids,ACTH,0
+Thiazides,norepinephrine,1
+Thiazide drugs,tubocurarine,1
+Lithium,thiazides,1
+Lithium,lithium,0
+thiazides,lithium,0
+Thiazides,antihypertensive drugs,1
+ganglionic adrenergic blocking drugs,peripheral adrenergic blocking drugs,0
+Diuretics,diuretics,0
+Diuretics,ACEON,0
+diuretics,ACEON,1
+diuretic,perindopril,1
+perindopril,diuretics,0
+perindoprilat,diuretics,0
+Potassium,Potassium-Sparing Diuretics,0
+Potassium,ACEON,0
+Potassium-Sparing Diuretics,ACEON,0
+potassium-sparing diuretics,spironolactone,0
+potassium-sparing diuretics,amiloride,0
+potassium-sparing diuretics,triamterene,0
+potassium-sparing diuretics,potassium,0
+potassium-sparing diuretics,indomethacin,0
+potassium-sparing diuretics,heparin,0
+potassium-sparing diuretics,cyclosporine,0
+spironolactone,amiloride,0
+spironolactone,triamterene,0
+spironolactone,potassium,0
+spironolactone,indomethacin,0
+spironolactone,heparin,0
+spironolactone,cyclosporine,0
+amiloride,triamterene,0
+amiloride,potassium,0
+amiloride,indomethacin,0
+amiloride,heparin,0
+amiloride,cyclosporine,0
+triamterene,potassium,0
+triamterene,indomethacin,0
+triamterene,heparin,0
+triamterene,cyclosporine,0
+potassium,indomethacin,0
+potassium,heparin,0
+potassium,cyclosporine,0
+indomethacin,heparin,0
+indomethacin,cyclosporine,0
+heparin,cyclosporine,0
+lithium,lithium,0
+diuretic,lithium,1
+Digoxin,digoxin,0
+Digoxin,ACEON,0
+Digoxin,perindopril,0
+Digoxin,perindoprilat,0
+digoxin,ACEON,0
+digoxin,digoxin,0
+digoxin,perindopril,1
+digoxin,perindoprilat,1
+ACEON,digoxin,0
+ACEON,perindopril,0
+ACEON,perindoprilat,0
+perindopril,perindoprilat,0
+Gentamicin,perindopril,0
+Gentamicin,gentamicin,0
+perindopril,gentamicin,1
+alcohol,CNS depression-producing drugs,0
+alcohol,methyprylon,1
+CNS depression-producing drugs,methyprylon,1
+valproic acid,temozolomide,1
+tolbutamide,sodium salicylate,0
+tolbutamide,sulfamethizole,0
+tolbutamide,teniposide,1
+sodium salicylate,sulfamethizole,0
+sodium salicylate,teniposide,1
+sulfamethizole,teniposide,1
+VUMON,teniposide,0
+teniposide,methotrexate,0
+methotrexate,teniposide,1
+Anticoagulants,anticoagulants,0
+Anticoagulants,methimazole,0
+anticoagulants,methimazole,1
+Digitalis glycosides,digitalis glycoside,0
+Theophylline,Theophylline,0
+Theophylline,theophylline,0
+CYLERT,pemoline,0
+CYLERT,antiepileptic medications,1
+Diuretics,Furosemide,0
+Diuretics,loop diuretics,0
+Diuretics,metolazone,0
+Furosemide,loop diuretics,0
+Furosemide,metolazone,1
+loop diuretics,metolazone,1
+Antihypertensives,MYKROX,0
+Antihypertensives,antihypertensive drugs,0
+MYKROX,antihypertensive drugs,1
+Alcohol,Barbiturates,0
+Alcohol,Narcotics,0
+Alcohol,metolazone,0
+Barbiturates,Narcotics,0
+Barbiturates,metolazone,0
+Narcotics,metolazone,0
+Digitalis Glycosides,Diuretic,0
+Digitalis Glycosides,digitalis,0
+Diuretic,digitalis,1
+Corticosteroids,ACTH,0
+Curariform Drugs,Diuretic,0
+Curariform Drugs,curariform drugs,0
+Curariform Drugs,tubocurarine,0
+Diuretic,curariform drugs,1
+Diuretic,tubocurarine,1
+curariform drugs,tubocurarine,0
+Salicylates,Non-Steroidal Anti-Inflammatory Drugs,0
+Salicylates,MYKROX,1
+Non-Steroidal Anti-Inflammatory Drugs,MYKROX,1
+Sympathomimetics,Metolazone,0
+Sympathomimetics,norepinephrine,0
+Metolazone,norepinephrine,1
+Methenamine,metolazone,1
+Anticoagulants,Metolazone,0
+Anticoagulants,thiazide-like diuretics,0
+Metolazone,thiazide-like diuretics,0
+Metolazone,anticoagulants,1
+thiazide-like diuretics,anticoagulants,0
+anticholinergic drugs,amantadine,1
+anticholinergic drugs,antiarrhythmic agents of class I,1
+anticholinergic drugs,quinidine,1
+anticholinergic drugs,antihistamines,1
+anticholinergic drugs,antipsychotic agents,1
+anticholinergic drugs,phenothiazines,1
+anticholinergic drugs,benzodiazepines,1
+anticholinergic drugs,MAO inhibitors,1
+anticholinergic drugs,narcotic analgesics,0
+anticholinergic drugs,meperidine,1
+anticholinergic drugs,nitrates,1
+anticholinergic drugs,nitrites,1
+anticholinergic drugs,sympathomimetic agents,1
+amantadine,antiarrhythmic agents of class I,0
+amantadine,quinidine,0
+amantadine,antihistamines,0
+amantadine,antipsychotic agents,0
+amantadine,phenothiazines,0
+amantadine,benzodiazepines,0
+amantadine,MAO inhibitors,0
+amantadine,narcotic analgesics,0
+amantadine,meperidine,0
+amantadine,nitrates,0
+amantadine,nitrites,0
+amantadine,sympathomimetic agents,0
+amantadine,tricyclic antidepressants,0
+antiarrhythmic agents of class I,quinidine,0
+antiarrhythmic agents of class I,antihistamines,0
+antiarrhythmic agents of class I,antipsychotic agents,0
+antiarrhythmic agents of class I,phenothiazines,0
+antiarrhythmic agents of class I,benzodiazepines,0
+antiarrhythmic agents of class I,MAO inhibitors,0
+antiarrhythmic agents of class I,narcotic analgesics,0
+antiarrhythmic agents of class I,meperidine,0
+antiarrhythmic agents of class I,nitrates,0
+antiarrhythmic agents of class I,nitrites,0
+antiarrhythmic agents of class I,sympathomimetic agents,0
+antiarrhythmic agents of class I,tricyclic antidepressants,0
+quinidine,antihistamines,0
+quinidine,antipsychotic agents,0
+quinidine,phenothiazines,0
+quinidine,benzodiazepines,0
+quinidine,MAO inhibitors,0
+quinidine,narcotic analgesics,0
+quinidine,meperidine,0
+quinidine,nitrates,0
+quinidine,nitrites,0
+quinidine,sympathomimetic agents,0
+quinidine,tricyclic antidepressants,0
+antihistamines,antipsychotic agents,0
+antihistamines,benzodiazepines,0
+antihistamines,MAO inhibitors,0
+antihistamines,narcotic analgesics,0
+antihistamines,meperidine,0
+antihistamines,nitrates,0
+antihistamines,nitrites,0
+antihistamines,sympathomimetic agents,0
+antihistamines,tricyclic antidepressants,0
+antipsychotic agents,phenothiazines,0
+antipsychotic agents,benzodiazepines,0
+antipsychotic agents,MAO inhibitors,0
+antipsychotic agents,narcotic analgesics,0
+antipsychotic agents,meperidine,0
+antipsychotic agents,nitrates,0
+antipsychotic agents,nitrites,0
+antipsychotic agents,sympathomimetic agents,0
+antipsychotic agents,tricyclic antidepressants,0
+phenothiazines,benzodiazepines,0
+phenothiazines,MAO inhibitors,0
+phenothiazines,narcotic analgesics,0
+phenothiazines,meperidine,0
+phenothiazines,nitrates,0
+phenothiazines,nitrites,0
+phenothiazines,sympathomimetic agents,0
+phenothiazines,tricyclic antidepressants,0
+benzodiazepines,MAO inhibitors,0
+benzodiazepines,narcotic analgesics,0
+benzodiazepines,meperidine,0
+benzodiazepines,nitrates,0
+benzodiazepines,nitrites,0
+benzodiazepines,sympathomimetic agents,0
+benzodiazepines,tricyclic antidepressants,0
+MAO inhibitors,narcotic analgesics,0
+MAO inhibitors,meperidine,0
+MAO inhibitors,nitrates,0
+MAO inhibitors,nitrites,0
+MAO inhibitors,sympathomimetic agents,0
+MAO inhibitors,tricyclic antidepressants,0
+narcotic analgesics,meperidine,0
+narcotic analgesics,nitrates,0
+narcotic analgesics,nitrites,0
+narcotic analgesics,sympathomimetic agents,0
+narcotic analgesics,tricyclic antidepressants,0
+meperidine,nitrates,0
+meperidine,nitrites,0
+meperidine,sympathomimetic agents,0
+meperidine,tricyclic antidepressants,0
+nitrates,nitrites,0
+nitrates,sympathomimetic agents,0
+nitrates,tricyclic antidepressants,0
+nitrites,sympathomimetic agents,0
+nitrites,tricyclic antidepressants,0
+sympathomimetic agents,tricyclic antidepressants,0
+Anticholinergics,antiglaucoma agents,1
+Anticholinergic drugs,corticosteroids,1
+Anticholinergic agents,digoxin,1
+Anticholinergic drugs,metoclopramide,1
+antacids,anticholinergic agents,1
+Ropivacaine,anesthetics,1
+Ropivacaine,amide-type local anesthetics,0
+anesthetics,amide-type local anesthetics,0
+ropivacaine,fluvoxamine,1
+fluvoxamine,Ropivacaine,0
+fluvoxamine,ropivacaine,0
+Ropivacaine,Ropivacaine,0
+Ropivacaine,ropivacaine,0
+theophylline,imipramine,0
+ketoconazole,ropivacaine,0
+ketoconazole,ketoconazole,0
+ropivacaine,ketoconazole,0
+ropivacaine,ropivacaine,0
+diuretics,thiazides,0
+sulfamethoxazole,anticoagulant,0
+sulfamethoxazole,warfarin,1
+anticoagulant,warfarin,0
+Sulfamethoxazole,phenytoin,1
+sulfamethoxazole,phenytoin,1
+Sulfonamides,methotrexate,0
+methotrexate,methotrexate,0
+PURINETHOL,mercaptopurine,0
+PURINETHOL,TABLOID,1
+PURINETHOL,Thioguanine,1
+mercaptopurine,TABLOID,1
+mercaptopurine,Thioguanine,1
+TABLOID,Thioguanine,0
+aminosalicylate derivatives,olsalazine,0
+aminosalicylate derivatives,mesalazine,0
+aminosalicylate derivatives,sulphasalazine,0
+aminosalicylate derivatives,thioguanine,1
+olsalazine,mesalazine,0
+olsalazine,sulphasalazine,0
+olsalazine,thioguanine,1
+mesalazine,sulphasalazine,0
+mesalazine,thioguanine,1
+sulphasalazine,thioguanine,1
+Thalidomide,barbiturates,1
+Thalidomide,alcohol,0
+Thalidomide,chlorpromazine,0
+Thalidomide,reserpine,0
+barbiturates,alcohol,0
+barbiturates,chlorpromazine,0
+barbiturates,reserpine,0
+alcohol,chlorpromazine,0
+alcohol,reserpine,0
+chlorpromazine,reserpine,0
+Contraceptives,norethindrone,0
+Contraceptives,ethinyl estradiol,0
+Contraceptives,norethindrone acetate,0
+norethindrone,ethinyl estradiol,0
+norethindrone,norethindrone acetate,0
+ethinyl estradiol,norethindrone acetate,0
+ethinyl estradiol,ethinyl estradiol,0
+norethindrone acetate,ethinyl estradiol,0
+Thalidomide,Hormonal Contraceptives,0
+Thalidomide,HIV-protease inhibitors,0
+Thalidomide,griseofulvin,0
+Thalidomide,modafinil,0
+Thalidomide,penicillins,0
+Thalidomide,rifampin,0
+Thalidomide,rifabutin,0
+Thalidomide,phenytoin,0
+Thalidomide,carbamazepine,0
+Hormonal Contraceptives,HIV-protease inhibitors,0
+Hormonal Contraceptives,griseofulvin,0
+Hormonal Contraceptives,modafinil,0
+Hormonal Contraceptives,penicillins,0
+Hormonal Contraceptives,rifampin,0
+Hormonal Contraceptives,rifabutin,0
+Hormonal Contraceptives,phenytoin,0
+Hormonal Contraceptives,carbamazepine,0
+HIV-protease inhibitors,griseofulvin,0
+HIV-protease inhibitors,modafinil,0
+HIV-protease inhibitors,penicillins,0
+HIV-protease inhibitors,rifampin,0
+HIV-protease inhibitors,rifabutin,0
+HIV-protease inhibitors,phenytoin,0
+HIV-protease inhibitors,carbamazepine,0
+griseofulvin,modafinil,0
+griseofulvin,penicillins,0
+griseofulvin,rifampin,0
+griseofulvin,rifabutin,0
+griseofulvin,phenytoin,0
+griseofulvin,carbamazepine,0
+modafinil,penicillins,0
+modafinil,rifampin,0
+modafinil,rifabutin,0
+modafinil,phenytoin,0
+modafinil,carbamazepine,0
+penicillins,rifampin,0
+penicillins,rifabutin,0
+penicillins,phenytoin,0
+penicillins,carbamazepine,0
+rifampin,phenytoin,0
+rifampin,carbamazepine,0
+rifabutin,phenytoin,0
+rifabutin,carbamazepine,0
+John's Wort,hormonal contraceptive agents,1
+reserpine,beta-blocking agents,1
+propoxyphene,CNS depressants,1
+propoxyphene,alcohol,1
+CNS depressants,alcohol,0
+propoxyphene,antidepressants,0
+propoxyphene,anticonvulsants,0
+propoxyphene,warfarin,0
+antidepressants,anticonvulsants,0
+antidepressants,warfarin,0
+anticonvulsants,warfarin,0
+Montelukast,theophylline,0
+terfenadine,fexofenadine,0
+terfenadine,terfenadine,0
+fexofenadine,terfenadine,0
+Montelukast,contraceptive,0
+Montelukast,norethindrone,0
+Montelukast,estradiol,0
+contraceptive,norethindrone,0
+contraceptive,estradiol,0
+norethindrone,estradiol,0
+prednisone,prednisolone,0
+prednisone,prednisone,0
+prednisolone,prednisone,0
+prednisolone,prednisolone,0
+Phenobarbital,montelukast,0
+montelukast,montelukast,0
+phenobarbital,rifampin,0
+phenobarbital,montelukast,1
+rifampin,montelukast,1
+montelukast,theophylline,0
+montelukast,prednisone,0
+montelukast,prednisolone,0
+montelukast,contraceptives,0
+montelukast,norethindrone,0
+montelukast,ethinyl estradiol,0
+montelukast,terfenadine,0
+montelukast,digoxin,0
+montelukast,warfarin,0
+theophylline,prednisone,0
+theophylline,prednisolone,0
+theophylline,contraceptives,0
+theophylline,norethindrone,0
+theophylline,ethinyl estradiol,0
+theophylline,terfenadine,0
+theophylline,digoxin,0
+theophylline,warfarin,0
+prednisone,contraceptives,0
+prednisone,norethindrone,0
+prednisone,ethinyl estradiol,0
+prednisone,terfenadine,0
+prednisone,digoxin,0
+prednisone,warfarin,0
+prednisolone,contraceptives,0
+prednisolone,norethindrone,0
+prednisolone,ethinyl estradiol,0
+prednisolone,terfenadine,0
+prednisolone,digoxin,0
+prednisolone,warfarin,0
+contraceptives,norethindrone,0
+contraceptives,ethinyl estradiol,0
+contraceptives,terfenadine,0
+contraceptives,digoxin,0
+contraceptives,warfarin,0
+norethindrone,terfenadine,0
+norethindrone,digoxin,0
+norethindrone,warfarin,0
+ethinyl estradiol,terfenadine,0
+ethinyl estradiol,digoxin,0
+ethinyl estradiol,warfarin,0
+terfenadine,digoxin,0
+terfenadine,warfarin,0
+digoxin,warfarin,0
+thyroid hormones,sedative hypnotics,0
+thyroid hormones,non-steroidal anti-inflammatory agents,0
+thyroid hormones,benzodiazepines,0
+thyroid hormones,decongestants,0
+sedative hypnotics,non-steroidal anti-inflammatory agents,0
+sedative hypnotics,benzodiazepines,0
+sedative hypnotics,decongestants,0
+non-steroidal anti-inflammatory agents,benzodiazepines,0
+non-steroidal anti-inflammatory agents,decongestants,0
+benzodiazepines,decongestants,0
+Carbidopa,Levodopa,0
+Carbidopa,Carbidopa,0
+Carbidopa,pramipexole,0
+Levodopa,Carbidopa,0
+Levodopa,Levodopa,0
+Levodopa,pramipexole,0
+Selegiline,selegiline,0
+Selegiline,pramipexole,0
+selegiline,pramipexole,0
+Amantadine,amantadine,0
+Amantadine,pramipexole,0
+amantadine,pramipexole,0
+Cimetidine,Cimetidine,0
+Cimetidine,pramipexole,1
+Probenecid,Probenecid,0
+Probenecid,pramipexole,0
+cimetidine,ranitidine,0
+cimetidine,diltiazem,0
+cimetidine,triamterene,0
+cimetidine,verapamil,0
+cimetidine,quinidine,0
+cimetidine,quinine,0
+cimetidine,pramipexole,0
+cimetidine,cephalosporins,0
+cimetidine,penicillins,0
+cimetidine,indomethacin,0
+cimetidine,hydrochlorothiazide,0
+cimetidine,chlorpropamide,0
+ranitidine,diltiazem,0
+ranitidine,triamterene,0
+ranitidine,verapamil,0
+ranitidine,quinidine,0
+ranitidine,quinine,0
+ranitidine,pramipexole,0
+ranitidine,cephalosporins,0
+ranitidine,penicillins,0
+ranitidine,indomethacin,0
+ranitidine,hydrochlorothiazide,0
+ranitidine,chlorpropamide,0
+diltiazem,triamterene,0
+diltiazem,verapamil,0
+diltiazem,quinidine,0
+diltiazem,quinine,0
+diltiazem,pramipexole,0
+diltiazem,cephalosporins,0
+diltiazem,penicillins,0
+diltiazem,indomethacin,0
+diltiazem,hydrochlorothiazide,0
+diltiazem,chlorpropamide,0
+triamterene,verapamil,0
+triamterene,quinidine,0
+triamterene,quinine,0
+triamterene,pramipexole,0
+triamterene,cephalosporins,0
+triamterene,penicillins,0
+triamterene,hydrochlorothiazide,0
+triamterene,chlorpropamide,0
+verapamil,quinidine,0
+verapamil,quinine,0
+verapamil,pramipexole,0
+verapamil,cephalosporins,0
+verapamil,penicillins,0
+verapamil,indomethacin,0
+verapamil,hydrochlorothiazide,0
+verapamil,chlorpropamide,0
+quinidine,quinine,0
+quinidine,pramipexole,0
+quinidine,cephalosporins,0
+quinidine,penicillins,0
+quinidine,indomethacin,0
+quinidine,hydrochlorothiazide,0
+quinidine,chlorpropamide,0
+quinine,pramipexole,0
+quinine,cephalosporins,0
+quinine,penicillins,0
+quinine,indomethacin,0
+quinine,hydrochlorothiazide,0
+quinine,chlorpropamide,0
+pramipexole,cephalosporins,0
+pramipexole,penicillins,0
+pramipexole,indomethacin,0
+pramipexole,hydrochlorothiazide,0
+pramipexole,chlorpropamide,0
+pramipexole,pramipexole,0
+cephalosporins,penicillins,0
+cephalosporins,indomethacin,0
+cephalosporins,hydrochlorothiazide,0
+cephalosporins,chlorpropamide,0
+cephalosporins,pramipexole,1
+penicillins,indomethacin,0
+penicillins,hydrochlorothiazide,0
+penicillins,chlorpropamide,0
+penicillins,pramipexole,1
+indomethacin,hydrochlorothiazide,0
+indomethacin,chlorpropamide,0
+indomethacin,pramipexole,1
+hydrochlorothiazide,chlorpropamide,0
+hydrochlorothiazide,pramipexole,1
+chlorpropamide,pramipexole,1
+Dopamine antagonists,pramipexole,0
+Dopamine antagonists,dopamine agonist,0
+Dopamine antagonists,dopamine antagonists,0
+Dopamine antagonists,neuroleptics,0
+Dopamine antagonists,phenothiazines,0
+Dopamine antagonists,butyrophenones,0
+Dopamine antagonists,thioxanthenes,0
+Dopamine antagonists,metoclopramide,0
+Dopamine antagonists,MIRAPEX,0
+pramipexole,dopamine agonist,0
+pramipexole,dopamine antagonists,0
+pramipexole,neuroleptics,0
+pramipexole,phenothiazines,0
+pramipexole,butyrophenones,0
+pramipexole,thioxanthenes,0
+pramipexole,metoclopramide,0
+pramipexole,MIRAPEX,0
+dopamine agonist,dopamine antagonists,0
+dopamine agonist,neuroleptics,0
+dopamine agonist,phenothiazines,0
+dopamine agonist,butyrophenones,0
+dopamine agonist,thioxanthenes,0
+dopamine agonist,metoclopramide,0
+dopamine agonist,MIRAPEX,0
+dopamine antagonists,neuroleptics,0
+dopamine antagonists,phenothiazines,0
+dopamine antagonists,butyrophenones,0
+dopamine antagonists,thioxanthenes,0
+dopamine antagonists,metoclopramide,0
+dopamine antagonists,MIRAPEX,1
+neuroleptics,phenothiazines,0
+neuroleptics,butyrophenones,0
+neuroleptics,thioxanthenes,0
+neuroleptics,metoclopramide,0
+neuroleptics,MIRAPEX,1
+phenothiazines,butyrophenones,0
+phenothiazines,thioxanthenes,0
+phenothiazines,metoclopramide,0
+phenothiazines,MIRAPEX,1
+butyrophenones,thioxanthenes,0
+butyrophenones,metoclopramide,0
+butyrophenones,MIRAPEX,1
+thioxanthenes,metoclopramide,0
+thioxanthenes,MIRAPEX,1
+metoclopramide,MIRAPEX,1
+pantoprazole,theophylline,0
+pantoprazole,cisapride,0
+pantoprazole,antipyrine,0
+pantoprazole,caffeine,0
+pantoprazole,carbamazepine,0
+pantoprazole,diazepam,0
+pantoprazole,desmethyldiazepam,0
+pantoprazole,diclofenac,0
+pantoprazole,naproxen,0
+pantoprazole,piroxicam,0
+pantoprazole,digoxin,0
+pantoprazole,ethanol,0
+pantoprazole,glyburide,0
+pantoprazole,contraceptive,0
+pantoprazole,levonorgestrel,0
+pantoprazole,ethinyl estradiol,0
+pantoprazole,metoprolol,0
+pantoprazole,nifedipine,0
+pantoprazole,phenytoin,0
+pantoprazole,warfarin,1
+pantoprazole,midazolam,0
+pantoprazole,clarithromycin,0
+pantoprazole,metronidazole,0
+pantoprazole,amoxicillin,0
+theophylline,cisapride,0
+theophylline,antipyrine,0
+theophylline,caffeine,0
+theophylline,carbamazepine,0
+theophylline,diazepam,0
+theophylline,desmethyldiazepam,0
+theophylline,diclofenac,0
+theophylline,naproxen,0
+theophylline,piroxicam,0
+theophylline,ethanol,0
+theophylline,glyburide,0
+theophylline,contraceptive,0
+theophylline,levonorgestrel,0
+theophylline,metoprolol,0
+theophylline,nifedipine,0
+theophylline,phenytoin,0
+theophylline,midazolam,0
+theophylline,clarithromycin,0
+theophylline,metronidazole,0
+theophylline,amoxicillin,0
+cisapride,antipyrine,0
+cisapride,caffeine,0
+cisapride,carbamazepine,0
+cisapride,diazepam,0
+cisapride,desmethyldiazepam,0
+cisapride,diclofenac,0
+cisapride,naproxen,0
+cisapride,piroxicam,0
+cisapride,digoxin,0
+cisapride,ethanol,0
+cisapride,glyburide,0
+cisapride,contraceptive,0
+cisapride,levonorgestrel,0
+cisapride,ethinyl estradiol,0
+cisapride,metoprolol,0
+cisapride,nifedipine,0
+cisapride,phenytoin,0
+cisapride,warfarin,0
+cisapride,midazolam,0
+cisapride,clarithromycin,0
+cisapride,metronidazole,0
+cisapride,amoxicillin,0
+antipyrine,caffeine,0
+antipyrine,carbamazepine,0
+antipyrine,diazepam,0
+antipyrine,desmethyldiazepam,0
+antipyrine,diclofenac,0
+antipyrine,naproxen,0
+antipyrine,piroxicam,0
+antipyrine,digoxin,0
+antipyrine,ethanol,0
+antipyrine,glyburide,0
+antipyrine,contraceptive,0
+antipyrine,levonorgestrel,0
+antipyrine,ethinyl estradiol,0
+antipyrine,metoprolol,0
+antipyrine,nifedipine,0
+antipyrine,phenytoin,0
+antipyrine,warfarin,0
+antipyrine,midazolam,0
+antipyrine,clarithromycin,0
+antipyrine,metronidazole,0
+antipyrine,amoxicillin,0
+caffeine,carbamazepine,0
+caffeine,diazepam,0
+caffeine,desmethyldiazepam,0
+caffeine,diclofenac,0
+caffeine,naproxen,0
+caffeine,piroxicam,0
+caffeine,digoxin,0
+caffeine,ethanol,0
+caffeine,glyburide,0
+caffeine,contraceptive,0
+caffeine,levonorgestrel,0
+caffeine,ethinyl estradiol,0
+caffeine,metoprolol,0
+caffeine,nifedipine,0
+caffeine,phenytoin,0
+caffeine,warfarin,0
+caffeine,midazolam,0
+caffeine,clarithromycin,0
+caffeine,metronidazole,0
+caffeine,amoxicillin,0
+carbamazepine,diazepam,0
+carbamazepine,desmethyldiazepam,0
+carbamazepine,diclofenac,0
+carbamazepine,naproxen,0
+carbamazepine,piroxicam,0
+carbamazepine,digoxin,0
+carbamazepine,ethanol,0
+carbamazepine,glyburide,0
+carbamazepine,contraceptive,0
+carbamazepine,levonorgestrel,0
+carbamazepine,ethinyl estradiol,0
+carbamazepine,metoprolol,0
+carbamazepine,nifedipine,0
+carbamazepine,phenytoin,0
+carbamazepine,warfarin,0
+carbamazepine,midazolam,1
+carbamazepine,clarithromycin,0
+carbamazepine,metronidazole,0
+carbamazepine,amoxicillin,0
+diazepam,desmethyldiazepam,0
+diazepam,diclofenac,0
+diazepam,naproxen,0
+diazepam,piroxicam,0
+diazepam,digoxin,0
+diazepam,ethanol,0
+diazepam,glyburide,0
+diazepam,contraceptive,0
+diazepam,levonorgestrel,0
+diazepam,ethinyl estradiol,0
+diazepam,metoprolol,0
+diazepam,nifedipine,0
+diazepam,phenytoin,0
+diazepam,warfarin,0
+diazepam,midazolam,0
+diazepam,clarithromycin,0
+diazepam,metronidazole,0
+diazepam,amoxicillin,0
+desmethyldiazepam,diclofenac,0
+desmethyldiazepam,naproxen,0
+desmethyldiazepam,piroxicam,0
+desmethyldiazepam,digoxin,0
+desmethyldiazepam,ethanol,0
+desmethyldiazepam,glyburide,0
+desmethyldiazepam,contraceptive,0
+desmethyldiazepam,levonorgestrel,0
+desmethyldiazepam,ethinyl estradiol,0
+desmethyldiazepam,metoprolol,0
+desmethyldiazepam,nifedipine,0
+desmethyldiazepam,phenytoin,0
+desmethyldiazepam,warfarin,0
+desmethyldiazepam,midazolam,0
+desmethyldiazepam,clarithromycin,0
+desmethyldiazepam,metronidazole,0
+desmethyldiazepam,amoxicillin,0
+diclofenac,naproxen,0
+diclofenac,piroxicam,0
+diclofenac,digoxin,0
+diclofenac,ethanol,0
+diclofenac,glyburide,0
+diclofenac,contraceptive,0
+diclofenac,levonorgestrel,0
+diclofenac,ethinyl estradiol,0
+diclofenac,metoprolol,0
+diclofenac,nifedipine,0
+diclofenac,phenytoin,0
+diclofenac,warfarin,0
+diclofenac,midazolam,0
+diclofenac,clarithromycin,0
+diclofenac,metronidazole,0
+diclofenac,amoxicillin,0
+naproxen,piroxicam,0
+naproxen,digoxin,0
+naproxen,ethanol,0
+naproxen,glyburide,0
+naproxen,contraceptive,0
+naproxen,levonorgestrel,0
+naproxen,ethinyl estradiol,0
+naproxen,metoprolol,0
+naproxen,nifedipine,0
+naproxen,phenytoin,0
+naproxen,warfarin,0
+naproxen,midazolam,0
+naproxen,clarithromycin,0
+naproxen,metronidazole,0
+naproxen,amoxicillin,0
+piroxicam,digoxin,0
+piroxicam,ethanol,0
+piroxicam,glyburide,0
+piroxicam,contraceptive,0
+piroxicam,levonorgestrel,0
+piroxicam,ethinyl estradiol,0
+piroxicam,metoprolol,0
+piroxicam,nifedipine,0
+piroxicam,phenytoin,0
+piroxicam,warfarin,0
+piroxicam,midazolam,0
+piroxicam,clarithromycin,0
+piroxicam,metronidazole,0
+piroxicam,amoxicillin,0
+digoxin,ethanol,0
+digoxin,glyburide,0
+digoxin,contraceptive,0
+digoxin,levonorgestrel,0
+digoxin,ethinyl estradiol,0
+digoxin,metoprolol,0
+digoxin,nifedipine,0
+digoxin,phenytoin,0
+digoxin,midazolam,0
+digoxin,clarithromycin,0
+digoxin,metronidazole,0
+digoxin,amoxicillin,0
+ethanol,glyburide,0
+ethanol,contraceptive,0
+ethanol,levonorgestrel,0
+ethanol,ethinyl estradiol,0
+ethanol,metoprolol,0
+ethanol,nifedipine,0
+ethanol,phenytoin,0
+ethanol,warfarin,0
+ethanol,midazolam,0
+ethanol,clarithromycin,0
+ethanol,metronidazole,0
+ethanol,amoxicillin,0
+glyburide,contraceptive,0
+glyburide,levonorgestrel,0
+glyburide,ethinyl estradiol,0
+glyburide,metoprolol,0
+glyburide,nifedipine,0
+glyburide,phenytoin,0
+glyburide,warfarin,0
+glyburide,midazolam,0
+glyburide,clarithromycin,0
+glyburide,metronidazole,0
+glyburide,amoxicillin,0
+contraceptive,levonorgestrel,0
+contraceptive,ethinyl estradiol,0
+contraceptive,metoprolol,0
+contraceptive,nifedipine,0
+contraceptive,phenytoin,0
+contraceptive,warfarin,0
+contraceptive,midazolam,0
+contraceptive,clarithromycin,0
+contraceptive,metronidazole,0
+contraceptive,amoxicillin,0
+levonorgestrel,ethinyl estradiol,0
+levonorgestrel,metoprolol,0
+levonorgestrel,nifedipine,0
+levonorgestrel,phenytoin,0
+levonorgestrel,warfarin,0
+levonorgestrel,midazolam,0
+levonorgestrel,clarithromycin,0
+levonorgestrel,metronidazole,0
+levonorgestrel,amoxicillin,0
+ethinyl estradiol,metoprolol,0
+ethinyl estradiol,nifedipine,0
+ethinyl estradiol,phenytoin,0
+ethinyl estradiol,midazolam,0
+ethinyl estradiol,clarithromycin,0
+ethinyl estradiol,metronidazole,0
+ethinyl estradiol,amoxicillin,0
+metoprolol,nifedipine,0
+metoprolol,phenytoin,0
+metoprolol,warfarin,0
+metoprolol,midazolam,0
+metoprolol,clarithromycin,0
+metoprolol,metronidazole,0
+metoprolol,amoxicillin,0
+nifedipine,phenytoin,0
+nifedipine,warfarin,0
+nifedipine,midazolam,0
+nifedipine,clarithromycin,0
+nifedipine,metronidazole,0
+nifedipine,amoxicillin,0
+phenytoin,warfarin,0
+phenytoin,midazolam,1
+phenytoin,clarithromycin,0
+phenytoin,metronidazole,0
+phenytoin,amoxicillin,0
+warfarin,midazolam,0
+warfarin,clarithromycin,0
+warfarin,metronidazole,0
+warfarin,amoxicillin,0
+midazolam,clarithromycin,0
+midazolam,metronidazole,0
+midazolam,amoxicillin,0
+clarithromycin,metronidazole,0
+clarithromycin,amoxicillin,0
+metronidazole,amoxicillin,0
+pantoprazole,pantoprazole,0
+proton pump inhibitors,pantoprazole,0
+proton pump inhibitors,warfarin,1
+pantoprazole,ketoconazole,1
+pantoprazole,ampicillin,1
+pantoprazole,iron,1
+ketoconazole,ampicillin,0
+ketoconazole,iron,0
+ampicillin,iron,0
+tetrahydrocannabinol,THC,0
+tetrahydrocannabinol,proton pump inhibitors,0
+tetrahydrocannabinol,pantoprazole,0
+THC,proton pump inhibitors,0
+THC,pantoprazole,0
+acetylcholine chloride,Miochol,0
+acetylcholine chloride,carbachol,0
+acetylcholine chloride,Carboptic,0
+acetylcholine chloride,Isopto Carbachol,0
+acetylcholine chloride,suprofen,1
+Miochol,carbachol,0
+Miochol,Carboptic,0
+Miochol,Isopto Carbachol,0
+Miochol,suprofen,1
+carbachol,Carboptic,0
+carbachol,Isopto Carbachol,0
+carbachol,suprofen,1
+Carboptic,Isopto Carbachol,0
+Carboptic,suprofen,1
+Isopto Carbachol,suprofen,1
+mazindol,monoamine oxidase inhibitor,1
+mazindol,MAOI,1
+mazindol,isocarboxazid,1
+mazindol,Marplan,1
+mazindol,tranylcypromine,1
+mazindol,Parnate,1
+mazindol,phenelzine,1
+mazindol,Nardil,1
+monoamine oxidase inhibitor,MAOI,0
+monoamine oxidase inhibitor,isocarboxazid,0
+monoamine oxidase inhibitor,Marplan,0
+monoamine oxidase inhibitor,tranylcypromine,0
+monoamine oxidase inhibitor,Parnate,0
+monoamine oxidase inhibitor,phenelzine,0
+monoamine oxidase inhibitor,Nardil,0
+MAOI,isocarboxazid,0
+MAOI,Marplan,0
+MAOI,tranylcypromine,0
+MAOI,Parnate,0
+MAOI,phenelzine,0
+MAOI,Nardil,0
+isocarboxazid,Marplan,0
+isocarboxazid,tranylcypromine,0
+isocarboxazid,Parnate,0
+isocarboxazid,phenelzine,0
+isocarboxazid,Nardil,0
+Marplan,tranylcypromine,0
+Marplan,Parnate,0
+Marplan,phenelzine,0
+Marplan,Nardil,0
+tranylcypromine,Parnate,0
+tranylcypromine,phenelzine,0
+tranylcypromine,Nardil,0
+Parnate,phenelzine,0
+Parnate,Nardil,0
+phenelzine,Nardil,0
+insulin,mazindol,1
+Mazindol,guanethidine,1
+Mazindol,Ismelin,1
+guanethidine,Ismelin,0
+tricyclic antidepressant,amitriptyline,0
+tricyclic antidepressant,Elavil,0
+tricyclic antidepressant,amoxapine,0
+tricyclic antidepressant,Asendin,0
+tricyclic antidepressant,doxepin,0
+tricyclic antidepressant,Sinequan,0
+tricyclic antidepressant,nortriptyline,0
+tricyclic antidepressant,Pamelor,0
+tricyclic antidepressant,imipramine,0
+tricyclic antidepressant,Tofranil,0
+tricyclic antidepressant,clomipramine,0
+tricyclic antidepressant,Anafranil,0
+tricyclic antidepressant,protriptyline,0
+tricyclic antidepressant,Vivactil,0
+tricyclic antidepressant,desipramine,0
+tricyclic antidepressant,Norpramin,0
+amitriptyline,Elavil,0
+amitriptyline,amoxapine,0
+amitriptyline,Asendin,0
+amitriptyline,doxepin,0
+amitriptyline,Sinequan,0
+amitriptyline,nortriptyline,0
+amitriptyline,Pamelor,0
+amitriptyline,imipramine,0
+amitriptyline,Tofranil,0
+amitriptyline,clomipramine,0
+amitriptyline,Anafranil,0
+amitriptyline,protriptyline,0
+amitriptyline,Vivactil,0
+amitriptyline,desipramine,0
+amitriptyline,Norpramin,0
+Elavil,amoxapine,0
+Elavil,Asendin,0
+Elavil,doxepin,0
+Elavil,Sinequan,0
+Elavil,nortriptyline,0
+Elavil,Pamelor,0
+Elavil,imipramine,0
+Elavil,Tofranil,0
+Elavil,clomipramine,0
+Elavil,Anafranil,0
+Elavil,protriptyline,0
+Elavil,Vivactil,0
+Elavil,desipramine,0
+Elavil,Norpramin,0
+amoxapine,Asendin,0
+amoxapine,doxepin,0
+amoxapine,Sinequan,0
+amoxapine,nortriptyline,0
+amoxapine,Pamelor,0
+amoxapine,imipramine,0
+amoxapine,Tofranil,0
+amoxapine,clomipramine,0
+amoxapine,Anafranil,0
+amoxapine,protriptyline,0
+amoxapine,Vivactil,0
+amoxapine,desipramine,0
+amoxapine,Norpramin,0
+Asendin,doxepin,0
+Asendin,Sinequan,0
+Asendin,nortriptyline,0
+Asendin,Pamelor,0
+Asendin,imipramine,0
+Asendin,Tofranil,0
+Asendin,clomipramine,0
+Asendin,Anafranil,0
+Asendin,protriptyline,0
+Asendin,Vivactil,0
+Asendin,desipramine,0
+Asendin,Norpramin,0
+doxepin,Sinequan,0
+doxepin,nortriptyline,0
+doxepin,Pamelor,0
+doxepin,imipramine,0
+doxepin,Tofranil,0
+doxepin,clomipramine,0
+doxepin,Anafranil,0
+doxepin,protriptyline,0
+doxepin,Vivactil,0
+doxepin,desipramine,0
+doxepin,Norpramin,0
+Sinequan,nortriptyline,0
+Sinequan,Pamelor,0
+Sinequan,imipramine,0
+Sinequan,Tofranil,0
+Sinequan,clomipramine,0
+Sinequan,Anafranil,0
+Sinequan,protriptyline,0
+Sinequan,Vivactil,0
+Sinequan,desipramine,0
+Sinequan,Norpramin,0
+nortriptyline,Pamelor,0
+nortriptyline,imipramine,0
+nortriptyline,Tofranil,0
+nortriptyline,clomipramine,0
+nortriptyline,Anafranil,0
+nortriptyline,protriptyline,0
+nortriptyline,Vivactil,0
+nortriptyline,desipramine,0
+nortriptyline,Norpramin,0
+Pamelor,imipramine,0
+Pamelor,Tofranil,0
+Pamelor,clomipramine,0
+Pamelor,Anafranil,0
+Pamelor,protriptyline,0
+Pamelor,Vivactil,0
+Pamelor,desipramine,0
+Pamelor,Norpramin,0
+imipramine,Tofranil,0
+imipramine,clomipramine,0
+imipramine,Anafranil,0
+imipramine,protriptyline,0
+imipramine,Vivactil,0
+imipramine,desipramine,0
+imipramine,Norpramin,0
+Tofranil,clomipramine,0
+Tofranil,Anafranil,0
+Tofranil,protriptyline,0
+Tofranil,Vivactil,0
+Tofranil,desipramine,0
+Tofranil,Norpramin,0
+clomipramine,Anafranil,0
+clomipramine,protriptyline,0
+clomipramine,Vivactil,0
+clomipramine,desipramine,0
+clomipramine,Norpramin,0
+Anafranil,protriptyline,0
+Anafranil,Vivactil,0
+Anafranil,desipramine,0
+Anafranil,Norpramin,0
+protriptyline,Vivactil,0
+protriptyline,desipramine,0
+protriptyline,Norpramin,0
+Vivactil,desipramine,0
+Vivactil,Norpramin,0
+desipramine,Norpramin,0
+abacavir,lamivudine,0
+abacavir,zidovudine,0
+lamivudine,zidovudine,0
+lamivudine,lamivudine,0
+zidovudine,lamivudine,0
+zidovudine,zidovudine,0
+lamivudine,abacavir,0
+zidovudine,abacavir,0
+Abacavir,ethanol,0
+Ethanol,abacavir,0
+Ethanol,methadone,0
+abacavir,methadone,0
+abacavir,abacavir,0
+methadone,abacavir,0
+methadone,ZIAGEN,1
+methadone,methadone,0
+ZIAGEN,methadone,0
+Sulfoxone,barbiturates,1
+Sulfoxone,tolbutamide,1
+Sulfoxone,uricosurics,1
+barbiturates,tolbutamide,0
+barbiturates,uricosurics,0
+tolbutamide,uricosurics,0
+thiazides,cyclosporine,0
+thiazides,sulfonylurea agents,0
+thiazides,warfarin,0
+thiazides,methotrexate,0
+thiazides,phenytoin,0
+cyclosporine,sulfonylurea agents,0
+cyclosporine,warfarin,0
+cyclosporine,methotrexate,0
+cyclosporine,phenytoin,0
+sulfonylurea agents,warfarin,0
+sulfonylurea agents,methotrexate,0
+sulfonylurea agents,phenytoin,0
+warfarin,methotrexate,0
+warfarin,phenytoin,0
+methotrexate,phenytoin,0
+phenytoin,phenytoin,0
+Phenothiazines,CNS depressants,1
+Phenothiazines,barbiturates,1
+Phenothiazines,anesthetics,1
+Phenothiazines,opiates,1
+Phenothiazines,alcohol,1
+CNS depressants,barbiturates,0
+CNS depressants,anesthetics,0
+CNS depressants,opiates,0
+barbiturates,anesthetics,0
+barbiturates,opiates,0
+anesthetics,opiates,0
+anesthetics,alcohol,0
+opiates,alcohol,0
+atropine,phosphorous insecticides,0
+zidovudine,rifabutin,0
+zidovudine,megestrol acetate,0
+rifabutin,megestrol acetate,0
+megestrol acetate,indinavir,0
+indinavir,indinavir,0
+indinavir,megestrol acetate,0
+indinavir,zidovudine,0
+indinavir,rifabutin,0
+Streptozocin,doxorubicin,1
+doxorubicin,ZANOSAR,1
+streptozocin,phenytoin,1
+streptozocin,streptozocin,0
+phenytoin,streptozocin,0
+ARAMINE,digitalis,0
+ARAMINE,sympathomimetic amines,0
+digitalis,sympathomimetic amines,1
+Monoamine oxidase inhibitors,tricyclic antidepressants,0
+Monoamine oxidase inhibitors,sympathomimetic amines,1
+tricyclic antidepressants,sympathomimetic amines,1
+Mequitazine,CNS depressant,1
+Mequitazine,antichlolinergic,1
+Mequitazine,TCA,1
+Mequitazine,MAOIs,1
+Mequitazine,alcohol,1
+CNS depressant,antichlolinergic,0
+CNS depressant,TCA,0
+CNS depressant,MAOIs,0
+CNS depressant,alcohol,0
+antichlolinergic,TCA,0
+antichlolinergic,MAOIs,0
+antichlolinergic,alcohol,0
+TCA,MAOIs,0
+TCA,alcohol,0
+MAOIs,alcohol,0
+Barbiturates,contraceptives,1
+Barbiturates,antibiotics,1
+Barbiturates,quinidine,1
+Barbiturates,theophylline,1
+Barbiturates,corticosteroids,1
+Barbiturates,anticoagulants,1
+Barbiturates,beta blockers,1
+contraceptives,antibiotics,0
+contraceptives,quinidine,0
+contraceptives,theophylline,0
+contraceptives,corticosteroids,0
+contraceptives,anticoagulants,0
+contraceptives,beta blockers,0
+antibiotics,theophylline,0
+antibiotics,corticosteroids,0
+antibiotics,anticoagulants,0
+antibiotics,beta blockers,0
+quinidine,theophylline,0
+quinidine,corticosteroids,0
+quinidine,anticoagulants,0
+quinidine,beta blockers,0
+theophylline,corticosteroids,0
+theophylline,anticoagulants,0
+theophylline,beta blockers,0
+corticosteroids,anticoagulants,1
+corticosteroids,beta blockers,0
+anticoagulants,beta blockers,0
+Sulfamethizole,barbiturates,1
+Sulfamethizole,tolbutamide,1
+Sulfamethizole,uricosurics,1
+TNKase,heparin,0
+TNKase,aspirin,0
+Anticoagulants,heparin,0
+Anticoagulants,vitamin K antagonists,0
+Anticoagulants,acetylsalicylic acid,0
+Anticoagulants,dipyridamole,0
+Anticoagulants,TNKase,1
+heparin,vitamin K antagonists,0
+heparin,acetylsalicylic acid,0
+heparin,dipyridamole,0
+heparin,TNKase,1
+vitamin K antagonists,acetylsalicylic acid,0
+vitamin K antagonists,dipyridamole,0
+vitamin K antagonists,TNKase,1
+acetylsalicylic acid,dipyridamole,0
+acetylsalicylic acid,TNKase,1
+dipyridamole,TNKase,1
+Cimetidine,cimetidine,0
+Cimetidine,rimantadine,0
+cimetidine,rimantadine,0
+rimantadine HCl,Cimetidine,1
+rimantadine HCl,rimantadine,0
+rimantadine HCl,cimetidine,0
+rimantadine,rimantadine,0
+rimantadine,cimetidine,0
+Acetaminophen,Rimantadine HCl,0
+acetaminophen,rimantadine,1
+Aspirin,Rimantadine HCl,0
+rimantadine,aspirin,1
+Trimethoprim,phenytoin,1
+Pilocarpine,beta adrenergic antagonists,1
+atropine,ipratropium,0
+acetylsalicylic acid,calcium,0
+acetylsalicylic acid,conjugated estrogens,0
+acetylsalicylic acid,hydroxychloroquine sulfate,0
+acetylsalicylic acid,ibuprofen,0
+acetylsalicylic acid,levothyroxine sodium,0
+acetylsalicylic acid,medroxyprogesterone acetate,0
+acetylsalicylic acid,methotrexate,0
+acetylsalicylic acid,multivitamins,0
+acetylsalicylic acid,naproxen,0
+acetylsalicylic acid,omeprazole,0
+acetylsalicylic acid,paracetamol,0
+acetylsalicylic acid,prednisone,0
+calcium,conjugated estrogens,0
+calcium,hydroxychloroquine sulfate,0
+calcium,ibuprofen,0
+calcium,levothyroxine sodium,0
+calcium,medroxyprogesterone acetate,0
+calcium,methotrexate,0
+calcium,multivitamins,0
+calcium,naproxen,0
+calcium,omeprazole,0
+calcium,paracetamol,0
+calcium,prednisone,0
+conjugated estrogens,hydroxychloroquine sulfate,0
+conjugated estrogens,ibuprofen,0
+conjugated estrogens,levothyroxine sodium,0
+conjugated estrogens,medroxyprogesterone acetate,0
+conjugated estrogens,methotrexate,0
+conjugated estrogens,multivitamins,0
+conjugated estrogens,naproxen,0
+conjugated estrogens,omeprazole,0
+conjugated estrogens,paracetamol,0
+conjugated estrogens,prednisone,0
+hydroxychloroquine sulfate,ibuprofen,0
+hydroxychloroquine sulfate,levothyroxine sodium,0
+hydroxychloroquine sulfate,medroxyprogesterone acetate,0
+hydroxychloroquine sulfate,methotrexate,0
+hydroxychloroquine sulfate,multivitamins,0
+hydroxychloroquine sulfate,naproxen,0
+hydroxychloroquine sulfate,omeprazole,0
+hydroxychloroquine sulfate,paracetamol,0
+hydroxychloroquine sulfate,prednisone,0
+ibuprofen,levothyroxine sodium,0
+ibuprofen,medroxyprogesterone acetate,0
+ibuprofen,methotrexate,0
+ibuprofen,multivitamins,0
+ibuprofen,naproxen,0
+ibuprofen,omeprazole,0
+ibuprofen,paracetamol,0
+ibuprofen,prednisone,0
+levothyroxine sodium,medroxyprogesterone acetate,0
+levothyroxine sodium,methotrexate,0
+levothyroxine sodium,multivitamins,0
+levothyroxine sodium,naproxen,0
+levothyroxine sodium,omeprazole,0
+levothyroxine sodium,paracetamol,0
+levothyroxine sodium,prednisone,0
+medroxyprogesterone acetate,methotrexate,0
+medroxyprogesterone acetate,multivitamins,0
+medroxyprogesterone acetate,naproxen,0
+medroxyprogesterone acetate,omeprazole,0
+medroxyprogesterone acetate,paracetamol,0
+medroxyprogesterone acetate,prednisone,0
+methotrexate,multivitamins,0
+methotrexate,naproxen,0
+methotrexate,omeprazole,0
+methotrexate,paracetamol,0
+methotrexate,prednisone,0
+multivitamins,naproxen,0
+multivitamins,omeprazole,0
+multivitamins,paracetamol,0
+multivitamins,prednisone,0
+naproxen,omeprazole,0
+naproxen,paracetamol,0
+naproxen,prednisone,0
+omeprazole,paracetamol,0
+omeprazole,prednisone,0
+paracetamol,prednisone,0
+cyclosporin,methylprednisolone,1
+methylprednisolone,cyclosporin,1
+phenobarbital,phenytoin,0
+phenobarbital,methylprednisolone,1
+phenytoin,rifampin,0
+phenytoin,methylprednisolone,1
+rifampin,methylprednisolone,1
+methylprednisolone,methylprednisolone,0
+troleandomycin,methylprednisolone,1
+ketoconazole,methylprednisolone,1
+Methylprednisolone,aspirin,1
+salicylate,salicylate,0
+salicylate,methylprednisolone,1
+Aspirin,corticosteroids,1
+methylprednisolone,anticoagulants,0
+anticoagulant,corticosteroids,1
+metoclopramide,anticholinergic drugs,1
+metoclopramide,narcotic analgesics,1
+metoclopramide,alcohol,1
+metoclopramide,sedatives,1
+metoclopramide,hypnotics,1
+metoclopramide,narcotics,1
+metoclopramide,tranquilizers,1
+alcohol,narcotics,0
+alcohol,tranquilizers,0
+sedatives,hypnotics,0
+sedatives,narcotics,0
+sedatives,tranquilizers,0
+hypnotics,narcotics,0
+hypnotics,tranquilizers,0
+narcotics,tranquilizers,0
+metoclopramide,monoamine oxi-dase inhibitors,1
+digoxin,metoclopramide,1
+digoxin,acetaminophen,0
+digoxin,tetracycline,0
+digoxin,levodopa,0
+digoxin,cyclosporine,0
+metoclopramide,acetaminophen,1
+metoclopramide,tetracycline,0
+metoclopramide,levodopa,0
+metoclopramide,ethanol,0
+metoclopramide,cyclosporine,0
+acetaminophen,tetracycline,0
+acetaminophen,levodopa,0
+acetaminophen,ethanol,0
+acetaminophen,cyclosporine,0
+tetracycline,levodopa,0
+tetracycline,ethanol,0
+tetracycline,cyclosporine,0
+levodopa,ethanol,0
+levodopa,cyclosporine,0
+ethanol,cyclosporine,0
+metoclopramide,insulin,1
+Vasopressors,metaraminol,0
+Vasopressors,halothane,1
+metaraminol,halothane,1
+MAO Inhibitors,sympathomimetic pressor amines,0
+MAO Inhibitors,monoamine oxidase inhibitors,0
+MAO Inhibitors,MAOI,0
+sympathomimetic pressor amines,monoamine oxidase inhibitors,1
+sympathomimetic pressor amines,MAOI,1
+monoamine oxidase inhibitors,MAOI,0
+adrenergic agents,tricyclic antidepressants,1
+Methscopolamine,antidepressants,0
+Methscopolamine,tricyclic,1
+Methscopolamine,MAO inhibitors,1
+Methscopolamine,phenelzine,1
+Methscopolamine,linezolid,1
+Methscopolamine,tranylcypromine,1
+Methscopolamine,isocarboxazid,1
+Methscopolamine,selegiline,1
+Methscopolamine,furazolidone,1
+Methscopolamine,quinidine,1
+Methscopolamine,amantadine,1
+Methscopolamine,antihistamines,1
+Methscopolamine,diphenhydramine,1
+Methscopolamine,anticholinergics,1
+Methscopolamine,potassium chloride,1
+Methscopolamine,antacids,1
+Methscopolamine,absorbent-type anti-diarrhea medicines,1
+Methscopolamine,kaolin,1
+Methscopolamine,pectin,1
+Methscopolamine,phenothiazines,1
+Methscopolamine,chlorpromazine,1
+Methscopolamine,promethazine,1
+antidepressants,tricyclic,0
+antidepressants,MAO inhibitors,0
+antidepressants,phenelzine,0
+antidepressants,linezolid,0
+antidepressants,tranylcypromine,0
+antidepressants,isocarboxazid,0
+antidepressants,selegiline,0
+antidepressants,furazolidone,0
+antidepressants,quinidine,0
+antidepressants,amantadine,0
+antidepressants,antihistamines,0
+antidepressants,diphenhydramine,0
+antidepressants,anticholinergics,0
+antidepressants,potassium chloride,0
+antidepressants,antacids,0
+antidepressants,absorbent-type anti-diarrhea medicines,0
+antidepressants,kaolin,0
+antidepressants,pectin,0
+antidepressants,phenothiazines,0
+antidepressants,chlorpromazine,0
+antidepressants,promethazine,0
+tricyclic,MAO inhibitors,0
+tricyclic,phenelzine,0
+tricyclic,linezolid,0
+tricyclic,tranylcypromine,0
+tricyclic,isocarboxazid,0
+tricyclic,selegiline,0
+tricyclic,furazolidone,0
+tricyclic,quinidine,0
+tricyclic,amantadine,0
+tricyclic,antihistamines,0
+tricyclic,diphenhydramine,0
+tricyclic,anticholinergics,0
+tricyclic,potassium chloride,0
+tricyclic,antacids,0
+tricyclic,absorbent-type anti-diarrhea medicines,0
+tricyclic,kaolin,0
+tricyclic,pectin,0
+tricyclic,phenothiazines,0
+tricyclic,chlorpromazine,0
+tricyclic,promethazine,0
+MAO inhibitors,phenelzine,0
+MAO inhibitors,linezolid,0
+MAO inhibitors,tranylcypromine,0
+MAO inhibitors,isocarboxazid,0
+MAO inhibitors,selegiline,0
+MAO inhibitors,furazolidone,0
+MAO inhibitors,quinidine,0
+MAO inhibitors,amantadine,0
+MAO inhibitors,antihistamines,0
+MAO inhibitors,diphenhydramine,0
+MAO inhibitors,anticholinergics,0
+MAO inhibitors,potassium chloride,0
+MAO inhibitors,antacids,0
+MAO inhibitors,absorbent-type anti-diarrhea medicines,0
+MAO inhibitors,kaolin,0
+MAO inhibitors,pectin,0
+MAO inhibitors,phenothiazines,0
+MAO inhibitors,chlorpromazine,0
+MAO inhibitors,promethazine,0
+phenelzine,linezolid,0
+phenelzine,tranylcypromine,0
+phenelzine,isocarboxazid,0
+phenelzine,selegiline,0
+phenelzine,furazolidone,0
+phenelzine,quinidine,0
+phenelzine,amantadine,0
+phenelzine,antihistamines,0
+phenelzine,diphenhydramine,0
+phenelzine,anticholinergics,0
+phenelzine,potassium chloride,0
+phenelzine,antacids,0
+phenelzine,absorbent-type anti-diarrhea medicines,0
+phenelzine,kaolin,0
+phenelzine,pectin,0
+phenelzine,phenothiazines,0
+phenelzine,chlorpromazine,0
+phenelzine,promethazine,0
+linezolid,tranylcypromine,0
+linezolid,isocarboxazid,0
+linezolid,selegiline,0
+linezolid,furazolidone,0
+linezolid,quinidine,0
+linezolid,amantadine,0
+linezolid,antihistamines,0
+linezolid,diphenhydramine,0
+linezolid,anticholinergics,0
+linezolid,potassium chloride,0
+linezolid,antacids,0
+linezolid,absorbent-type anti-diarrhea medicines,0
+linezolid,kaolin,0
+linezolid,pectin,0
+linezolid,phenothiazines,0
+linezolid,chlorpromazine,0
+linezolid,promethazine,0
+tranylcypromine,isocarboxazid,0
+tranylcypromine,selegiline,0
+tranylcypromine,furazolidone,0
+tranylcypromine,quinidine,0
+tranylcypromine,amantadine,0
+tranylcypromine,antihistamines,0
+tranylcypromine,diphenhydramine,0
+tranylcypromine,anticholinergics,0
+tranylcypromine,potassium chloride,0
+tranylcypromine,antacids,0
+tranylcypromine,absorbent-type anti-diarrhea medicines,0
+tranylcypromine,kaolin,0
+tranylcypromine,pectin,0
+tranylcypromine,phenothiazines,0
+tranylcypromine,chlorpromazine,0
+tranylcypromine,promethazine,0
+isocarboxazid,selegiline,0
+isocarboxazid,furazolidone,0
+isocarboxazid,quinidine,0
+isocarboxazid,amantadine,0
+isocarboxazid,antihistamines,0
+isocarboxazid,diphenhydramine,0
+isocarboxazid,anticholinergics,0
+isocarboxazid,potassium chloride,0
+isocarboxazid,antacids,0
+isocarboxazid,absorbent-type anti-diarrhea medicines,0
+isocarboxazid,kaolin,0
+isocarboxazid,pectin,0
+isocarboxazid,phenothiazines,0
+isocarboxazid,chlorpromazine,0
+isocarboxazid,promethazine,0
+selegiline,furazolidone,0
+selegiline,quinidine,0
+selegiline,amantadine,0
+selegiline,antihistamines,0
+selegiline,diphenhydramine,0
+selegiline,anticholinergics,0
+selegiline,potassium chloride,0
+selegiline,antacids,0
+selegiline,absorbent-type anti-diarrhea medicines,0
+selegiline,kaolin,0
+selegiline,pectin,0
+selegiline,phenothiazines,0
+selegiline,chlorpromazine,0
+selegiline,promethazine,0
+furazolidone,quinidine,0
+furazolidone,amantadine,0
+furazolidone,antihistamines,0
+furazolidone,diphenhydramine,0
+furazolidone,anticholinergics,0
+furazolidone,potassium chloride,0
+furazolidone,antacids,0
+furazolidone,absorbent-type anti-diarrhea medicines,0
+furazolidone,kaolin,0
+furazolidone,pectin,0
+furazolidone,phenothiazines,0
+furazolidone,chlorpromazine,0
+furazolidone,promethazine,0
+quinidine,amantadine,0
+quinidine,diphenhydramine,0
+quinidine,anticholinergics,0
+quinidine,potassium chloride,0
+quinidine,antacids,0
+quinidine,absorbent-type anti-diarrhea medicines,0
+quinidine,kaolin,0
+quinidine,pectin,0
+quinidine,chlorpromazine,0
+quinidine,promethazine,0
+amantadine,diphenhydramine,0
+amantadine,anticholinergics,0
+amantadine,potassium chloride,0
+amantadine,antacids,0
+amantadine,absorbent-type anti-diarrhea medicines,0
+amantadine,kaolin,0
+amantadine,pectin,0
+amantadine,chlorpromazine,0
+amantadine,promethazine,0
+antihistamines,diphenhydramine,0
+antihistamines,anticholinergics,0
+antihistamines,potassium chloride,0
+antihistamines,antacids,0
+antihistamines,absorbent-type anti-diarrhea medicines,0
+antihistamines,kaolin,0
+antihistamines,pectin,0
+antihistamines,chlorpromazine,0
+antihistamines,promethazine,0
+diphenhydramine,anticholinergics,0
+diphenhydramine,potassium chloride,0
+diphenhydramine,antacids,0
+diphenhydramine,absorbent-type anti-diarrhea medicines,0
+diphenhydramine,kaolin,0
+diphenhydramine,pectin,0
+diphenhydramine,phenothiazines,0
+diphenhydramine,chlorpromazine,0
+diphenhydramine,promethazine,0
+anticholinergics,potassium chloride,0
+anticholinergics,antacids,0
+anticholinergics,absorbent-type anti-diarrhea medicines,0
+anticholinergics,kaolin,0
+anticholinergics,pectin,0
+anticholinergics,phenothiazines,0
+anticholinergics,chlorpromazine,0
+anticholinergics,promethazine,0
+potassium chloride,antacids,0
+potassium chloride,absorbent-type anti-diarrhea medicines,0
+potassium chloride,kaolin,0
+potassium chloride,pectin,0
+potassium chloride,phenothiazines,0
+potassium chloride,chlorpromazine,0
+potassium chloride,promethazine,0
+antacids,absorbent-type anti-diarrhea medicines,0
+antacids,kaolin,0
+antacids,pectin,0
+antacids,phenothiazines,0
+antacids,chlorpromazine,0
+antacids,promethazine,0
+absorbent-type anti-diarrhea medicines,kaolin,0
+absorbent-type anti-diarrhea medicines,pectin,0
+absorbent-type anti-diarrhea medicines,phenothiazines,0
+absorbent-type anti-diarrhea medicines,chlorpromazine,0
+absorbent-type anti-diarrhea medicines,promethazine,0
+kaolin,pectin,0
+kaolin,phenothiazines,0
+kaolin,chlorpromazine,0
+kaolin,promethazine,0
+pectin,phenothiazines,0
+pectin,chlorpromazine,0
+pectin,promethazine,0
+phenothiazines,chlorpromazine,0
+phenothiazines,promethazine,0
+chlorpromazine,promethazine,0
+SYMLIN,anticholinergic agents,1
+SYMLIN,atropine,1
+SYMLIN,alpha glucosidase inhibitors,1
+anticholinergic agents,atropine,0
+anticholinergic agents,alpha glucosidase inhibitors,0
+atropine,alpha glucosidase inhibitors,0
+analgesics,SYMLIN,1
+sulfonylureas,biguanides,0
+sulfonylureas,SYMLIN,0
+biguanides,SYMLIN,0
+SYMLIN,antidiabetic agents,0
+SYMLIN,Insulin,0
+SYMLIN,SYMLIN,0
+SYMLIN,human insulin,1
+Insulin,SYMLIN,0
+Insulin,human insulin,0
+SYMLIN,insulin,0
+antibiotics,sulfonamides,0
+antibiotics,ganglion blockers,1
+sulfonamides,ganglion blockers,1
+Mecamylamine,antihypertensive drugs,1
+Mecamylamine,alcohol,1
+antihypertensive drugs,alcohol,0
+metronidazole,coumarin,1
+metronidazole,warfarin,1
+coumarin,warfarin,0
+METROGEL,metronidazole,0
+metronidazole,metronidazole,0
+alcohol,phentermine hydrochloride,1
+short-acting beta adrenergic aerosol bronchodilators,MAXAIR AUTOHALER,1
+vigabatrin,carbamazepine,1
+vigabatrin,phenytoin,0
+Anticholinesterases,procaine hydrochloride,0
+Anticholinesterases,anticholinesterase agents,0
+Anticholinesterases,anticholinesterases,0
+procaine hydrochloride,anticholinesterase agents,1
+procaine hydrochloride,anticholinesterases,0
+procaine hydrochloride,procaine hydrochloride,0
+anticholinesterase agents,anticholinesterases,0
+anticholinesterase agents,procaine hydrochloride,0
+anticholinesterases,procaine hydrochloride,1
+CNS depressant,procaine hydrochloride,0
+CNS depressant,CNS depressant medications,0
+procaine hydrochloride,CNS depressant medications,1
+Hyaluronidase,Hyaluronidase,0
+Hyaluronidase,procaine hydrochloride,1
+Neuromuscular blocking agents,suxamethonium chloride,0
+Neuromuscular blocking agents,procaine hydrochloride,0
+Neuromuscular blocking agents,neuromuscular blocking agents,0
+suxamethonium chloride,procaine hydrochloride,0
+suxamethonium chloride,neuromuscular blocking agents,0
+procaine hydrochloride,neuromuscular blocking agents,1
+Sulfonamides,procaine hydrochloride,0
+Sulfonamides,sulfonamides,0
+Sulfonamides,sulfonamide,0
+procaine hydrochloride,sulfonamides,1
+procaine hydrochloride,sulfonamide,0
+sulfonamides,sulfonamide,0
+Acetazolamide,acetazolamide,0
+Acetazolamide,procaine hydrochloride,0
+Acetazolamide,procaine,0
+acetazolamide,procaine hydrochloride,1
+acetazolamide,procaine,0
+procaine hydrochloride,procaine,0
+SUTENT,ketoconazole,1
+SUTENT,itraconazole,1
+SUTENT,clarithromycin,1
+SUTENT,atazanavir,1
+SUTENT,indinavir,1
+SUTENT,nefazodone,1
+SUTENT,nelfinavir,1
+SUTENT,ritonavir,1
+SUTENT,saquinavir,1
+SUTENT,telithromycin,1
+SUTENT,voriconizole,1
+SUTENT,sunitinib,0
+ketoconazole,atazanavir,0
+ketoconazole,indinavir,0
+ketoconazole,nefazodone,0
+ketoconazole,nelfinavir,0
+ketoconazole,ritonavir,0
+ketoconazole,saquinavir,0
+ketoconazole,telithromycin,0
+ketoconazole,voriconizole,0
+ketoconazole,sunitinib,0
+itraconazole,atazanavir,0
+itraconazole,indinavir,0
+itraconazole,nefazodone,0
+itraconazole,nelfinavir,0
+itraconazole,ritonavir,0
+itraconazole,saquinavir,0
+itraconazole,telithromycin,0
+itraconazole,voriconizole,0
+itraconazole,sunitinib,0
+clarithromycin,atazanavir,0
+clarithromycin,nefazodone,0
+clarithromycin,saquinavir,0
+clarithromycin,telithromycin,0
+clarithromycin,voriconizole,0
+clarithromycin,sunitinib,0
+atazanavir,indinavir,0
+atazanavir,nefazodone,0
+atazanavir,nelfinavir,0
+atazanavir,ritonavir,0
+atazanavir,saquinavir,0
+atazanavir,telithromycin,0
+atazanavir,voriconizole,0
+atazanavir,sunitinib,0
+indinavir,nefazodone,0
+indinavir,ritonavir,0
+indinavir,saquinavir,0
+indinavir,telithromycin,0
+indinavir,voriconizole,0
+indinavir,sunitinib,0
+nefazodone,nelfinavir,0
+nefazodone,ritonavir,0
+nefazodone,saquinavir,0
+nefazodone,telithromycin,0
+nefazodone,voriconizole,0
+nefazodone,sunitinib,0
+nelfinavir,ritonavir,0
+nelfinavir,saquinavir,0
+nelfinavir,telithromycin,0
+nelfinavir,voriconizole,0
+nelfinavir,sunitinib,0
+ritonavir,saquinavir,0
+ritonavir,telithromycin,0
+ritonavir,voriconizole,0
+ritonavir,sunitinib,0
+saquinavir,telithromycin,0
+saquinavir,voriconizole,0
+saquinavir,sunitinib,0
+telithromycin,voriconizole,0
+telithromycin,sunitinib,0
+voriconizole,sunitinib,0
+SUTENT,dexamethasone,1
+SUTENT,phenytoin,1
+SUTENT,carbamazepine,1
+SUTENT,rifampin,1
+SUTENT,rifabutin,1
+SUTENT,rifapentin,1
+SUTENT,phenobarbital,1
+dexamethasone,phenytoin,0
+dexamethasone,carbamazepine,0
+dexamethasone,rifampin,0
+dexamethasone,rifabutin,0
+dexamethasone,rifapentin,0
+dexamethasone,phenobarbital,0
+dexamethasone,sunitinib,0
+phenytoin,rifabutin,0
+phenytoin,rifapentin,0
+phenytoin,phenobarbital,0
+phenytoin,sunitinib,0
+carbamazepine,rifampin,0
+carbamazepine,rifabutin,0
+carbamazepine,rifapentin,0
+carbamazepine,phenobarbital,0
+carbamazepine,sunitinib,0
+rifampin,rifapentin,0
+rifampin,phenobarbital,0
+rifampin,sunitinib,0
+rifabutin,rifapentin,0
+rifabutin,phenobarbital,0
+rifabutin,sunitinib,0
+rifapentin,phenobarbital,0
+rifapentin,sunitinib,0
+phenobarbital,sunitinib,0
+phenobarbital,corticosteroids,1
+phenobarbital,corticosteroid,1
+phenytoin,corticosteroids,0
+phenytoin,corticosteroid,1
+rifampin,corticosteroids,1
+rifampin,corticosteroid,1
+corticosteroids,corticosteroid,0
+troleandomycin,corticosteroids,1
+ketoconazole,corticosteroids,1
+Corticosteroids,aspirin,1
+salicylate,corticosteroid,1
+anticoagulants,corticosteroids,1
+Vitamin B1,Thiamine,0
+Vitamin B1,Loop Diuretics,1
+Vitamin B1,Contraceptives,1
+Vitamin B1,Stavudine,1
+Vitamin B1,Tricyclic Antidepressants,1
+Thiamine,Loop Diuretics,1
+Thiamine,Contraceptives,1
+Thiamine,Stavudine,1
+Thiamine,Tricyclic Antidepressants,1
+Loop Diuretics,Contraceptives,0
+Loop Diuretics,Stavudine,0
+Loop Diuretics,Tricyclic Antidepressants,0
+Contraceptives,Stavudine,0
+Contraceptives,Tricyclic Antidepressants,0
+Stavudine,Tricyclic Antidepressants,0
+Exelon,rivastigmine tartrate,0
+Exelon,Rivastigmine,0
+rivastigmine tartrate,Rivastigmine,0
+rivastigmine,digoxin,0
+rivastigmine,warfarin,0
+rivastigmine,diazepam,0
+rivastigmine,fluoxetine,0
+digoxin,diazepam,0
+digoxin,fluoxetine,0
+warfarin,diazepam,0
+warfarin,fluoxetine,0
+diazepam,fluoxetine,0
+warfarin,Exelon,0
+Exelon,rivastigmine,0
+rivastigmine,antacids,0
+rivastigmine,antihypertensives,0
+rivastigmine,calcium channel blockers,0
+rivastigmine,antidiabetics,0
+rivastigmine,nonsteroidal anti-inflammatory drugs,0
+rivastigmine,estrogens,0
+rivastigmine,salicylate analgesics,0
+rivastigmine,antianginals,0
+rivastigmine,antihistamines,0
+antacids,antihypertensives,0
+antacids,calcium channel blockers,0
+antacids,antidiabetics,0
+antacids,nonsteroidal anti-inflammatory drugs,0
+antacids,estrogens,0
+antacids,salicylate analgesics,0
+antacids,antianginals,0
+antacids,antihistamines,0
+antihypertensives,calcium channel blockers,0
+antihypertensives,antidiabetics,0
+antihypertensives,nonsteroidal anti-inflammatory drugs,0
+antihypertensives,estrogens,0
+antihypertensives,salicylate analgesics,0
+antihypertensives,antianginals,0
+antihypertensives,antihistamines,0
+calcium channel blockers,antidiabetics,0
+calcium channel blockers,nonsteroidal anti-inflammatory drugs,0
+calcium channel blockers,estrogens,0
+calcium channel blockers,salicylate analgesics,0
+calcium channel blockers,antianginals,0
+calcium channel blockers,antihistamines,0
+antidiabetics,nonsteroidal anti-inflammatory drugs,0
+antidiabetics,estrogens,0
+antidiabetics,salicylate analgesics,0
+antidiabetics,antianginals,0
+antidiabetics,antihistamines,0
+nonsteroidal anti-inflammatory drugs,estrogens,0
+nonsteroidal anti-inflammatory drugs,salicylate analgesics,0
+nonsteroidal anti-inflammatory drugs,antianginals,0
+nonsteroidal anti-inflammatory drugs,antihistamines,0
+estrogens,salicylate analgesics,0
+estrogens,antianginals,0
+estrogens,antihistamines,0
+salicylate analgesics,antianginals,0
+salicylate analgesics,antihistamines,0
+antianginals,antihistamines,0
+Anticholinergics,cholinesterase inhibitors,0
+Anticholinergics,anticholinergic medications,0
+cholinesterase inhibitors,anticholinergic medications,1
+Cholinomimetics,Cholinesterase Inhibitors,0
+Cholinomimetics,cholinesterase inhibitors,0
+Cholinomimetics,succinylcholine,0
+Cholinomimetics,neuromuscular blocking agents,0
+Cholinomimetics,cholinergic agonists,0
+Cholinomimetics,bethanechol,0
+Cholinesterase Inhibitors,cholinesterase inhibitors,0
+Cholinesterase Inhibitors,succinylcholine,0
+Cholinesterase Inhibitors,neuromuscular blocking agents,0
+Cholinesterase Inhibitors,cholinergic agonists,0
+Cholinesterase Inhibitors,bethanechol,0
+cholinesterase inhibitors,succinylcholine,1
+cholinesterase inhibitors,neuromuscular blocking agents,1
+cholinesterase inhibitors,cholinergic agonists,1
+cholinesterase inhibitors,bethanechol,1
+succinylcholine,neuromuscular blocking agents,0
+succinylcholine,cholinergic agonists,0
+succinylcholine,bethanechol,0
+neuromuscular blocking agents,cholinergic agonists,0
+neuromuscular blocking agents,bethanechol,0
+cholinergic agonists,bethanechol,0
+Ketoconazole,ketoconazole,0
+Ketoconazole,terfenadine,0
+ketoconazole,terfenadine,0
+Itraconazole,terfenadine,0
+Itraconazole,itraconazole,0
+terfenadine,itraconazole,0
+itraconazole,itraconazole,0
+itraconazole,terfenadine,0
+azole-type antifungal agents,fluconazole,0
+azole-type antifungal agents,metronidazole,0
+azole-type antifungal agents,miconazole,0
+azole-type antifungal agents,ketoconazole,0
+azole-type antifungal agents,itraconazole,0
+azole-type antifungal agents,terfenadine,1
+fluconazole,metronidazole,0
+fluconazole,miconazole,0
+fluconazole,ketoconazole,0
+fluconazole,itraconazole,0
+fluconazole,terfenadine,1
+metronidazole,miconazole,0
+metronidazole,ketoconazole,0
+metronidazole,itraconazole,0
+metronidazole,terfenadine,1
+miconazole,ketoconazole,0
+miconazole,itraconazole,0
+miconazole,terfenadine,1
+Macrolides,erythromycin,0
+Macrolides,clarithromycin,0
+Macrolides,terfenadine,0
+Macrolides,ketoconazole,0
+erythromycin,terfenadine,0
+clarithromycin,terfenadine,0
+terfenadine,ketoconazole,0
+terfenadine,clarithromycin,1
+terfenadine,erythromycin,1
+terfenadine,troleandomycin,1
+terfenadine,macrolide antibiotics,1
+terfenadine,azithromycin,0
+clarithromycin,erythromycin,0
+clarithromycin,troleandomycin,0
+clarithromycin,macrolide antibiotics,0
+clarithromycin,azithromycin,0
+erythromycin,macrolide antibiotics,0
+erythromycin,azithromycin,0
+troleandomycin,terfenadine,0
+troleandomycin,macrolide antibiotics,0
+troleandomycin,azithromycin,0
+macrolide antibiotics,azithromycin,0
+NEXAVAR,irinotecan,1
+NEXAVAR,doxorubicin,1
+doxorubicin,NEXAVAR,1
+methadone,PEG-Intron,1
+PEG-Intron,methadone,0
+MEXITIL,mexiletine,0
+mexiletine,fluvoxamine,1
+propafenone,mexiletine,0
+mexiletine,propafenone,0
+propafenone,propafenone,0
+mexiletine,mexiletine,0
+Mexitil,antihypertensive,0
+Mexitil,anticoagulant drugs,0
+antihypertensive,anticoagulant drugs,0
+antiarrhythmics,quinidine,0
+antiarrhythmics,propranolol,0
+quinidine,propranolol,0
+phenytoin,Mexitil,0
+rifampin,Mexitil,0
+phenobarbital,Mexitil,0
+Mexitil,Mexitil,0
+benzodiazepines,Mexitil,0
+Mexitil,digoxin,0
+Mexitil,diuretics,0
+Mexitil,propranolol,0
+digoxin,diuretics,0
+digoxin,propranolol,0
+diuretics,propranolol,0
+cimetidine,Mexitil,0
+Mexitil,magnesium-aluminum hydroxide,0
+digoxin,magnesium-aluminum hydroxide,0
+digoxin,Mexitil,0
+magnesium-aluminum hydroxide,Mexitil,0
+magnesium-aluminum hydroxide,digoxin,1
+Mexitil,theophylline,0
+theophylline,theophylline,0
+Mexitil,Theophylline,0
+Theophylline,Mexitil,0
+theophylline,Mexitil,0
+caffeine,Mexitil,1
+Alcohol,alcohol,0
+Alcohol,pentazocine,0
+alcohol,pentazocine,1
+Thiabendazole,theophylline,1
+thiabendazole,xanthine derivatives,1
+Pyrimethamine,sulfonamides,0
+Pyrimethamine,quinine,0
+Pyrimethamine,antimalarials,0
+Pyrimethamine,antibiotics,0
+sulfonamides,quinine,0
+sulfonamides,antimalarials,0
+sulfonamides,antibiotics,0
+quinine,antimalarials,0
+quinine,antibiotics,0
+antimalarials,antibiotics,0
+Folinic acid,leucovorin,0
+lorazepam,pyrimethamine,1
+Posicor,terfenadine,1
+Posicor,astemizole,1
+Posicor,cisapride,1
+Posicor,cyclosporine,1
+Posicor,tricyclic antidepressants,1
+terfenadine,astemizole,0
+terfenadine,cisapride,0
+terfenadine,cyclosporine,0
+terfenadine,tricyclic antidepressants,0
+astemizole,cisapride,0
+astemizole,cyclosporine,0
+astemizole,tricyclic antidepressants,0
+cisapride,cyclosporine,0
+cisapride,tricyclic antidepressants,0
+cyclosporine,tricyclic antidepressants,0
+Trilostane,aminoglutethimide,1
+Trilostane,mitotane,1
+aminoglutethimide,mitotane,0
+probenecid,ALIMTA,1
+ibuprofen,ALIMTA,1
+ibuprofen,ibuprofen,0
+ALIMTA,ibuprofen,0
+ALIMTA,ALIMTA,0
+NSAIDs,ALIMTA,1
+ALIMTA,NSAIDs,0
+NSAIDs,NSAIDs,0
+Ritalin,guanethidine,1
+Ritalin,coumarin anticoagulants,1
+Ritalin,anticonvulsants,1
+Ritalin,phenobarbital,1
+Ritalin,diphenylhydantoin,1
+Ritalin,primidone,1
+Ritalin,phenylbutazone,1
+Ritalin,tricyclic drugs,1
+Ritalin,imipramine,1
+Ritalin,clomipramine,1
+Ritalin,desipramine,1
+coumarin anticoagulants,anticonvulsants,0
+coumarin anticoagulants,phenobarbital,0
+coumarin anticoagulants,diphenylhydantoin,0
+coumarin anticoagulants,primidone,0
+coumarin anticoagulants,phenylbutazone,0
+coumarin anticoagulants,tricyclic drugs,0
+coumarin anticoagulants,imipramine,0
+coumarin anticoagulants,clomipramine,0
+coumarin anticoagulants,desipramine,0
+anticonvulsants,phenobarbital,0
+anticonvulsants,diphenylhydantoin,0
+anticonvulsants,primidone,0
+anticonvulsants,phenylbutazone,0
+anticonvulsants,tricyclic drugs,0
+anticonvulsants,imipramine,0
+anticonvulsants,clomipramine,0
+anticonvulsants,desipramine,0
+phenobarbital,diphenylhydantoin,0
+phenobarbital,primidone,0
+phenobarbital,phenylbutazone,0
+phenobarbital,tricyclic drugs,0
+phenobarbital,imipramine,0
+phenobarbital,clomipramine,0
+phenobarbital,desipramine,0
+diphenylhydantoin,primidone,0
+diphenylhydantoin,phenylbutazone,0
+diphenylhydantoin,tricyclic drugs,0
+diphenylhydantoin,imipramine,0
+diphenylhydantoin,clomipramine,0
+diphenylhydantoin,desipramine,0
+primidone,phenylbutazone,0
+primidone,tricyclic drugs,0
+primidone,imipramine,0
+primidone,clomipramine,0
+primidone,desipramine,0
+phenylbutazone,tricyclic drugs,0
+phenylbutazone,imipramine,0
+phenylbutazone,clomipramine,0
+phenylbutazone,desipramine,0
+tricyclic drugs,imipramine,0
+tricyclic drugs,clomipramine,0
+tricyclic drugs,desipramine,0
+methylphenidate,clonidine,0
+methylphenidate,alpha-2 agonists,0
+clonidine,alpha-2 agonists,0
+Coumarin-Derivative Anticoagulants,ZOLINZA,0
+Coumarin-Derivative Anticoagulants,coumarin-derivative anticoagulants,0
+ZOLINZA,coumarin-derivative anticoagulants,1
+ZOLINZA,coumarin derivatives,1
+HDAC Inhibitors,ZOLINZA,0
+HDAC Inhibitors,HDAC inhibitors,0
+HDAC Inhibitors,valproic acid,0
+ZOLINZA,HDAC inhibitors,1
+ZOLINZA,valproic acid,1
+HDAC inhibitors,valproic acid,0
+ELOXATIN,5-FU,0
+5-FU,ELOXATIN,1
+Alcohol,XENICAL,0
+Alcohol,orlistat,0
+XENICAL,alcohol,0
+XENICAL,orlistat,0
+alcohol,alcohol,0
+alcohol,orlistat,0
+orlistat,orlistat,0
+Cyclosporine,XENICAL,0
+Cyclosporine,cyclosporine,0
+XENICAL,cyclosporine,1
+XENICAL,XENICAL,0
+cyclosporine,cyclosporine,0
+cyclosporine,XENICAL,0
+Digoxin,XENICAL,0
+XENICAL,digoxin,0
+Fat-soluble Vitamin Supplements,beta-carotene,0
+Fat-soluble Vitamin Supplements,XENICAL,0
+beta-carotene,XENICAL,1
+XENICAL,vitamin E acetate,1
+orlistat,vitamin D,0
+orlistat,vitamin A,0
+orlistat,vitamin K,0
+vitamin D,vitamin A,0
+vitamin D,vitamin K,0
+vitamin A,vitamin K,0
+Glyburide,orlistat,0
+Glyburide,glyburide,0
+orlistat,glyburide,0
+Nifedipine,XENICAL,0
+XENICAL,nifedipine,0
+Contraceptives,XENICAL,0
+Contraceptives,contraceptives,0
+XENICAL,contraceptives,0
+Phenytoin,XENICAL,0
+Phenytoin,phenytoin,0
+XENICAL,phenytoin,0
+Pravastatin,XENICAL,0
+Pravastatin,pravastatin,0
+XENICAL,pravastatin,0
+Warfarin,XENICAL,0
+Warfarin,warfarin,0
+XENICAL,warfarin,0
+vitamin K,XENICAL,0
+vitamin K,warfarin,0
+warfarin,XENICAL,1
+terbinafine,tolbutamide,0
+terbinafine,ethinylestradiol,0
+terbinafine,ethoxycoumarin,0
+terbinafine,cyclosporine,0
+tolbutamide,ethinylestradiol,0
+tolbutamide,ethoxycoumarin,0
+tolbutamide,cyclosporine,0
+ethinylestradiol,ethoxycoumarin,0
+ethinylestradiol,cyclosporine,0
+ethoxycoumarin,cyclosporine,0
+tricyclic antidepressants,selective serotonin reuptake inhibitors,0
+tricyclic antidepressants,SSRIs,0
+tricyclic antidepressants,monoamine oxidase inhibitors (MAO-Is) Type B,0
+selective serotonin reuptake inhibitors,SSRIs,0
+selective serotonin reuptake inhibitors,monoamine oxidase inhibitors (MAO-Is) Type B,0
+SSRIs,monoamine oxidase inhibitors (MAO-Is) Type B,0
+terbinafine,antipyrine,0
+terbinafine,digoxin,0
+Terbinafine,caffeine,1
+Terbinafine,cyclosporine,0
+terbinafine,warfarin,1
+terbinafine,LAMISIL,0
+warfarin,LAMISIL,0
+Terbinafine,rifampin,1
+Terbinafine,cimetidine,1
+rifampin,cimetidine,0
+contraceptives,hypoglycemics,0
+contraceptives,theophyllines,0
+contraceptives,phenytoins,0
+contraceptives,thiazide diuretics,0
+contraceptives,calcium channel blockers,0
+hypoglycemics,theophyllines,0
+hypoglycemics,phenytoins,0
+hypoglycemics,thiazide diuretics,0
+hypoglycemics,beta blockers,0
+hypoglycemics,calcium channel blockers,0
+theophyllines,phenytoins,0
+theophyllines,thiazide diuretics,0
+theophyllines,beta blockers,0
+theophyllines,calcium channel blockers,0
+phenytoins,thiazide diuretics,0
+phenytoins,beta blockers,0
+phenytoins,calcium channel blockers,0
+thiazide diuretics,beta blockers,0
+thiazide diuretics,calcium channel blockers,0
+beta blockers,calcium channel blockers,0
+ASPIRIN,SALICYLATE DRUGS,0
+ASPIRIN,DISALCID,1
+ASPIRIN,SALICYLIC ACID,0
+SALICYLATE DRUGS,DISALCID,1
+SALICYLATE DRUGS,SALICYLIC ACID,0
+DISALCID,SALICYLIC ACID,0
+Salicylates,anticoagulant drugs,1
+Salicylates,antidiabetic drugs,1
+Salicylate,penicillin,1
+Salicylate,thiopental,1
+Salicylate,thyroxine,1
+Salicylate,triiodothyronine,1
+Salicylate,phenytoin,1
+Salicylate,sulfinpyrazone,1
+Salicylate,naproxen,1
+Salicylate,warfarin,1
+Salicylate,methotrexate,1
+Salicylate,corticosteroids,1
+penicillin,thiopental,0
+penicillin,thyroxine,0
+penicillin,triiodothyronine,0
+penicillin,phenytoin,0
+penicillin,sulfinpyrazone,0
+penicillin,naproxen,0
+penicillin,warfarin,0
+penicillin,methotrexate,0
+penicillin,corticosteroids,0
+thiopental,thyroxine,0
+thiopental,triiodothyronine,0
+thiopental,phenytoin,0
+thiopental,sulfinpyrazone,0
+thiopental,naproxen,0
+thiopental,warfarin,0
+thiopental,methotrexate,0
+thiopental,corticosteroids,0
+thyroxine,triiodothyronine,0
+thyroxine,phenytoin,0
+thyroxine,sulfinpyrazone,0
+thyroxine,naproxen,0
+thyroxine,warfarin,0
+thyroxine,methotrexate,0
+thyroxine,corticosteroids,0
+triiodothyronine,phenytoin,0
+triiodothyronine,sulfinpyrazone,0
+triiodothyronine,naproxen,0
+triiodothyronine,warfarin,0
+triiodothyronine,methotrexate,0
+triiodothyronine,corticosteroids,0
+phenytoin,sulfinpyrazone,0
+phenytoin,naproxen,0
+phenytoin,methotrexate,0
+sulfinpyrazone,naproxen,0
+sulfinpyrazone,warfarin,0
+sulfinpyrazone,methotrexate,0
+sulfinpyrazone,corticosteroids,0
+naproxen,methotrexate,0
+naproxen,corticosteroids,0
+warfarin,corticosteroids,0
+methotrexate,corticosteroids,0
+Pindolol,antihypertensive agents,0
+Pindolol,hydrochlorothiazide,0
+Pindolol,hydralazine,0
+Pindolol,guanethidine,0
+antihypertensive agents,hydrochlorothiazide,0
+antihypertensive agents,hydralazine,0
+antihypertensive agents,guanethidine,0
+hydrochlorothiazide,hydralazine,0
+hydrochlorothiazide,guanethidine,0
+hydralazine,guanethidine,0
+Pindolol,thioridazine,1
+mifepristone,ketoconazole,0
+mifepristone,itraconazole,0
+mifepristone,erythromycin,0
+mifepristone,mifepristone,0
+ketoconazole,mifepristone,1
+itraconazole,mifepristone,1
+erythromycin,mifepristone,1
+rifampin,dexamethasone,0
+anticonvulsants,phenytoin,0
+anticonvulsants,carbamazepine,0
+anticonvulsants,mifepristone,0
+phenytoin,mifepristone,0
+phenobarbital,carbamazepine,0
+phenobarbital,mifepristone,0
+carbamazepine,mifepristone,0
+heparin,abciximab,0
+heparin,Retavase,1
+vitamin K antagonists,aspirin,0
+vitamin K antagonists,abciximab,0
+vitamin K antagonists,Retavase,1
+aspirin,dipyridamole,0
+aspirin,abciximab,0
+aspirin,Retavase,1
+dipyridamole,abciximab,0
+dipyridamole,Retavase,1
+abciximab,Retavase,1
+selegiline,meperidine,1
+meperidine,MAOIs,1
+tricyclic antidepressants,ELDEPRYL,0
+ELDEPRYL,selective serotonin reuptake inhibitors,0
+ELDEPRYL,ELDEPRYL,0
+selective serotonin reuptake inhibitors,ELDEPRYL,1
+selegiline,sympathomimetic medication,1
+selegiline,ephedrine,1
+sympathomimetic medication,ephedrine,0
+ZADAXIN,immunomodulating drugs,1
+DEMSER,phenothiazines,1
+DEMSER,haloperidol,1
+phenothiazines,haloperidol,0
+DEMSER,alcohol,1
+DEMSER,CNS depressants,1
+alcohol,CNS depressants,0
+Metopirone,phenytoin,1
+Metopirone,acetaminophen,1
+acetaminophen,acetaminophen,0
+Dopamine antagonists,thioxanthines,0
+Dopamine antagonists,Permax,1
+neuroleptics,thioxanthines,0
+neuroleptics,Permax,1
+neuroleptics,dopamine agonist,0
+phenothiazines,thioxanthines,0
+phenothiazines,Permax,1
+phenothiazines,dopamine agonist,0
+butyrophenones,thioxanthines,0
+butyrophenones,Permax,1
+butyrophenones,dopamine agonist,0
+thioxanthines,metoclopramide,0
+thioxanthines,Permax,1
+thioxanthines,dopamine agonist,0
+metoclopramide,Permax,1
+metoclopramide,dopamine agonist,0
+Permax,dopamine agonist,0
+pergolide mesylate,pergolide mesylate,0
+ketoconazole,retapamulin,1
+retapamulin,retapamulin,0
+retapamulin,ketoconazole,0
+ALTABAX,retapamulin,0
+ketoconazole,paricalcitol,0
+paricalcitol,paricalcitol,0
+paricalcitol,ketoconazole,1
+paricalcitol,atazanavir,1
+paricalcitol,clarithromycin,1
+paricalcitol,indinavir,1
+paricalcitol,itraconazole,1
+paricalcitol,nefazodone,1
+paricalcitol,nelfinavir,1
+paricalcitol,ritonavir,1
+paricalcitol,saquinavir,1
+paricalcitol,telithromycin,1
+paricalcitol,voriconazole,1
+atazanavir,clarithromycin,0
+atazanavir,itraconazole,0
+atazanavir,voriconazole,0
+nefazodone,voriconazole,0
+saquinavir,voriconazole,0
+telithromycin,voriconazole,0
+Zemplar,ketoconazole,1
+fat-soluble vitamins,cholestyramine,1
+fat-soluble vitamins,Zemplar,0
+cholestyramine,Zemplar,1
+aspirin,methazolamide,1
+aspirin,carbonic anhydrase inhibitors,1
+methazolamide,aspirin,0
+methazolamide,carbonic anhydrase inhibitors,0
+FLOMAX,alpha-adrenergic blocking agents,1
+cimetidine,FLOMAX,0
+FLOMAX,cimetidine,1
+tamsulosin HCI,warfarin,0
+warfarin,FLOMAX,1
+glucocorticoid,glucocorticoid,0
+GH,antipyrine,1
+GH,corticosteroids,1
+GH,sex steroids,1
+GH,anticonvulsants,1
+GH,cyclosporin,1
+corticosteroids,sex steroids,0
+corticosteroids,anticonvulsants,0
+corticosteroids,cyclosporin,0
+sex steroids,anticonvulsants,0
+sex steroids,cyclosporin,0
+anticonvulsants,cyclosporin,0
+oxycodone hydrochloride,CNS depressants,1
+Central Nervous System Depressants,morphine,0
+Central Nervous System Depressants,CNS depressants,0
+Central Nervous System Depressants,alcohol,0
+Central Nervous System Depressants,sedatives,0
+Central Nervous System Depressants,antihistaminics,0
+Central Nervous System Depressants,psychotropic drugs,0
+morphine,CNS depressants,1
+morphine,alcohol,1
+morphine,sedatives,1
+morphine,antihistaminics,1
+morphine,psychotropic drugs,1
+CNS depressants,sedatives,0
+CNS depressants,antihistaminics,0
+CNS depressants,psychotropic drugs,0
+alcohol,antihistaminics,0
+alcohol,psychotropic drugs,0
+sedatives,antihistaminics,0
+sedatives,psychotropic drugs,0
+antihistaminics,psychotropic drugs,0
+neuroleptics,morphine,1
+Mixed Agonist/Antagonist Opioid Analgesics,Agonist/antagonist analgesics,0
+Mixed Agonist/Antagonist Opioid Analgesics,pentazocine,0
+Mixed Agonist/Antagonist Opioid Analgesics,nalbuphine,0
+Mixed Agonist/Antagonist Opioid Analgesics,butorphanol,0
+Mixed Agonist/Antagonist Opioid Analgesics,buprenorphine,0
+Mixed Agonist/Antagonist Opioid Analgesics,opioid agonist analgesic,0
+Agonist/antagonist analgesics,pentazocine,0
+Agonist/antagonist analgesics,nalbuphine,0
+Agonist/antagonist analgesics,butorphanol,0
+Agonist/antagonist analgesics,buprenorphine,0
+Agonist/antagonist analgesics,opioid agonist analgesic,1
+pentazocine,nalbuphine,0
+pentazocine,butorphanol,0
+pentazocine,buprenorphine,0
+pentazocine,opioid agonist analgesic,1
+nalbuphine,butorphanol,0
+nalbuphine,buprenorphine,0
+nalbuphine,opioid agonist analgesic,1
+butorphanol,buprenorphine,0
+butorphanol,opioid agonist analgesic,1
+buprenorphine,opioid agonist analgesic,1
+ergotamine,ergot-type medications,0
+ergotamine,dihydroergotamine,0
+ergotamine,methysergide,0
+ergotamine,sumatriptan,1
+ergot-type medications,dihydroergotamine,0
+ergot-type medications,methysergide,0
+ergot-type medications,sumatriptan,1
+dihydroergotamine,methysergide,0
+dihydroergotamine,sumatriptan,1
+methysergide,sumatriptan,1
+MAO-A inhibitors,sumatriptan,0
+sumatriptan succinate,MAO-A inhibitors,1
+sumatriptan succinate,Selective serotonin reuptake inhibitors,0
+sumatriptan succinate,SSRIs,0
+sumatriptan succinate,fluoxetine,0
+sumatriptan succinate,fluvoxamine,0
+sumatriptan succinate,paroxetine,0
+sumatriptan succinate,sertraline,0
+sumatriptan succinate,sumatriptan,0
+MAO-A inhibitors,Selective serotonin reuptake inhibitors,0
+MAO-A inhibitors,SSRIs,0
+MAO-A inhibitors,fluoxetine,0
+MAO-A inhibitors,fluvoxamine,0
+MAO-A inhibitors,paroxetine,0
+MAO-A inhibitors,sertraline,0
+Selective serotonin reuptake inhibitors,SSRIs,0
+Selective serotonin reuptake inhibitors,fluoxetine,0
+Selective serotonin reuptake inhibitors,fluvoxamine,0
+Selective serotonin reuptake inhibitors,paroxetine,0
+Selective serotonin reuptake inhibitors,sertraline,0
+Selective serotonin reuptake inhibitors,sumatriptan,1
+SSRIs,fluoxetine,0
+SSRIs,fluvoxamine,0
+SSRIs,paroxetine,0
+SSRIs,sertraline,0
+SSRIs,sumatriptan,1
+fluoxetine,paroxetine,0
+fluoxetine,sertraline,0
+fluoxetine,sumatriptan,1
+fluvoxamine,paroxetine,0
+fluvoxamine,sertraline,0
+fluvoxamine,sumatriptan,1
+paroxetine,sertraline,0
+paroxetine,sumatriptan,1
+sertraline,sumatriptan,1
+sumatriptan,SSRI,1
+Antacids,Myfortic,0
+Antacids,magnesium,0
+Antacids,aluminum,0
+Antacids,antacids,0
+Myfortic,magnesium,1
+Myfortic,aluminum,1
+Myfortic,antacids,1
+Myfortic,Myfortic,0
+magnesium,aluminum,0
+magnesium,antacids,0
+magnesium,Myfortic,0
+aluminum,antacids,0
+aluminum,Myfortic,0
+antacids,Myfortic,0
+Cyclosporine,Myfortic,0
+cyclosporine,Myfortic,0
+Acyclovir,Ganciclovir,0
+Acyclovir,Myfortic,0
+Ganciclovir,Myfortic,0
+acyclovir,ganciclovir,0
+acyclovir,MPAG,0
+ganciclovir,MPAG,0
+Azathioprine,Mycophenolate Mofetil,0
+Azathioprine,azathioprine,0
+Azathioprine,mycophenolate mofetil,0
+Azathioprine,Myfortic,0
+Mycophenolate Mofetil,azathioprine,0
+Mycophenolate Mofetil,mycophenolate mofetil,0
+Mycophenolate Mofetil,Myfortic,0
+azathioprine,mycophenolate mofetil,0
+azathioprine,Myfortic,0
+azathioprine,azathioprine,0
+mycophenolate mofetil,Myfortic,0
+mycophenolate mofetil,azathioprine,0
+mycophenolate mofetil,mycophenolate mofetil,0
+Myfortic,azathioprine,1
+Myfortic,mycophenolate mofetil,1
+Cholestyramine,MPA,0
+Cholestyramine,mycophenolate mofetil,0
+MPA,mycophenolate mofetil,0
+Myfortic,cholestyramine,1
+Myfortic,activated charcoal,1
+cholestyramine,activated charcoal,0
+cholestyramine,Myfortic,0
+activated charcoal,Myfortic,0
+Contraceptives,Myfortic,0
+Myfortic,contraceptives,0
+levonorgesterol,mycophenolate mofetil,1
+contraceptives,Myfortic,1
+Live Vaccines,Myfortic,0
+Live Vaccines,live attenuated vaccines,0
+Myfortic,live attenuated vaccines,1
+MPAG,MPA,0
+coumarin-type anticoagulants,coumarin-type anticoagulants,0
+coumarin-type anticoagulants,FELDENE,0
+FELDENE,FELDENE,0
+FELDENE,coumarin-type anticoagulants,1
+piroxicam,FELDENE,0
+piroxicam,aspirin,0
+piroxicam,antacids,0
+piroxicam,piroxicam,0
+piroxicam,Nonsteroidal anti-inflammatory agents,0
+piroxicam,lithium,0
+FELDENE,aspirin,1
+FELDENE,antacids,0
+FELDENE,piroxicam,0
+FELDENE,Nonsteroidal anti-inflammatory agents,0
+FELDENE,lithium,1
+aspirin,antacids,0
+aspirin,piroxicam,0
+aspirin,Nonsteroidal anti-inflammatory agents,0
+aspirin,FELDENE,0
+aspirin,lithium,0
+antacids,piroxicam,0
+antacids,Nonsteroidal anti-inflammatory agents,0
+antacids,FELDENE,0
+antacids,lithium,0
+Nonsteroidal anti-inflammatory agents,FELDENE,0
+Nonsteroidal anti-inflammatory agents,lithium,1
+lithium,FELDENE,1
+insulin,hypoglycemic,0
+insulin,SOMAVERT,1
+hypoglycemic,SOMAVERT,1
+opioids,pegvisomant,1
+pegvisomant,opioids,0
+Digoxin,sitagliptin,0
+digoxin,sitagliptin,1
+digoxin,JANUVIA,0
+ascorbic acid,bishydroxycoumarin,1
+Vindesine,Phenytoin,1
+Vindesine,Live virus vaccines,1
+Vindesine,vaccine,0
+Vindesine,Mitomycin-C,1
+Vindesine,Killed virus vaccines,1
+Phenytoin,Live virus vaccines,0
+Phenytoin,vaccine,0
+Phenytoin,Mitomycin-C,0
+Phenytoin,Killed virus vaccines,0
+Live virus vaccines,vaccine,0
+Live virus vaccines,Mitomycin-C,0
+Live virus vaccines,Killed virus vaccines,0
+vaccine,Mitomycin-C,0
+vaccine,Killed virus vaccines,0
+vaccine,vaccine,0
+Mitomycin-C,Killed virus vaccines,0
+Mitomycin-C,vaccine,0
+Killed virus vaccines,vaccine,0
+Diuretics,ACE inhibitors,0
+UNIVASC,UNIVASC,0
+UNIVASC,moexpril,0
+Potassium,UNIVASC,0
+Potassium-Sparing Diuretics,UNIVASC,0
+potassium-sparing diuretics,ACE inhibitors,1
+spironolactone,ACE inhibitors,1
+triamterene,amiloride,0
+triamterene,ACE inhibitors,1
+amiloride,ACE inhibitors,1
+potassium,ACE inhibitors,1
+Anticoagulants,warfarin,0
+Anticoagulants,anticoagulant,0
+warfarin,anticoagulant,0
+Lithium,ACE inhibitors,0
+lithium,ACE inhibitors,0
+ACE inhibitors,lithium,1
+UNIVASC,hydrochlorothiazide,0
+UNIVASC,digoxin,0
+UNIVASC,cimetidine,0
+hydrochlorothiazide,digoxin,0
+hydrochlorothiazide,cimetidine,0
+digoxin,cimetidine,0
+UNIVASC,calcium-channel-blocking agents,0
+UNIVASC,diuretics,0
+UNIVASC,H2 blockers,0
+UNIVASC,hypoglycemic agents,0
+calcium-channel-blocking agents,diuretics,0
+calcium-channel-blocking agents,H2 blockers,0
+calcium-channel-blocking agents,digoxin,0
+calcium-channel-blocking agents,hypoglycemic agents,0
+diuretics,H2 blockers,0
+diuretics,digoxin,0
+diuretics,hypoglycemic agents,0
+H2 blockers,digoxin,0
+H2 blockers,hypoglycemic agents,0
+digoxin,hypoglycemic agents,0
+Melatonin,aspirin,1
+Melatonin,NSAIDs,1
+Melatonin,melatonin,0
+Melatonin,fluvoxamine,1
+Melatonin,beta blockers,1
+Melatonin,fluoxetine,1
+Melatonin,progestin,0
+Melatonin,benzodiazepenes,1
+Melatonin,corticosteroids,0
+aspirin,NSAIDs,0
+aspirin,melatonin,0
+aspirin,fluvoxamine,0
+aspirin,beta blockers,0
+aspirin,fluoxetine,0
+aspirin,progestin,0
+aspirin,benzodiazepenes,0
+aspirin,corticosteroids,0
+NSAIDs,melatonin,0
+NSAIDs,fluvoxamine,0
+NSAIDs,beta blockers,0
+NSAIDs,fluoxetine,0
+NSAIDs,progestin,0
+NSAIDs,benzodiazepenes,0
+NSAIDs,corticosteroids,0
+melatonin,fluvoxamine,0
+melatonin,melatonin,0
+melatonin,beta blockers,0
+melatonin,fluoxetine,0
+melatonin,progestin,1
+melatonin,benzodiazepenes,0
+melatonin,corticosteroids,0
+fluvoxamine,melatonin,0
+fluvoxamine,beta blockers,0
+fluvoxamine,fluoxetine,0
+fluvoxamine,progestin,0
+fluvoxamine,benzodiazepenes,0
+fluvoxamine,corticosteroids,0
+beta blockers,melatonin,0
+beta blockers,fluoxetine,0
+beta blockers,progestin,0
+beta blockers,benzodiazepenes,0
+beta blockers,corticosteroids,0
+fluoxetine,progestin,0
+fluoxetine,melatonin,0
+fluoxetine,benzodiazepenes,0
+fluoxetine,corticosteroids,0
+progestin,melatonin,0
+progestin,progestin,0
+progestin,benzodiazepenes,0
+progestin,corticosteroids,0
+benzodiazepenes,corticosteroids,0
+benzodiazepenes,melatonin,0
+corticosteroids,melatonin,0
+corticosteroids,corticosteroids,0
+REMERON SolTab,mirtazapine,0
+mirtazapine,mirtazapine,0
+mirtazapine,REMERON SolTab,0
+Alcohol,mirtazapine,0
+alcohol,mirtazapine,0
+REMERON,alcohol,1
+alcohol,REMERON SolTab,1
+alcohol,Diazepam,0
+alcohol,diazepam,0
+REMERON SolTab,Diazepam,0
+REMERON SolTab,diazepam,0
+Diazepam,diazepam,0
+Diazepam,mirtazapine,0
+diazepam,mirtazapine,1
+REMERON,diazepam,1
+diazepam,REMERON SolTab,1
+Central Nervous System Depressants,MEPERIDINE,0
+Central Nervous System Depressants,NARCOTIC ANALGESICS,0
+Central Nervous System Depressants,ANESTHETICS,0
+Central Nervous System Depressants,PHENOTHIAZINES,0
+Central Nervous System Depressants,TRANQUILIZERS,0
+Central Nervous System Depressants,SEDATIVE-HYPNOTICS,0
+Central Nervous System Depressants,BARBITURATES,0
+Central Nervous System Depressants,TRICYCLIC ANTIDEPRESSANTS,0
+Central Nervous System Depressants,CNS DEPRESSANTS,0
+Central Nervous System Depressants,ALCOHOL,0
+MEPERIDINE,NARCOTIC ANALGESICS,1
+MEPERIDINE,ANESTHETICS,1
+MEPERIDINE,PHENOTHIAZINES,1
+MEPERIDINE,TRANQUILIZERS,1
+MEPERIDINE,SEDATIVE-HYPNOTICS,1
+MEPERIDINE,BARBITURATES,1
+MEPERIDINE,TRICYCLIC ANTIDEPRESSANTS,1
+MEPERIDINE,CNS DEPRESSANTS,1
+MEPERIDINE,ALCOHOL,1
+NARCOTIC ANALGESICS,ANESTHETICS,0
+NARCOTIC ANALGESICS,PHENOTHIAZINES,0
+NARCOTIC ANALGESICS,TRANQUILIZERS,0
+NARCOTIC ANALGESICS,SEDATIVE-HYPNOTICS,0
+NARCOTIC ANALGESICS,BARBITURATES,0
+NARCOTIC ANALGESICS,TRICYCLIC ANTIDEPRESSANTS,0
+NARCOTIC ANALGESICS,CNS DEPRESSANTS,0
+NARCOTIC ANALGESICS,ALCOHOL,0
+ANESTHETICS,PHENOTHIAZINES,0
+ANESTHETICS,TRANQUILIZERS,0
+ANESTHETICS,SEDATIVE-HYPNOTICS,0
+ANESTHETICS,BARBITURATES,0
+ANESTHETICS,TRICYCLIC ANTIDEPRESSANTS,0
+ANESTHETICS,CNS DEPRESSANTS,0
+ANESTHETICS,ALCOHOL,0
+PHENOTHIAZINES,TRANQUILIZERS,0
+PHENOTHIAZINES,SEDATIVE-HYPNOTICS,0
+PHENOTHIAZINES,BARBITURATES,0
+PHENOTHIAZINES,TRICYCLIC ANTIDEPRESSANTS,0
+PHENOTHIAZINES,CNS DEPRESSANTS,0
+PHENOTHIAZINES,ALCOHOL,0
+TRANQUILIZERS,SEDATIVE-HYPNOTICS,0
+TRANQUILIZERS,BARBITURATES,0
+TRANQUILIZERS,TRICYCLIC ANTIDEPRESSANTS,0
+TRANQUILIZERS,CNS DEPRESSANTS,0
+TRANQUILIZERS,ALCOHOL,0
+SEDATIVE-HYPNOTICS,BARBITURATES,0
+SEDATIVE-HYPNOTICS,TRICYCLIC ANTIDEPRESSANTS,0
+SEDATIVE-HYPNOTICS,CNS DEPRESSANTS,0
+SEDATIVE-HYPNOTICS,ALCOHOL,0
+BARBITURATES,TRICYCLIC ANTIDEPRESSANTS,0
+BARBITURATES,CNS DEPRESSANTS,0
+BARBITURATES,ALCOHOL,0
+TRICYCLIC ANTIDEPRESSANTS,CNS DEPRESSANTS,0
+TRICYCLIC ANTIDEPRESSANTS,ALCOHOL,0
+CNS DEPRESSANTS,ALCOHOL,0
+bacteriostatic antibiotics,erythromycin,0
+bacteriostatic antibiotics,tetracycline,0
+bacteriostatic antibiotics,penicillins,1
+erythromycin,tetracycline,0
+erythromycin,penicillins,1
+tetracycline,penicillins,1
+Penicillin,probenecid,1
+Penicillin,penicillins,0
+probenecid,penicillins,0
+penicillin,penicillin,0
+contraceptives,vitamin A,1
+CHEMET,iron,0
+CHEMET,CaNa 2 EDTA,1
+methyldopa,antihypertensive drugs,1
+anesthetics,methyldopa,1
+methyldopa,lithium,0
+methyldopa,ferrous sulfate,1
+methyldopa,ferrous gluconate,1
+ferrous sulfate,ferrous gluconate,0
+Methyldopa,VMA,0
+Methyldopa,vanillylmandelic acid,0
+Methyldopa,vanillin,0
+VMA,vanillylmandelic acid,0
+VMA,VMA,0
+VMA,vanillin,0
+vanillylmandelic acid,VMA,0
+vanillylmandelic acid,vanillin,0
+norepinephrine,dobutamine,0
+norepinephrine,sodium bicarbonate,1
+dobutamine,sodium bicarbonate,1
+sodium bicarbonate,calcium,0
+SKELID,calcium,0
+SKELID,SKELID,0
+SKELID,aluminum,0
+SKELID,magnesium,0
+SKELID,antacids,0
+calcium,calcium,0
+calcium,SKELID,0
+calcium,aluminum,0
+calcium,magnesium,0
+calcium,antacids,0
+aluminum,magnesium,0
+aluminum,SKELID,1
+magnesium,SKELID,1
+antacids,SKELID,0
+Aspirin,SKELID,0
+SKELID,indomethacin,1
+SKELID,diclofenac,0
+indomethacin,diclofenac,0
+digoxin,SKELID,0
+tiludronate,warfarin,0
+Tetracycline,antibiotic,0
+Tetracycline,penicillin,1
+antibiotic,penicillin,0
+Scopolamine,sedatives,1
+Scopolamine,tranquilizers,1
+Scopolamine,alcohol,1
+sedatives,alcohol,0
+tranquilizers,alcohol,0
+belladonna alkaloids,antihistamines,0
+belladonna alkaloids,meclizine,0
+belladonna alkaloids,tricyclic antidepressants,0
+belladonna alkaloids,muscle relaxants,0
+antihistamines,meclizine,0
+antihistamines,muscle relaxants,0
+meclizine,tricyclic antidepressants,0
+meclizine,muscle relaxants,0
+tricyclic antidepressants,muscle relaxants,0
+DIPRIVAN,narcotics,1
+DIPRIVAN,morphine,1
+DIPRIVAN,meperidine,1
+DIPRIVAN,fentanyl,1
+narcotics,morphine,0
+narcotics,meperidine,0
+narcotics,fentanyl,0
+morphine,meperidine,0
+morphine,fentanyl,0
+meperidine,fentanyl,0
+opioids,sedatives,0
+opioids,benzodiazepines,0
+opioids,barbiturates,0
+opioids,chloral hydrate,0
+opioids,droperidol,0
+sedatives,benzodiazepines,0
+sedatives,barbiturates,0
+sedatives,chloral hydrate,0
+sedatives,droperidol,0
+benzodiazepines,chloral hydrate,0
+benzodiazepines,droperidol,0
+barbiturates,chloral hydrate,0
+barbiturates,droperidol,0
+chloral hydrate,droperidol,0
+DIPRIVAN,analgesic agents,1
+DIPRIVAN,nitrous oxide,1
+DIPRIVAN,opioids,1
+analgesic agents,nitrous oxide,0
+analgesic agents,opioids,0
+nitrous oxide,opioids,0
+isoflurane,enflurane,0
+isoflurane,halothane,0
+isoflurane,DIPRIVAN,0
+enflurane,halothane,0
+enflurane,DIPRIVAN,0
+halothane,DIPRIVAN,0
+DIPRIVAN,neuromuscular blocking agents,0
+DIPRIVAN,succinylcholine,0
+DIPRIVAN,nondepolarizing muscle relaxants,0
+neuromuscular blocking agents,succinylcholine,0
+neuromuscular blocking agents,nondepolarizing muscle relaxants,0
+succinylcholine,nondepolarizing muscle relaxants,0
+muscle relaxants,analgesic agents,0
+muscle relaxants,anesthetic agents,0
+analgesic agents,anesthetic agents,0
+warfarin,tolmetin,0
+tolmetin,tolmetin,0
+TOLECTIN,warfarin,1
+TOLECTIN,anticoagulants,1
+sulfonylureas,insulin,0
+sulfonylureas,TOLECTIN,0
+sulfonylureas,hypoglycemic agents,0
+insulin,TOLECTIN,0
+insulin,hypoglycemic agents,0
+TOLECTIN,hypoglycemic agents,0
+TOLECTIN,methotrexate,0
+TOLECTIN,nonsteroidal anti-inflammatory drugs,0
+nonsteroidal anti-inflammatory drugs,methotrexate,0
+Thiazide diuretics,phenothiazines,1
+guanethidine,phenothiazines,1
+propranolol,phenothiazines,1
+TOBI,TOBI,0
+TOBI,dornase alfa,1
+TOBI,PULMOZYME,1
+TOBI,(beta)-agonists,1
+TOBI,corticosteroids,1
+TOBI,anti-pseudomonal antibiotics,1
+TOBI,aminoglycosides,1
+dornase alfa,PULMOZYME,0
+dornase alfa,(beta)-agonists,0
+dornase alfa,corticosteroids,0
+dornase alfa,anti-pseudomonal antibiotics,0
+dornase alfa,aminoglycosides,0
+PULMOZYME,(beta)-agonists,0
+PULMOZYME,corticosteroids,0
+PULMOZYME,anti-pseudomonal antibiotics,0
+PULMOZYME,aminoglycosides,0
+(beta)-agonists,corticosteroids,0
+(beta)-agonists,anti-pseudomonal antibiotics,0
+(beta)-agonists,aminoglycosides,0
+corticosteroids,anti-pseudomonal antibiotics,0
+corticosteroids,aminoglycosides,0
+anti-pseudomonal antibiotics,aminoglycosides,0
+diuretics,aminoglycoside,1
+diuretics,antibiotic,0
+aminoglycoside,antibiotic,0
+TOBI,ethacrynic acid,1
+TOBI,furosemide,1
+TOBI,urea,1
+TOBI,mannitol,1
+ethacrynic acid,furosemide,0
+ethacrynic acid,urea,0
+ethacrynic acid,mannitol,0
+furosemide,urea,0
+furosemide,mannitol,0
+urea,mannitol,0
+gemfibrozil,rosiglitazone,0
+gemfibrozil,rifampin,0
+rosiglitazone,rifampin,0
+rosiglitazone,rosiglitazone,0
+rifampin,rosiglitazone,1
+Cholestyramine,Cholestyramine,0
+Cholestyramine,raloxifene,1
+Cholestyramine,EVISTA,1
+raloxifene,EVISTA,0
+Warfarin,EVISTA,0
+EVISTA,warfarin,1
+raloxifene,warfarin,0
+raloxifene,phenytoin,0
+raloxifene,tamoxifen,0
+warfarin,tamoxifen,0
+phenytoin,tamoxifen,0
+EVISTA,clofibrate,1
+EVISTA,indomethacin,1
+EVISTA,naproxen,1
+EVISTA,ibuprofen,1
+EVISTA,diazepam,1
+EVISTA,diazoxide,1
+clofibrate,indomethacin,0
+clofibrate,naproxen,0
+clofibrate,ibuprofen,0
+clofibrate,diazepam,0
+clofibrate,diazoxide,0
+indomethacin,naproxen,0
+indomethacin,ibuprofen,0
+indomethacin,diazepam,0
+indomethacin,diazoxide,0
+naproxen,ibuprofen,0
+naproxen,diazepam,0
+naproxen,diazoxide,0
+ibuprofen,diazepam,0
+ibuprofen,diazoxide,0
+diazepam,diazoxide,0
+Probenecid,meropenem,0
+meropenem,meropenem,0
+probenecid,meropenem,1
+meropenem,valproic acid,1
+meropenem,valproate,0
+valproic acid,valproate,0
+beta adrenergic aerosol bronchodilators,Alupent,1
+beta adrenergic aerosol bronchodilators,metaproterenol sulfate,1
+Alupent,metaproterenol sulfate,0
+Beta adrenergic agonists,monoamine oxidase inhibitors,1
+Beta adrenergic agonists,tricyclic antidepressants,1
+Beta adrenergic agonists,beta adrenergic agonists,0
+monoamine oxidase inhibitors,tricyclic antidepressants,0
+monoamine oxidase inhibitors,beta adrenergic agonists,0
+tricyclic antidepressants,beta adrenergic agonists,0
+ZEMURON,rocuronium bromide,0
+ZEMURON,succinylcholine,0
+rocuronium bromide,succinylcholine,0
+ZEMURON,nondepolarizing muscle relaxants,0
+ondansetron,ondansetron,0
+Phenytoin,Carbamazepine,0
+Phenytoin,Rifampicin,0
+Phenytoin,carbamazepine,0
+Phenytoin,rifampicin,0
+Phenytoin,ondansetron,0
+Carbamazepine,Rifampicin,0
+Carbamazepine,phenytoin,0
+Carbamazepine,carbamazepine,0
+Carbamazepine,rifampicin,0
+Carbamazepine,ondansetron,0
+Rifampicin,phenytoin,0
+Rifampicin,carbamazepine,0
+Rifampicin,rifampicin,0
+Rifampicin,ondansetron,0
+phenytoin,rifampicin,0
+phenytoin,ondansetron,1
+carbamazepine,rifampicin,0
+carbamazepine,ondansetron,1
+rifampicin,ondansetron,1
+ondansetron,Tramadol,0
+ondansetron,tramadol,1
+Tramadol,ondansetron,0
+Tramadol,tramadol,0
+tramadol,ondansetron,0
+tramadol,tramadol,0
+carmustine,etoposide,0
+carmustine,cisplatin,0
+carmustine,ondansetron,0
+etoposide,cisplatin,0
+etoposide,ondansetron,0
+cisplatin,ondansetron,0
+ondansetron,methotrexate,0
+paclitaxel,HERCEPTIN,0
+HERCEPTIN,HERCEPTIN,0
+Terfenadine,astemizole,0
+Terfenadine,macrolides,0
+Terfenadine,terfenadine,0
+astemizole,macrolides,0
+astemizole,terfenadine,0
+astemizole,astemizole,0
+macrolides,terfenadine,1
+macrolides,astemizole,1
+roxithromycin,roxithromycin,0
+roxithromycin,terfenadine,1
+roxithromycin,astemizole,1
+Cisapride,pimozide,0
+Cisapride,cisapride,0
+Cisapride,macrolide antibacterials,0
+pimozide,cisapride,0
+pimozide,pimozide,0
+pimozide,macrolide antibacterials,0
+cisapride,pimozide,0
+cisapride,macrolide antibacterials,1
+anticonvulsants,Mephenytoin,1
+anticonvulsants,divalproex sodium,0
+anticonvulsants,valproic acid,0
+divalproex sodium,valproic acid,0
+divalproex sodium,phenobarbital,0
+valproic acid,phenobarbital,0
+Mephenytoin,steroid medications,1
+Mephenytoin,warfarin,1
+Mephenytoin,anti-infective medicines,1
+Mephenytoin,furosemide,1
+Mephenytoin,theophylline,1
+Mephenytoin,Mephenytoin,0
+steroid medications,warfarin,0
+steroid medications,anti-infective medicines,0
+steroid medications,furosemide,0
+steroid medications,theophylline,0
+steroid medications,Mephenytoin,0
+warfarin,anti-infective medicines,0
+warfarin,furosemide,0
+warfarin,theophylline,0
+warfarin,Mephenytoin,0
+anti-infective medicines,furosemide,0
+anti-infective medicines,theophylline,0
+anti-infective medicines,Mephenytoin,0
+furosemide,theophylline,0
+furosemide,Mephenytoin,0
+theophylline,Mephenytoin,0
+Streptase,Streptokinase,0
+Anticoagulants,Antiplatelet Agents,0
+Anticoagulants,Streptase,0
+Anticoagulants,Streptokinase,0
+Anticoagulants,antiplatelet agents,0
+Antiplatelet Agents,Streptase,0
+Antiplatelet Agents,Streptokinase,0
+Antiplatelet Agents,antiplatelet agents,0
+Antiplatelet Agents,anticoagulants,0
+Streptase,antiplatelet agents,1
+Streptase,anticoagulants,1
+Streptokinase,antiplatelet agents,1
+Streptokinase,anticoagulants,1
+antiplatelet agents,anticoagulants,0
+aspirin,Streptokinase,1
+Antiplatelets,aspirin,0
+MAO inhibitors,beta adrenergic blockers,0
+MAO inhibitors,pseudoephedrine,1
+beta adrenergic blockers,pseudoephedrine,1
+Sympathomimetics,methyldopa,1
+Sympathomimetics,mecamylamine,1
+Sympathomimetics,reserpine,1
+Sympathomimetics,veratrum alkaloids,1
+methyldopa,mecamylamine,0
+methyldopa,reserpine,0
+methyldopa,veratrum alkaloids,0
+mecamylamine,reserpine,0
+mecamylamine,veratrum alkaloids,0
+reserpine,veratrum alkaloids,0
+tetracyclines,anticoagulant,0
+anticoagulant,anticoagulant,0
+penicillin,tetracycline class drugs,0
+tetracycline class drugs,penicillin,1
+tetracyclines,antacids,0
+tetracyclines,aluminum,1
+tetracyclines,calcium,1
+tetracyclines,iron,1
+antacids,aluminum,0
+antacids,calcium,0
+antacids,magnesium,0
+antacids,iron,0
+aluminum,calcium,0
+aluminum,iron,0
+calcium,iron,0
+magnesium,iron,0
+tetracycline,methoxyflurane,1
+tetracyclines,contraceptives,0
+Sanctura,anticholinergic agents,1
+Sanctura,Sanctura,0
+Sanctura,digoxin,1
+Sanctura,procainamide,1
+Sanctura,pancuronium,1
+Sanctura,morphine,1
+Sanctura,vancomycin,1
+Sanctura,metformin,1
+Sanctura,tenofovir,1
+digoxin,procainamide,0
+digoxin,pancuronium,0
+digoxin,morphine,0
+digoxin,vancomycin,0
+digoxin,metformin,0
+digoxin,tenofovir,0
+procainamide,pancuronium,0
+procainamide,morphine,0
+procainamide,vancomycin,0
+procainamide,metformin,0
+procainamide,tenofovir,0
+pancuronium,morphine,0
+pancuronium,vancomycin,0
+pancuronium,metformin,0
+pancuronium,tenofovir,0
+morphine,vancomycin,0
+morphine,metformin,0
+morphine,tenofovir,0
+vancomycin,metformin,0
+vancomycin,tenofovir,0
+metformin,tenofovir,0
+ALKERAN,live organism vaccines,0
+ALKERAN,Nalidixic acid,0
+ALKERAN,melphalan,0
+live organism vaccines,Nalidixic acid,0
+live organism vaccines,melphalan,0
+Nalidixic acid,melphalan,1
+melphalan,cyclosporin,1
+midazolam,azole antimycotics,1
+midazolam,protease inhibitors,1
+midazolam,calcium channel antagonists,1
+midazolam,macrolide antibiotics,1
+azole antimycotics,protease inhibitors,0
+azole antimycotics,calcium channel antagonists,0
+azole antimycotics,macrolide antibiotics,0
+protease inhibitors,calcium channel antagonists,0
+protease inhibitors,macrolide antibiotics,0
+calcium channel antagonists,macrolide antibiotics,0
+erythromycin,diltiazem,0
+erythromycin,verapamil,0
+erythromycin,midazolam,1
+diltiazem,ketoconazole,0
+diltiazem,fluconazole,0
+diltiazem,itraconazole,0
+diltiazem,midazolam,1
+verapamil,ketoconazole,0
+verapamil,fluconazole,0
+verapamil,itraconazole,0
+verapamil,midazolam,1
+ketoconazole,midazolam,1
+fluconazole,midazolam,0
+itraconazole,midazolam,1
+ritonavir,midazolam,1
+nelfinavir,midazolam,1
+rifampin,midazolam,1
+sedatives,methylphenidate,0
+VERSED Syrup,narcotics,1
+VERSED Syrup,morphine,1
+VERSED Syrup,meperidine,1
+VERSED Syrup,fentanyl,1
+VERSED Syrup,propofol,1
+VERSED Syrup,ketamine,1
+VERSED Syrup,nitrous oxide,1
+VERSED Syrup,secobarbital,1
+VERSED Syrup,droperidol,1
+narcotics,propofol,0
+narcotics,ketamine,0
+narcotics,nitrous oxide,0
+narcotics,secobarbital,0
+narcotics,droperidol,0
+morphine,propofol,0
+morphine,ketamine,0
+morphine,nitrous oxide,0
+morphine,secobarbital,0
+morphine,droperidol,0
+meperidine,propofol,0
+meperidine,ketamine,0
+meperidine,nitrous oxide,0
+meperidine,secobarbital,0
+meperidine,droperidol,0
+fentanyl,propofol,0
+fentanyl,ketamine,0
+fentanyl,nitrous oxide,0
+fentanyl,secobarbital,0
+fentanyl,droperidol,0
+propofol,ketamine,0
+propofol,nitrous oxide,0
+propofol,secobarbital,0
+propofol,droperidol,0
+ketamine,nitrous oxide,0
+ketamine,secobarbital,0
+ketamine,droperidol,0
+nitrous oxide,secobarbital,0
+nitrous oxide,droperidol,0
+secobarbital,droperidol,0
+atropine,scopolamine,0
+atropine,glycopyrrolate,0
+atropine,diazepam,0
+atropine,hydroxyzine,0
+atropine,muscle relaxants,0
+atropine,anesthetics,0
+scopolamine,glycopyrrolate,0
+scopolamine,diazepam,0
+scopolamine,hydroxyzine,0
+scopolamine,muscle relaxants,0
+scopolamine,anesthetics,0
+glycopyrrolate,diazepam,0
+glycopyrrolate,hydroxyzine,0
+glycopyrrolate,muscle relaxants,0
+glycopyrrolate,anesthetics,0
+diazepam,hydroxyzine,0
+diazepam,muscle relaxants,0
+diazepam,anesthetics,0
+hydroxyzine,muscle relaxants,0
+hydroxyzine,anesthetics,0
+muscle relaxants,anesthetics,0
+Leukine,lithium,1
+Leukine,corticosteroids,1
+lithium,corticosteroids,0
+hypoglycemics,Coumarin-type anticoagulants,0
+hypoglycemics,Phenytoin,0
+hypoglycemics,Cyclosporine,0
+hypoglycemics,Rifampin,0
+hypoglycemics,Theophylline,0
+hypoglycemics,Terfenadine,0
+hypoglycemics,Cisapride,0
+hypoglycemics,Astemizole,0
+hypoglycemics,Rifabutin,0
+hypoglycemics,Tacrolimus,0
+hypoglycemics,Short-acting benzodiazepines,0
+hypoglycemics,hypoglycemics,0
+hypoglycemics,DIFLUCAN,0
+hypoglycemics,hypoglycemic agents,0
+Coumarin-type anticoagulants,Phenytoin,0
+Coumarin-type anticoagulants,Cyclosporine,0
+Coumarin-type anticoagulants,Rifampin,0
+Coumarin-type anticoagulants,Theophylline,0
+Coumarin-type anticoagulants,Terfenadine,0
+Coumarin-type anticoagulants,Cisapride,0
+Coumarin-type anticoagulants,Astemizole,0
+Coumarin-type anticoagulants,Rifabutin,0
+Coumarin-type anticoagulants,Tacrolimus,0
+Coumarin-type anticoagulants,Short-acting benzodiazepines,0
+Coumarin-type anticoagulants,hypoglycemics,0
+Coumarin-type anticoagulants,DIFLUCAN,0
+Coumarin-type anticoagulants,hypoglycemic agents,0
+Phenytoin,Cyclosporine,0
+Phenytoin,Rifampin,0
+Phenytoin,Theophylline,0
+Phenytoin,Terfenadine,0
+Phenytoin,Cisapride,0
+Phenytoin,Astemizole,0
+Phenytoin,Rifabutin,0
+Phenytoin,Tacrolimus,0
+Phenytoin,Short-acting benzodiazepines,0
+Phenytoin,hypoglycemics,0
+Phenytoin,DIFLUCAN,0
+Phenytoin,hypoglycemic agents,0
+Cyclosporine,Rifampin,0
+Cyclosporine,Theophylline,0
+Cyclosporine,Terfenadine,0
+Cyclosporine,Cisapride,0
+Cyclosporine,Astemizole,0
+Cyclosporine,Rifabutin,0
+Cyclosporine,Tacrolimus,0
+Cyclosporine,Short-acting benzodiazepines,0
+Cyclosporine,hypoglycemics,0
+Cyclosporine,DIFLUCAN,0
+Cyclosporine,hypoglycemic agents,0
+Rifampin,Theophylline,0
+Rifampin,Terfenadine,0
+Rifampin,Cisapride,0
+Rifampin,Astemizole,0
+Rifampin,Rifabutin,0
+Rifampin,Tacrolimus,0
+Rifampin,Short-acting benzodiazepines,0
+Rifampin,hypoglycemics,0
+Rifampin,DIFLUCAN,1
+Rifampin,hypoglycemic agents,0
+Theophylline,Terfenadine,0
+Theophylline,Cisapride,0
+Theophylline,Astemizole,0
+Theophylline,Rifabutin,0
+Theophylline,Tacrolimus,0
+Theophylline,Short-acting benzodiazepines,0
+Theophylline,hypoglycemics,0
+Theophylline,DIFLUCAN,0
+Theophylline,hypoglycemic agents,0
+Terfenadine,Cisapride,0
+Terfenadine,Astemizole,0
+Terfenadine,Rifabutin,0
+Terfenadine,Tacrolimus,0
+Terfenadine,Short-acting benzodiazepines,0
+Terfenadine,hypoglycemics,0
+Terfenadine,DIFLUCAN,0
+Terfenadine,hypoglycemic agents,0
+Cisapride,Astemizole,0
+Cisapride,Rifabutin,0
+Cisapride,Tacrolimus,0
+Cisapride,Short-acting benzodiazepines,0
+Cisapride,hypoglycemics,0
+Cisapride,DIFLUCAN,0
+Cisapride,hypoglycemic agents,0
+Astemizole,Rifabutin,0
+Astemizole,Tacrolimus,0
+Astemizole,Short-acting benzodiazepines,0
+Astemizole,hypoglycemics,0
+Astemizole,DIFLUCAN,0
+Astemizole,hypoglycemic agents,0
+Rifabutin,Tacrolimus,0
+Rifabutin,Short-acting benzodiazepines,0
+Rifabutin,hypoglycemics,0
+Rifabutin,DIFLUCAN,0
+Rifabutin,hypoglycemic agents,0
+Tacrolimus,Short-acting benzodiazepines,0
+Tacrolimus,hypoglycemics,0
+Tacrolimus,DIFLUCAN,0
+Tacrolimus,hypoglycemic agents,0
+Short-acting benzodiazepines,hypoglycemics,0
+Short-acting benzodiazepines,DIFLUCAN,0
+Short-acting benzodiazepines,hypoglycemic agents,0
+DIFLUCAN,hypoglycemic agents,1
+DIFLUCAN,glyburide,1
+DIFLUCAN,tolbutamide,1
+DIFLUCAN,glipizide,1
+tolbutamide,glyburide,0
+tolbutamide,glipizide,0
+glyburide,glipizide,0
+DIFLUCAN,sulfonylurea oral hypoglycemic agents,1
+DIFLUCAN,sulfonylurea,0
+sulfonylurea oral hypoglycemic agents,sulfonylurea,0
+Coumarin-type anticoagulants,coumarin-type anticoagulants,0
+DIFLUCAN,coumarin-type anticoagulants,1
+azole antifungals,fluconazole,0
+azole antifungals,warfarin,0
+fluconazole,warfarin,1
+DIFLUCAN,phenytoin,1
+phenytoin,DIFLUCAN,0
+DIFLUCAN,cyclosporine,1
+cyclosporine,DIFLUCAN,0
+Rifampin,Rifampin,0
+DIFLUCAN,rifampin,1
+DIFLUCAN,theophylline,1
+theophylline,DIFLUCAN,0
+Terfenadine,azole antifungals,0
+azole antifungals,terfenadine,1
+fluconazole,DIFLUCAN,0
+DIFLUCAN,terfenadine,1
+Cisapride,fluconazole,0
+fluconazole,cisapride,1
+cisapride,cisapride,0
+Astemizole,fluconazole,0
+Astemizole,astemizole,0
+fluconazole,astemizole,1
+Rifabutin,fluconazole,0
+Rifabutin,rifabutin,0
+fluconazole,rifabutin,1
+Tacrolimus,fluconazole,0
+Tacrolimus,tacrolimus,0
+fluconazole,tacrolimus,1
+Short-acting Benzodiazepines,midazolam,0
+Short-acting Benzodiazepines,fluconazole,0
+midazolam,fluconazole,0
+midazolam,midazolam,0
+fluconazole,fluconazole,0
+short-acting benzodiazepines,fluconazole,1
+short-acting benzodiazepines,benzodiazepine,0
+fluconazole,benzodiazepine,0
+Fluconazole,ethinyl estradiol,0
+Fluconazole,levonorgestrel,0
+Fluconazole,contraceptives,0
+ethinyl estradiol,levonorgestrel,0
+ethinyl estradiol,contraceptives,0
+levonorgestrel,contraceptives,0
+levonorgestrel,levonorgestrel,0
+contraceptives,levonorgestrel,0
+ethinyl estradiol,fluconazole,0
+levonorgestrel,fluconazole,0
+fluconazole,ethinyl estradiol,0
+fluconazole,levonorgestrel,0
+TRENTAL,anticoagulants,1
+TRENTAL,platelet aggregation inhibitors,1
+anticoagulants,platelet aggregation inhibitors,0
+TRENTAL,theophylline,0
+TRENTAL,antihypertensive drugs,0
+TRENTAL,beta blockers,0
+TRENTAL,digitalis,0
+TRENTAL,diuretics,0
+TRENTAL,antidiabetic agents,0
+TRENTAL,antiarrhythmics,0
+antihypertensive drugs,beta blockers,0
+antihypertensive drugs,digitalis,0
+antihypertensive drugs,diuretics,0
+antihypertensive drugs,antidiabetic agents,0
+antihypertensive drugs,antiarrhythmics,0
+beta blockers,digitalis,0
+beta blockers,diuretics,0
+beta blockers,antidiabetic agents,0
+beta blockers,antiarrhythmics,0
+digitalis,diuretics,0
+digitalis,antidiabetic agents,0
+digitalis,antiarrhythmics,0
+diuretics,antidiabetic agents,0
+diuretics,antiarrhythmics,0
+antidiabetic agents,antiarrhythmics,0
+ACE inhibitors,NSAIDs,0
+ACE inhibitors,angiotensin-converting enzyme (ACE) inhibitors,0
+NSAIDs,angiotensin-converting enzyme (ACE) inhibitors,1
+NSAIDs,ACE inhibitors,1
+Aspirin,aspirin,0
+Aspirin,meloxicam,0
+aspirin,meloxicam,1
+NSAIDs,meloxicam,0
+NSAIDs,aspirin,1
+meloxicam,aspirin,1
+aspirin,MOBIC,0
+MOBIC,MOBIC,0
+MOBIC,aspirin,0
+Cholestyramine,cholestyramine,0
+Cholestyramine,meloxicam,0
+cholestyramine,meloxicam,1
+Cimetidine,meloxicam,0
+cimetidine,meloxicam,0
+Digoxin,Meloxicam,0
+Meloxicam,digoxin,0
+digoxin,meloxicam,0
+Furosemide,NSAIDs,0
+Furosemide,furosemide,0
+Furosemide,thiazide diuretics,0
+NSAIDs,furosemide,1
+NSAIDs,thiazide diuretics,1
+furosemide,thiazide diuretics,0
+furosemide,meloxicam,0
+Furosemide,meloxicam,0
+furosemide,MOBIC,1
+Lithium,NSAIDs,0
+NSAIDs,lithium,0
+lithium,meloxicam,1
+meloxicam,lithium,0
+lithium,MOBIC,1
+Methotrexate,meloxicam,0
+Methotrexate,methotrexate,0
+meloxicam,methotrexate,0
+Meloxicam,methotrexate,0
+methotrexate,meloxicam,0
+Warfarin,MOBIC,0
+MOBIC,warfarin,0
+meloxicam,warfarin,0
+ProAmatine,cardiac glycosides,1
+phenylephrine,pseudoephedrine,0
+phenylephrine,ephedrine,0
+phenylephrine,phenylpropanolamine,0
+phenylephrine,dihydroergotamine,0
+phenylephrine,ProAmatine,0
+pseudoephedrine,ephedrine,0
+pseudoephedrine,phenylpropanolamine,0
+pseudoephedrine,dihydroergotamine,0
+pseudoephedrine,ProAmatine,0
+ephedrine,phenylpropanolamine,0
+ephedrine,dihydroergotamine,0
+ephedrine,ProAmatine,0
+phenylpropanolamine,dihydroergotamine,0
+phenylpropanolamine,ProAmatine,0
+dihydroergotamine,ProAmatine,0
+ProAmatine,ProAmatine,0
+ProAmatine,fludrocortisone acetate,0
+ProAmatine,Alpha-adrenergic blocking agents,0
+ProAmatine,prazosin,0
+ProAmatine,terazosin,0
+ProAmatine,doxazosin,0
+ProAmatine,desglymidodrine,0
+ProAmatine,metformin,0
+ProAmatine,cimetidine,0
+ProAmatine,ranitidine,0
+ProAmatine,procainamide,0
+ProAmatine,triamterene,0
+ProAmatine,flecainide,0
+ProAmatine,quinidine,0
+Alpha-adrenergic blocking agents,prazosin,0
+Alpha-adrenergic blocking agents,terazosin,0
+Alpha-adrenergic blocking agents,doxazosin,0
+Alpha-adrenergic blocking agents,ProAmatine,1
+Alpha-adrenergic blocking agents,desglymidodrine,0
+Alpha-adrenergic blocking agents,metformin,0
+Alpha-adrenergic blocking agents,cimetidine,0
+Alpha-adrenergic blocking agents,ranitidine,0
+Alpha-adrenergic blocking agents,procainamide,0
+Alpha-adrenergic blocking agents,triamterene,0
+Alpha-adrenergic blocking agents,flecainide,0
+Alpha-adrenergic blocking agents,quinidine,0
+prazosin,terazosin,0
+prazosin,doxazosin,0
+prazosin,ProAmatine,1
+prazosin,desglymidodrine,0
+prazosin,metformin,0
+prazosin,cimetidine,0
+prazosin,ranitidine,0
+prazosin,procainamide,0
+prazosin,triamterene,0
+prazosin,flecainide,0
+prazosin,quinidine,0
+terazosin,doxazosin,0
+terazosin,ProAmatine,1
+terazosin,desglymidodrine,0
+terazosin,metformin,0
+terazosin,cimetidine,0
+terazosin,ranitidine,0
+terazosin,procainamide,0
+terazosin,triamterene,0
+terazosin,flecainide,0
+terazosin,quinidine,0
+doxazosin,ProAmatine,1
+doxazosin,desglymidodrine,0
+doxazosin,metformin,0
+doxazosin,cimetidine,0
+doxazosin,ranitidine,0
+doxazosin,procainamide,0
+doxazosin,triamterene,0
+doxazosin,flecainide,0
+doxazosin,quinidine,0
+desglymidodrine,metformin,1
+desglymidodrine,cimetidine,1
+desglymidodrine,ranitidine,1
+desglymidodrine,procainamide,1
+desglymidodrine,triamterene,1
+desglymidodrine,flecainide,1
+desglymidodrine,quinidine,1
+metformin,cimetidine,0
+metformin,ranitidine,0
+metformin,procainamide,0
+metformin,triamterene,0
+metformin,flecainide,0
+metformin,quinidine,0
+cimetidine,procainamide,0
+cimetidine,flecainide,0
+ranitidine,procainamide,0
+ranitidine,flecainide,0
+procainamide,triamterene,0
+procainamide,flecainide,0
+triamterene,flecainide,0
+flecainide,quinidine,0
+cimetidine,mebendazole,0
+mebendazole,mebendazole,0
+Vitamin B2,Riboflavin,0
+Vitamin B2,Alcohol,0
+Vitamin B2,riboflavin,0
+Riboflavin,Alcohol,0
+Riboflavin,riboflavin,0
+Alcohol,riboflavin,1
+Probenecid,riboflavin,1
+riboflavin,probenecid,1
+CNS depressants,hypnotics,0
+CNS depressants,tranquilizers,0
+CNS depressants,phenothiazines,0
+CNS depressants,opioids,0
+CNS depressants,tricyclic antidepressants,0
+CNS depressants,monoamine oxidase (MAO) inhibitors,0
+sedatives,anesthetics,0
+sedatives,phenothiazines,0
+sedatives,opioids,0
+sedatives,tricyclic antidepressants,0
+sedatives,monoamine oxidase (MAO) inhibitors,0
+hypnotics,anesthetics,0
+hypnotics,phenothiazines,0
+hypnotics,opioids,0
+hypnotics,tricyclic antidepressants,0
+hypnotics,monoamine oxidase (MAO) inhibitors,0
+hypnotics,alcohol,0
+tranquilizers,anesthetics,0
+tranquilizers,phenothiazines,0
+tranquilizers,opioids,0
+tranquilizers,tricyclic antidepressants,0
+tranquilizers,monoamine oxidase (MAO) inhibitors,0
+anesthetics,phenothiazines,0
+anesthetics,opioids,0
+anesthetics,tricyclic antidepressants,0
+anesthetics,monoamine oxidase (MAO) inhibitors,0
+phenothiazines,opioids,0
+phenothiazines,monoamine oxidase (MAO) inhibitors,0
+phenothiazines,alcohol,0
+opioids,tricyclic antidepressants,0
+opioids,monoamine oxidase (MAO) inhibitors,0
+opioids,alcohol,0
+tricyclic antidepressants,monoamine oxidase (MAO) inhibitors,0
+tricyclic antidepressants,alcohol,0
+monoamine oxidase (MAO) inhibitors,alcohol,0
+Anticholinergics,opioid analgesics,1
+oxymorphone,propofol,1
+cimetidine,opioid analgesics,1
+Celontin,methsuximide,0
+Celontin,antiepileptic drugs,1
+Celontin,phenytoin,0
+Celontin,phenobarbital,0
+methsuximide,antiepileptic drugs,1
+methsuximide,methsuximide,0
+methsuximide,phenytoin,1
+methsuximide,phenobarbital,1
+antiepileptic drugs,methsuximide,0
+antiepileptic drugs,phenytoin,0
+antiepileptic drugs,phenobarbital,0
+atropine,pralidoxime,0
+atropine,atropine,0
+pralidoxime,atropine,0
+pralidoxime,barbiturates,0
+pralidoxime,anticholinesterases,0
+barbiturates,anticholinesterases,1
+morphine,theophylline,0
+morphine,aminophylline,0
+morphine,succinylcholine,0
+morphine,reserpine,0
+morphine,phenothiazine-type tranquilizers,0
+theophylline,aminophylline,0
+theophylline,succinylcholine,0
+theophylline,reserpine,0
+theophylline,phenothiazine-type tranquilizers,0
+aminophylline,succinylcholine,0
+aminophylline,reserpine,0
+aminophylline,phenothiazine-type tranquilizers,0
+succinylcholine,reserpine,0
+succinylcholine,phenothiazine-type tranquilizers,0
+reserpine,phenothiazine-type tranquilizers,0
+folic acid,digoxin,0
+folic acid,sulfasalazine,1
+digoxin,sulfasalazine,1
+sulfasalazine,methotrexate,0
+Anticoagulants,Anabolic steroids,0
+Anabolic steroids,anticoagulants,1
+Warfarin,oxandrolone,0
+Warfarin,S-warfarin,0
+Warfarin,R-warfarin,0
+oxandrolone,warfarin,0
+oxandrolone,S-warfarin,0
+oxandrolone,R-warfarin,0
+warfarin,S-warfarin,0
+warfarin,R-warfarin,0
+S-warfarin,R-warfarin,0
+warfarin,oxandrolone,1
+hypoglycemic agents,Oxandrolone,0
+hypoglycemic agents,hypoglycemic agents,0
+Oxandrolone,hypoglycemic agents,1
+Adrenal steroids,ACTH,0
+Adrenal steroids,adrenal cortical steroids,0
+ACTH,adrenal cortical steroids,0
+ACTH,ACTH,0
+adrenal cortical steroids,ACTH,0
+Methysergide,narcotic analgesics,1
+vasoconstrictor agents,ergot alkaloids,0
+vasoconstrictor agents,sumatriptan,0
+vasoconstrictor agents,nicotine,0
+ergot alkaloids,sumatriptan,0
+ergot alkaloids,nicotine,0
+sumatriptan,nicotine,0
+Zidovudine,stavudine,1
+zidovudine,ZERIT,1
+stavudine,doxorubicin,1
+stavudine,ribavirin,1
+doxorubicin,ribavirin,0
+testolactone,anticoagulants,1
+Cholestyramine,ezetimibe,0
+cholestyramine,ezetimibe,1
+ezetimibe,cholestyramine,1
+Fibrates,ezetimibe,0
+Fibrates,fibrates,0
+ezetimibe,fibrates,0
+ZETIA,fibrates,1
+Fenofibrate,fenofibrate,0
+Fenofibrate,ezetimibe,0
+fenofibrate,ezetimibe,1
+Gemfibrozil,gemfibrozil,0
+Gemfibrozil,ezetimibe,0
+gemfibrozil,ezetimibe,0
+HMG-CoA reductase inhibitors,ezetimibe,0
+HMG-CoA reductase inhibitors,atorvastatin,0
+HMG-CoA reductase inhibitors,simvastatin,0
+HMG-CoA reductase inhibitors,pravastatin,0
+HMG-CoA reductase inhibitors,lovastatin,0
+HMG-CoA reductase inhibitors,fluvastatin,0
+ezetimibe,atorvastatin,0
+ezetimibe,simvastatin,0
+ezetimibe,pravastatin,0
+ezetimibe,lovastatin,0
+ezetimibe,fluvastatin,0
+atorvastatin,simvastatin,0
+atorvastatin,pravastatin,0
+atorvastatin,lovastatin,0
+atorvastatin,fluvastatin,0
+simvastatin,pravastatin,0
+simvastatin,lovastatin,0
+simvastatin,fluvastatin,0
+pravastatin,lovastatin,0
+pravastatin,fluvastatin,0
+lovastatin,fluvastatin,0
+Cyclosporine,ezetimibe,0
+ezetimibe,cyclosporine,1
+ezetimibe,ezetimibe,0
+ezetimibe,HMG-CoA reductase inhibitors,0
+ezetimibe,statins,0
+HMG-CoA reductase inhibitors,statins,0
+statins,ezetimibe,0
+ZETIA,HMG-CoA reductase inhibitor,0
+HMG-CoA reductase inhibitor,HMG-CoA reductase inhibitor,0
+ketoconazole,mometasone furoate,1
+SKELAXIN,alcohol,1
+SKELAXIN,barbiturates,1
+SKELAXIN,CNS depressants,1
+barbiturates,CNS depressants,0

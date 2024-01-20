@@ -1,0 +1,4599 @@
+Drug1,Drug1_ID,Drug2,Drug2_ID,Interaction
+ketoconazole,DB01026,tolterodine,DB01036,1
+ketoconazole,DB01026,azole antifungals,N/A,0
+ketoconazole,DB01026,itraconazole,DB01167,0
+ketoconazole,DB01026,miconazole,DB01110,0
+ketoconazole,DB01026,macrolide antibiotics,N/A,0
+ketoconazole,DB01026,erythromycin,DB00199,0
+ketoconazole,DB01026,clarithromycin,DB01211,0
+ketoconazole,DB01026,cyclosporine,DB00091,0
+ketoconazole,DB01026,vinblastine,DB00570,0
+ketoconazole,DB01026,detrol la,N/A,1
+azole antifungals,N/A,itraconazole,DB01167,0
+azole antifungals,N/A,miconazole,DB01110,0
+azole antifungals,N/A,macrolide antibiotics,N/A,0
+azole antifungals,N/A,erythromycin,DB00199,0
+azole antifungals,N/A,clarithromycin,DB01211,0
+azole antifungals,N/A,cyclosporine,DB00091,0
+azole antifungals,N/A,vinblastine,DB00570,0
+azole antifungals,N/A,detrol la,N/A,1
+itraconazole,DB01167,miconazole,DB01110,0
+itraconazole,DB01167,macrolide antibiotics,N/A,0
+itraconazole,DB01167,erythromycin,DB00199,0
+itraconazole,DB01167,clarithromycin,DB01211,0
+itraconazole,DB01167,cyclosporine,DB00091,0
+itraconazole,DB01167,vinblastine,DB00570,0
+itraconazole,DB01167,detrol la,N/A,1
+miconazole,DB01110,macrolide antibiotics,N/A,0
+miconazole,DB01110,erythromycin,DB00199,0
+miconazole,DB01110,clarithromycin,DB01211,0
+miconazole,DB01110,cyclosporine,DB00091,0
+miconazole,DB01110,vinblastine,DB00570,0
+miconazole,DB01110,detrol la,N/A,1
+macrolide antibiotics,N/A,erythromycin,DB00199,0
+macrolide antibiotics,N/A,clarithromycin,DB01211,0
+macrolide antibiotics,N/A,cyclosporine,DB00091,0
+macrolide antibiotics,N/A,vinblastine,DB00570,0
+macrolide antibiotics,N/A,detrol la,N/A,1
+erythromycin,DB00199,clarithromycin,DB01211,0
+erythromycin,DB00199,cyclosporine,DB00091,0
+erythromycin,DB00199,vinblastine,DB00570,0
+erythromycin,DB00199,detrol la,N/A,1
+clarithromycin,DB01211,cyclosporine,DB00091,0
+clarithromycin,DB01211,vinblastine,DB00570,0
+clarithromycin,DB01211,detrol la,N/A,1
+cyclosporine,DB00091,vinblastine,DB00570,0
+cyclosporine,DB00091,detrol la,N/A,1
+vinblastine,DB00570,detrol la,N/A,1
+invega,N/A,paliperidone,DB01267,0
+paliperidone,DB01267,invega,N/A,0
+paliperidone,DB01267,centrally acting drugs,N/A,1
+paliperidone,DB01267,alcohol,N/A,1
+invega,N/A,centrally acting drugs,N/A,1
+invega,N/A,alcohol,N/A,1
+centrally acting drugs,N/A,alcohol,N/A,0
+paliperidone,DB01267,levodopa,DB01235,1
+paliperidone,DB01267,dopamine agonists,N/A,1
+levodopa,DB01235,dopamine agonists,N/A,0
+oxybutynin,DB01062,anticholinergic drugs,N/A,1
+oxybutynin chloride,N/A,ditropan xl,N/A,0
+oxybutynin chloride,N/A,ketoconazole,DB01026,0
+ditropan xl,N/A,ketoconazole,DB01026,1
+antimycotic agents,N/A,itraconazole,DB01167,0
+antimycotic agents,N/A,miconazole,DB01110,0
+antimycotic agents,N/A,macrolide antibiotics,N/A,0
+antimycotic agents,N/A,erythromycin,DB00199,0
+antimycotic agents,N/A,clarithromycin,DB01211,0
+antimycotic agents,N/A,oxybutynin,DB01062,1
+itraconazole,DB01167,oxybutynin,DB01062,1
+miconazole,DB01110,oxybutynin,DB01062,1
+macrolide antibiotics,N/A,oxybutynin,DB01062,1
+erythromycin,DB00199,oxybutynin,DB01062,1
+clarithromycin,DB01211,oxybutynin,DB01062,1
+antacid,N/A,antacid,N/A,0
+antacid,N/A,aluminum hydroxide,DB06723,0
+antacid,N/A,magnesium hydroxide,DB09104,0
+antacid,N/A,simethicone,DB09512,0
+antacid,N/A,oxybutynin,DB01062,0
+antacid,N/A,desethyloxybutynin,N/A,0
+aluminum hydroxide,DB06723,magnesium hydroxide,DB09104,0
+aluminum hydroxide,DB06723,simethicone,DB09512,0
+aluminum hydroxide,DB06723,oxybutynin,DB01062,0
+aluminum hydroxide,DB06723,desethyloxybutynin,N/A,0
+magnesium hydroxide,DB09104,simethicone,DB09512,0
+magnesium hydroxide,DB09104,oxybutynin,DB01062,0
+magnesium hydroxide,DB09104,desethyloxybutynin,N/A,0
+simethicone,DB09512,oxybutynin,DB01062,0
+simethicone,DB09512,desethyloxybutynin,N/A,0
+oxybutynin,DB01062,desethyloxybutynin,N/A,0
+mitotane,DB00648,warfarin,DB00682,0
+warfarin,DB00682,warfarin,DB00682,0
+anticoagulant,N/A,mitotane,DB00648,0
+anticoagulant,N/A,coumarin-type anticoagulants,N/A,0
+mitotane,DB00648,coumarin-type anticoagulants,N/A,1
+vancomycin,DB00512,anesthetic agents,N/A,1
+amphotericin b,DB00681,aminoglycosides,N/A,0
+amphotericin b,DB00681,bacitracin,DB00626,0
+amphotericin b,DB00681,polymyxin b,DB00781,0
+amphotericin b,DB00681,colistin,DB00803,0
+amphotericin b,DB00681,viomycin,DB06827,0
+amphotericin b,DB00681,cisplatin,DB00515,0
+aminoglycosides,N/A,bacitracin,DB00626,0
+aminoglycosides,N/A,polymyxin b,DB00781,0
+aminoglycosides,N/A,colistin,DB00803,0
+aminoglycosides,N/A,viomycin,DB06827,0
+aminoglycosides,N/A,cisplatin,DB00515,0
+bacitracin,DB00626,polymyxin b,DB00781,0
+bacitracin,DB00626,colistin,DB00803,0
+bacitracin,DB00626,viomycin,DB06827,0
+bacitracin,DB00626,cisplatin,DB00515,0
+polymyxin b,DB00781,colistin,DB00803,0
+polymyxin b,DB00781,viomycin,DB06827,0
+polymyxin b,DB00781,cisplatin,DB00515,0
+colistin,DB00803,viomycin,DB06827,0
+colistin,DB00803,cisplatin,DB00515,0
+viomycin,DB06827,cisplatin,DB00515,0
+tritec,N/A,clarithromycin,DB01211,1
+tritec,N/A,ranitidine,DB00863,0
+tritec,N/A,14- hydroxy- clarithromycin,N/A,0
+clarithromycin,DB01211,ranitidine,DB00863,0
+clarithromycin,DB01211,14- hydroxy- clarithromycin,N/A,0
+ranitidine,DB00863,14- hydroxy- clarithromycin,N/A,0
+aspirin,N/A,salicylate,N/A,0
+antacid,N/A,ranitidine,DB00863,1
+antacid,N/A,tritec,N/A,1
+ranitidine,DB00863,tritec,N/A,0
+ranitidine,DB00863,zantac,N/A,0
+sympathomimetic bronchodilators,N/A,methylxanthines,N/A,0
+sympathomimetic bronchodilators,N/A,steroids,N/A,0
+methylxanthines,N/A,steroids,N/A,0
+spiriva,N/A,anticholinergic,N/A,1
+spiriva,N/A,ipratropium,DB00332,1
+anticholinergic,N/A,ipratropium,DB00332,0
+tigecycline,DB00560,warfarin,DB00682,1
+antibacterial drugs,N/A,contraceptives,N/A,0
+contraceptives,N/A,contraceptives,N/A,0
+triprolidine,DB00427,central nervous system depressants,N/A,1
+triprolidine,DB00427,alcohol,N/A,1
+triprolidine,DB00427,barbiturates,N/A,1
+triprolidine,DB00427,hypnotics,N/A,1
+triprolidine,DB00427,narcotic analgesics,N/A,1
+triprolidine,DB00427,sedatives,N/A,1
+triprolidine,DB00427,tranquillisers,N/A,1
+central nervous system depressants,N/A,alcohol,N/A,0
+central nervous system depressants,N/A,barbiturates,N/A,0
+central nervous system depressants,N/A,hypnotics,N/A,0
+central nervous system depressants,N/A,narcotic analgesics,N/A,0
+central nervous system depressants,N/A,sedatives,N/A,0
+central nervous system depressants,N/A,tranquillisers,N/A,0
+alcohol,N/A,barbiturates,N/A,0
+alcohol,N/A,hypnotics,N/A,0
+alcohol,N/A,narcotic analgesics,N/A,0
+alcohol,N/A,sedatives,N/A,0
+alcohol,N/A,tranquillisers,N/A,0
+barbiturates,N/A,hypnotics,N/A,0
+barbiturates,N/A,narcotic analgesics,N/A,0
+barbiturates,N/A,sedatives,N/A,0
+barbiturates,N/A,tranquillisers,N/A,0
+hypnotics,N/A,narcotic analgesics,N/A,0
+hypnotics,N/A,sedatives,N/A,0
+hypnotics,N/A,tranquillisers,N/A,0
+narcotic analgesics,N/A,sedatives,N/A,0
+narcotic analgesics,N/A,tranquillisers,N/A,0
+sedatives,N/A,tranquillisers,N/A,0
+anticholinergic drugs,N/A,atropine,DB00572,0
+anticholinergic drugs,N/A,tricyclic antidepressants,N/A,1
+anticholinergic drugs,N/A,triprolidine,DB00427,1
+atropine,DB00572,tricyclic antidepressants,N/A,0
+atropine,DB00572,triprolidine,DB00427,1
+tricyclic antidepressants,N/A,triprolidine,DB00427,1
+macrolide antibiotics,N/A,protease inhibitors,N/A,0
+macrolide antibiotics,N/A,ergot alkaloid drugs,N/A,0
+macrolide antibiotics,N/A,dihydroergotamine,DB00320,0
+macrolide antibiotics,N/A,ergotamine,DB00696,0
+protease inhibitors,N/A,ergot alkaloid drugs,N/A,0
+protease inhibitors,N/A,dihydroergotamine,DB00320,0
+protease inhibitors,N/A,ergotamine,DB00696,0
+ergot alkaloid drugs,N/A,dihydroergotamine,DB00320,0
+ergot alkaloid drugs,N/A,ergotamine,DB00696,0
+dihydroergotamine,DB00320,ergotamine,DB00696,0
+macrolide antibiotics,N/A,troleandomycin,DB13179,0
+macrolide antibiotics,N/A,hiv protease inhibitors,N/A,0
+macrolide antibiotics,N/A,reverse transcriptase inhibitors,N/A,0
+macrolide antibiotics,N/A,ritonavir,DB00503,0
+macrolide antibiotics,N/A,indinavir,DB00224,0
+macrolide antibiotics,N/A,nelfinavir,DB00220,0
+macrolide antibiotics,N/A,delavirdine,DB00705,0
+macrolide antibiotics,N/A,azole antifungals,N/A,0
+macrolide antibiotics,N/A,ketoconazole,DB01026,0
+macrolide antibiotics,N/A,itraconazole,DB01167,0
+macrolide antibiotics,N/A,voriconazole,DB00582,0
+erythromycin,DB00199,troleandomycin,DB13179,0
+erythromycin,DB00199,hiv protease inhibitors,N/A,0
+erythromycin,DB00199,reverse transcriptase inhibitors,N/A,0
+erythromycin,DB00199,ritonavir,DB00503,0
+erythromycin,DB00199,indinavir,DB00224,0
+erythromycin,DB00199,nelfinavir,DB00220,0
+erythromycin,DB00199,delavirdine,DB00705,0
+erythromycin,DB00199,azole antifungals,N/A,0
+erythromycin,DB00199,ketoconazole,DB01026,0
+erythromycin,DB00199,itraconazole,DB01167,0
+erythromycin,DB00199,voriconazole,DB00582,0
+troleandomycin,DB13179,clarithromycin,DB01211,0
+troleandomycin,DB13179,hiv protease inhibitors,N/A,0
+troleandomycin,DB13179,reverse transcriptase inhibitors,N/A,0
+troleandomycin,DB13179,ritonavir,DB00503,0
+troleandomycin,DB13179,indinavir,DB00224,0
+troleandomycin,DB13179,nelfinavir,DB00220,0
+troleandomycin,DB13179,delavirdine,DB00705,0
+troleandomycin,DB13179,azole antifungals,N/A,0
+troleandomycin,DB13179,ketoconazole,DB01026,0
+troleandomycin,DB13179,itraconazole,DB01167,0
+troleandomycin,DB13179,voriconazole,DB00582,0
+clarithromycin,DB01211,hiv protease inhibitors,N/A,0
+clarithromycin,DB01211,reverse transcriptase inhibitors,N/A,0
+clarithromycin,DB01211,ritonavir,DB00503,0
+clarithromycin,DB01211,indinavir,DB00224,0
+clarithromycin,DB01211,nelfinavir,DB00220,0
+clarithromycin,DB01211,delavirdine,DB00705,0
+clarithromycin,DB01211,azole antifungals,N/A,0
+clarithromycin,DB01211,ketoconazole,DB01026,0
+clarithromycin,DB01211,itraconazole,DB01167,0
+clarithromycin,DB01211,voriconazole,DB00582,0
+hiv protease inhibitors,N/A,reverse transcriptase inhibitors,N/A,0
+hiv protease inhibitors,N/A,ritonavir,DB00503,0
+hiv protease inhibitors,N/A,indinavir,DB00224,0
+hiv protease inhibitors,N/A,nelfinavir,DB00220,0
+hiv protease inhibitors,N/A,delavirdine,DB00705,0
+hiv protease inhibitors,N/A,azole antifungals,N/A,0
+hiv protease inhibitors,N/A,ketoconazole,DB01026,0
+hiv protease inhibitors,N/A,itraconazole,DB01167,0
+hiv protease inhibitors,N/A,voriconazole,DB00582,0
+reverse transcriptase inhibitors,N/A,ritonavir,DB00503,0
+reverse transcriptase inhibitors,N/A,indinavir,DB00224,0
+reverse transcriptase inhibitors,N/A,nelfinavir,DB00220,0
+reverse transcriptase inhibitors,N/A,delavirdine,DB00705,0
+reverse transcriptase inhibitors,N/A,azole antifungals,N/A,0
+reverse transcriptase inhibitors,N/A,ketoconazole,DB01026,0
+reverse transcriptase inhibitors,N/A,itraconazole,DB01167,0
+reverse transcriptase inhibitors,N/A,voriconazole,DB00582,0
+ritonavir,DB00503,indinavir,DB00224,0
+ritonavir,DB00503,nelfinavir,DB00220,0
+ritonavir,DB00503,delavirdine,DB00705,0
+ritonavir,DB00503,azole antifungals,N/A,0
+ritonavir,DB00503,ketoconazole,DB01026,0
+ritonavir,DB00503,itraconazole,DB01167,0
+ritonavir,DB00503,voriconazole,DB00582,0
+indinavir,DB00224,nelfinavir,DB00220,0
+indinavir,DB00224,delavirdine,DB00705,0
+indinavir,DB00224,azole antifungals,N/A,0
+indinavir,DB00224,ketoconazole,DB01026,0
+indinavir,DB00224,itraconazole,DB01167,0
+indinavir,DB00224,voriconazole,DB00582,0
+nelfinavir,DB00220,delavirdine,DB00705,0
+nelfinavir,DB00220,azole antifungals,N/A,0
+nelfinavir,DB00220,ketoconazole,DB01026,0
+nelfinavir,DB00220,itraconazole,DB01167,0
+nelfinavir,DB00220,voriconazole,DB00582,0
+delavirdine,DB00705,azole antifungals,N/A,0
+delavirdine,DB00705,ketoconazole,DB01026,0
+delavirdine,DB00705,itraconazole,DB01167,0
+delavirdine,DB00705,voriconazole,DB00582,0
+azole antifungals,N/A,ketoconazole,DB01026,0
+azole antifungals,N/A,voriconazole,DB00582,0
+ketoconazole,DB01026,voriconazole,DB00582,0
+itraconazole,DB01167,voriconazole,DB00582,0
+saquinavir,DB01232,nefazodone,DB01149,0
+saquinavir,DB01232,fluconazole,DB00196,0
+saquinavir,DB01232,fluoxetine,DB00472,0
+saquinavir,DB01232,fluvoxamine,DB00176,0
+saquinavir,DB01232,zileuton,DB00744,0
+saquinavir,DB01232,clotrimazole,DB00257,0
+nefazodone,DB01149,fluconazole,DB00196,0
+nefazodone,DB01149,fluoxetine,DB00472,0
+nefazodone,DB01149,fluvoxamine,DB00176,0
+nefazodone,DB01149,zileuton,DB00744,0
+nefazodone,DB01149,clotrimazole,DB00257,0
+fluconazole,DB00196,fluoxetine,DB00472,0
+fluconazole,DB00196,fluvoxamine,DB00176,0
+fluconazole,DB00196,zileuton,DB00744,0
+fluconazole,DB00196,clotrimazole,DB00257,0
+fluoxetine,DB00472,fluvoxamine,DB00176,0
+fluoxetine,DB00472,zileuton,DB00744,0
+fluoxetine,DB00472,clotrimazole,DB00257,0
+fluvoxamine,DB00176,zileuton,DB00744,0
+fluvoxamine,DB00176,clotrimazole,DB00257,0
+zileuton,DB00744,clotrimazole,DB00257,0
+methergine,N/A,methylergonovine maleate,N/A,0
+methergine,N/A,vasoconstrictors,N/A,1
+methergine,N/A,ergot alkaloids,N/A,1
+methylergonovine maleate,N/A,vasoconstrictors,N/A,1
+methylergonovine maleate,N/A,ergot alkaloids,N/A,0
+vasoconstrictors,N/A,ergot alkaloids,N/A,0
+trimetrexate,DB01157,trimetrexate,DB01157,0
+trimetrexate,DB01157,erythromycin,DB00199,1
+trimetrexate,DB01157,rifampin,N/A,1
+trimetrexate,DB01157,rifabutin,DB00615,1
+trimetrexate,DB01157,ketoconazole,DB01026,1
+trimetrexate,DB01157,fluconazole,DB00196,1
+erythromycin,DB00199,rifampin,N/A,0
+erythromycin,DB00199,rifabutin,DB00615,0
+erythromycin,DB00199,fluconazole,DB00196,0
+rifampin,N/A,rifabutin,DB00615,0
+rifampin,N/A,ketoconazole,DB01026,0
+rifampin,N/A,fluconazole,DB00196,0
+rifabutin,DB00615,ketoconazole,DB01026,0
+rifabutin,DB00615,fluconazole,DB00196,1
+ketoconazole,DB01026,fluconazole,DB00196,0
+cimetidine,DB00501,trimetrexate,DB01157,1
+cimetidine,DB00501,acetaminophen,DB00316,0
+trimetrexate,DB01157,acetaminophen,DB00316,0
+imidazole drugs,N/A,clotrimazole,DB00257,0
+imidazole drugs,N/A,ketoconazole,DB01026,0
+imidazole drugs,N/A,miconazole,DB01110,0
+imidazole drugs,N/A,trimetrexate,DB01157,1
+clotrimazole,DB00257,ketoconazole,DB01026,0
+clotrimazole,DB00257,miconazole,DB01110,0
+clotrimazole,DB00257,trimetrexate,DB01157,1
+ketoconazole,DB01026,trimetrexate,DB01157,1
+miconazole,DB01110,trimetrexate,DB01157,1
+aggrastat,N/A,aspirin,N/A,0
+aggrastat,N/A,heparin,DB01109,0
+aspirin,N/A,heparin,DB01109,0
+heparin,DB01109,aspirin,N/A,0
+heparin,DB01109,heparin,DB01109,0
+aspirin,N/A,aspirin,N/A,0
+diphosphonate,N/A,calcitonin (salmon),N/A,1
+barbiturates,N/A,antihistamines,N/A,0
+barbiturates,N/A,narcotics,N/A,0
+barbiturates,N/A,hypotensive agents,N/A,0
+barbiturates,N/A,phenothiazines,N/A,0
+antihistamines,N/A,narcotics,N/A,0
+antihistamines,N/A,hypotensive agents,N/A,0
+antihistamines,N/A,phenothiazines,N/A,0
+narcotics,N/A,hypotensive agents,N/A,0
+narcotics,N/A,phenothiazines,N/A,0
+hypotensive agents,N/A,phenothiazines,N/A,0
+matulane,N/A,sympathomimetic drugs,N/A,1
+matulane,N/A,tricyclic antidepressant,N/A,1
+matulane,N/A,amitriptyline hcl,N/A,1
+matulane,N/A,imipramine hcl,N/A,1
+matulane,N/A,tyramine,DB08841,1
+sympathomimetic drugs,N/A,tricyclic antidepressant,N/A,0
+sympathomimetic drugs,N/A,amitriptyline hcl,N/A,0
+sympathomimetic drugs,N/A,imipramine hcl,N/A,0
+sympathomimetic drugs,N/A,tyramine,DB08841,0
+tricyclic antidepressant,N/A,amitriptyline hcl,N/A,0
+tricyclic antidepressant,N/A,imipramine hcl,N/A,0
+tricyclic antidepressant,N/A,tyramine,DB08841,0
+amitriptyline hcl,N/A,imipramine hcl,N/A,0
+amitriptyline hcl,N/A,tyramine,DB08841,0
+imipramine hcl,N/A,tyramine,DB08841,0
+chemotherapeutic agents,N/A,steroids,N/A,0
+lithium,N/A,neulasta,N/A,1
+mycamine,N/A,mycophenolate mofetil,DB00688,0
+mycamine,N/A,cyclosporine,DB00091,0
+mycamine,N/A,tacrolimus,DB00864,0
+mycamine,N/A,prednisolone,DB00860,0
+mycamine,N/A,sirolimus,DB00877,0
+mycamine,N/A,nifedipine,DB01115,0
+mycamine,N/A,fluconazole,DB00196,0
+mycamine,N/A,ritonavir,DB00503,0
+mycamine,N/A,rifampin,N/A,0
+mycophenolate mofetil,DB00688,cyclosporine,DB00091,0
+mycophenolate mofetil,DB00688,tacrolimus,DB00864,0
+mycophenolate mofetil,DB00688,prednisolone,DB00860,0
+mycophenolate mofetil,DB00688,sirolimus,DB00877,0
+mycophenolate mofetil,DB00688,nifedipine,DB01115,0
+mycophenolate mofetil,DB00688,fluconazole,DB00196,0
+mycophenolate mofetil,DB00688,ritonavir,DB00503,0
+mycophenolate mofetil,DB00688,rifampin,N/A,0
+cyclosporine,DB00091,tacrolimus,DB00864,0
+cyclosporine,DB00091,prednisolone,DB00860,0
+cyclosporine,DB00091,sirolimus,DB00877,0
+cyclosporine,DB00091,nifedipine,DB01115,0
+cyclosporine,DB00091,fluconazole,DB00196,0
+cyclosporine,DB00091,ritonavir,DB00503,0
+cyclosporine,DB00091,rifampin,N/A,0
+tacrolimus,DB00864,prednisolone,DB00860,0
+tacrolimus,DB00864,sirolimus,DB00877,0
+tacrolimus,DB00864,nifedipine,DB01115,0
+tacrolimus,DB00864,fluconazole,DB00196,1
+tacrolimus,DB00864,ritonavir,DB00503,0
+tacrolimus,DB00864,rifampin,N/A,0
+prednisolone,DB00860,sirolimus,DB00877,0
+prednisolone,DB00860,nifedipine,DB01115,0
+prednisolone,DB00860,fluconazole,DB00196,0
+prednisolone,DB00860,ritonavir,DB00503,0
+prednisolone,DB00860,rifampin,N/A,0
+sirolimus,DB00877,nifedipine,DB01115,0
+sirolimus,DB00877,fluconazole,DB00196,0
+sirolimus,DB00877,ritonavir,DB00503,0
+sirolimus,DB00877,rifampin,N/A,0
+nifedipine,DB01115,fluconazole,DB00196,0
+nifedipine,DB01115,ritonavir,DB00503,0
+nifedipine,DB01115,rifampin,N/A,0
+fluconazole,DB00196,ritonavir,DB00503,0
+fluconazole,DB00196,rifampin,N/A,0
+ritonavir,DB00503,rifampin,N/A,0
+sirolimus,DB00877,mycamine,N/A,1
+sirolimus,DB00877,sirolimus,DB00877,0
+nifedipine,DB01115,mycamine,N/A,1
+nifedipine,DB01115,nifedipine,DB01115,0
+sirolimus,DB00877,mycamine,N/A,1
+sirolimus,DB00877,sirolimus,DB00877,0
+nifedipine,DB01115,mycamine,N/A,1
+nifedipine,DB01115,sirolimus,DB00877,0
+nifedipine,DB01115,nifedipine,DB01115,0
+opioids,N/A,levomepromazine,N/A,1
+opioids,N/A,opioids,N/A,0
+levomepromazine,N/A,opioids,N/A,1
+tramadol,DB00193,ultram,N/A,0
+levomepromazine,N/A,benzodiazepines,N/A,1
+levomepromazine,N/A,barbiturates,N/A,1
+benzodiazepines,N/A,barbiturates,N/A,0
+levomepromazine,N/A,anticholinergic drugs,N/A,1
+levomepromazine,N/A,tricyclic antidepressants,N/A,1
+levomepromazine,N/A,antiparkinsonian-agents,N/A,1
+anticholinergic drugs,N/A,antiparkinsonian-agents,N/A,0
+tricyclic antidepressants,N/A,antiparkinsonian-agents,N/A,0
+caffeine,DB00201,ephedrine,DB01364,0
+caffeine,DB00201,amphetamine,DB00182,0
+caffeine,DB00201,levomepromazine,N/A,1
+ephedrine,DB01364,amphetamine,DB00182,0
+ephedrine,DB01364,levomepromazine,N/A,1
+amphetamine,DB00182,levomepromazine,N/A,1
+mivacron,N/A,mivacron,N/A,0
+mivacron,N/A,succinylcholine,DB00202,0
+succinylcholine,DB00202,nondepolarizing agents,N/A,1
+succinylcholine,DB00202,mivacron,N/A,1
+succinylcholine,DB00202,succinylcholine,DB00202,0
+mivacron,N/A,nondepolarizing neuromuscular blocking agents,N/A,0
+isoflurane,DB00753,enflurane,DB00228,0
+isoflurane,DB00753,nitrous oxide,DB06690,0
+isoflurane,DB00753,oxygen,DB09140,0
+enflurane,DB00228,nitrous oxide,DB06690,0
+enflurane,DB00228,oxygen,DB09140,0
+nitrous oxide,DB06690,oxygen,DB09140,0
+mivacron,N/A,enflurane,DB00228,0
+mivacron,N/A,isoflurane,DB00753,0
+enflurane,DB00228,isoflurane,DB00753,0
+nondepolarizing agents,N/A,mivacron,N/A,0
+nondepolarizing agents,N/A,antibiotics,N/A,1
+nondepolarizing agents,N/A,aminoglycosides,N/A,1
+nondepolarizing agents,N/A,tetracyclines,N/A,1
+nondepolarizing agents,N/A,bacitracin,DB00626,1
+nondepolarizing agents,N/A,polymyxins,N/A,1
+nondepolarizing agents,N/A,lincomycin,DB01627,1
+nondepolarizing agents,N/A,clindamycin,DB01190,1
+nondepolarizing agents,N/A,colistin,DB00803,1
+nondepolarizing agents,N/A,sodium colistimethate,N/A,1
+nondepolarizing agents,N/A,magnesium,DB14513,1
+nondepolarizing agents,N/A,lithium,N/A,1
+nondepolarizing agents,N/A,anesthetics,N/A,1
+nondepolarizing agents,N/A,procainamide,DB01035,1
+nondepolarizing agents,N/A,quinidine,DB00908,1
+mivacron,N/A,antibiotics,N/A,1
+mivacron,N/A,aminoglycosides,N/A,1
+mivacron,N/A,tetracyclines,N/A,1
+mivacron,N/A,bacitracin,DB00626,1
+mivacron,N/A,polymyxins,N/A,1
+mivacron,N/A,lincomycin,DB01627,1
+mivacron,N/A,clindamycin,DB01190,1
+mivacron,N/A,colistin,DB00803,1
+mivacron,N/A,sodium colistimethate,N/A,1
+mivacron,N/A,magnesium,DB14513,1
+mivacron,N/A,lithium,N/A,1
+mivacron,N/A,anesthetics,N/A,1
+mivacron,N/A,procainamide,DB01035,1
+mivacron,N/A,quinidine,DB00908,1
+antibiotics,N/A,aminoglycosides,N/A,0
+antibiotics,N/A,tetracyclines,N/A,0
+antibiotics,N/A,bacitracin,DB00626,0
+antibiotics,N/A,polymyxins,N/A,0
+antibiotics,N/A,lincomycin,DB01627,0
+antibiotics,N/A,clindamycin,DB01190,0
+antibiotics,N/A,colistin,DB00803,0
+antibiotics,N/A,sodium colistimethate,N/A,0
+antibiotics,N/A,magnesium,DB14513,0
+antibiotics,N/A,lithium,N/A,0
+antibiotics,N/A,anesthetics,N/A,0
+antibiotics,N/A,procainamide,DB01035,0
+antibiotics,N/A,quinidine,DB00908,0
+aminoglycosides,N/A,tetracyclines,N/A,0
+aminoglycosides,N/A,polymyxins,N/A,0
+aminoglycosides,N/A,lincomycin,DB01627,0
+aminoglycosides,N/A,clindamycin,DB01190,0
+aminoglycosides,N/A,sodium colistimethate,N/A,0
+aminoglycosides,N/A,magnesium,DB14513,0
+aminoglycosides,N/A,lithium,N/A,0
+aminoglycosides,N/A,anesthetics,N/A,0
+aminoglycosides,N/A,procainamide,DB01035,0
+aminoglycosides,N/A,quinidine,DB00908,0
+tetracyclines,N/A,bacitracin,DB00626,0
+tetracyclines,N/A,polymyxins,N/A,0
+tetracyclines,N/A,lincomycin,DB01627,0
+tetracyclines,N/A,clindamycin,DB01190,0
+tetracyclines,N/A,colistin,DB00803,0
+tetracyclines,N/A,sodium colistimethate,N/A,0
+tetracyclines,N/A,magnesium,DB14513,1
+tetracyclines,N/A,lithium,N/A,0
+tetracyclines,N/A,anesthetics,N/A,0
+tetracyclines,N/A,procainamide,DB01035,0
+tetracyclines,N/A,quinidine,DB00908,0
+bacitracin,DB00626,polymyxins,N/A,0
+bacitracin,DB00626,lincomycin,DB01627,0
+bacitracin,DB00626,clindamycin,DB01190,0
+bacitracin,DB00626,sodium colistimethate,N/A,0
+bacitracin,DB00626,magnesium,DB14513,0
+bacitracin,DB00626,lithium,N/A,0
+bacitracin,DB00626,anesthetics,N/A,0
+bacitracin,DB00626,procainamide,DB01035,0
+bacitracin,DB00626,quinidine,DB00908,0
+polymyxins,N/A,lincomycin,DB01627,0
+polymyxins,N/A,clindamycin,DB01190,0
+polymyxins,N/A,colistin,DB00803,0
+polymyxins,N/A,sodium colistimethate,N/A,0
+polymyxins,N/A,magnesium,DB14513,0
+polymyxins,N/A,lithium,N/A,0
+polymyxins,N/A,anesthetics,N/A,0
+polymyxins,N/A,procainamide,DB01035,0
+polymyxins,N/A,quinidine,DB00908,0
+lincomycin,DB01627,clindamycin,DB01190,0
+lincomycin,DB01627,colistin,DB00803,0
+lincomycin,DB01627,sodium colistimethate,N/A,0
+lincomycin,DB01627,magnesium,DB14513,0
+lincomycin,DB01627,lithium,N/A,0
+lincomycin,DB01627,anesthetics,N/A,0
+lincomycin,DB01627,procainamide,DB01035,0
+lincomycin,DB01627,quinidine,DB00908,0
+clindamycin,DB01190,colistin,DB00803,0
+clindamycin,DB01190,sodium colistimethate,N/A,0
+clindamycin,DB01190,magnesium,DB14513,0
+clindamycin,DB01190,lithium,N/A,0
+clindamycin,DB01190,anesthetics,N/A,0
+clindamycin,DB01190,procainamide,DB01035,0
+clindamycin,DB01190,quinidine,DB00908,0
+colistin,DB00803,sodium colistimethate,N/A,0
+colistin,DB00803,magnesium,DB14513,0
+colistin,DB00803,lithium,N/A,0
+colistin,DB00803,anesthetics,N/A,0
+colistin,DB00803,procainamide,DB01035,0
+colistin,DB00803,quinidine,DB00908,0
+sodium colistimethate,N/A,magnesium,DB14513,0
+sodium colistimethate,N/A,lithium,N/A,0
+sodium colistimethate,N/A,anesthetics,N/A,0
+sodium colistimethate,N/A,procainamide,DB01035,0
+sodium colistimethate,N/A,quinidine,DB00908,0
+magnesium,DB14513,lithium,N/A,0
+magnesium,DB14513,anesthetics,N/A,0
+magnesium,DB14513,procainamide,DB01035,0
+magnesium,DB14513,quinidine,DB00908,0
+lithium,N/A,anesthetics,N/A,0
+lithium,N/A,procainamide,DB01035,0
+lithium,N/A,quinidine,DB00908,0
+anesthetics,N/A,procainamide,DB01035,0
+anesthetics,N/A,quinidine,DB00908,0
+procainamide,DB01035,quinidine,DB00908,0
+mivacron,N/A,contraceptives,N/A,1
+mivacron,N/A,glucocorticoids,N/A,1
+mivacron,N/A,monoamine oxidase inhibitors,N/A,1
+mivacron,N/A,neuromuscular blocking agents,N/A,0
+mivacron,N/A,phenytoin,DB00252,0
+mivacron,N/A,carbamazepine,DB00564,0
+contraceptives,N/A,glucocorticoids,N/A,0
+contraceptives,N/A,monoamine oxidase inhibitors,N/A,0
+contraceptives,N/A,neuromuscular blocking agents,N/A,0
+contraceptives,N/A,phenytoin,DB00252,0
+contraceptives,N/A,carbamazepine,DB00564,0
+glucocorticoids,N/A,monoamine oxidase inhibitors,N/A,0
+glucocorticoids,N/A,neuromuscular blocking agents,N/A,0
+glucocorticoids,N/A,phenytoin,DB00252,0
+glucocorticoids,N/A,carbamazepine,DB00564,0
+monoamine oxidase inhibitors,N/A,neuromuscular blocking agents,N/A,0
+monoamine oxidase inhibitors,N/A,phenytoin,DB00252,0
+monoamine oxidase inhibitors,N/A,carbamazepine,DB00564,0
+neuromuscular blocking agents,N/A,phenytoin,DB00252,1
+neuromuscular blocking agents,N/A,carbamazepine,DB00564,1
+phenytoin,DB00252,carbamazepine,DB00564,0
+phenytoin,DB00252,mivacron,N/A,1
+carbamazepine,DB00564,mivacron,N/A,1
+corticosteroids,N/A,phenytoin,DB00252,0
+corticosteroids,N/A,carbamazepine,DB00564,0
+corticosteroids,N/A,antibiotics,N/A,0
+corticosteroids,N/A,cisplatin,DB00515,0
+corticosteroids,N/A,edrophonium,DB01010,0
+corticosteroids,N/A,neostigmine,DB01400,0
+corticosteroids,N/A,polymyxin b,DB00781,0
+corticosteroids,N/A,bacitracin,DB00626,0
+corticosteroids,N/A,anesthetics,N/A,0
+corticosteroids,N/A,procaine,DB00721,0
+corticosteroids,N/A,succinylcholine,DB00202,0
+corticosteroids,N/A,muscle relaxants,N/A,0
+phenytoin,DB00252,antibiotics,N/A,0
+phenytoin,DB00252,cisplatin,DB00515,0
+phenytoin,DB00252,edrophonium,DB01010,0
+phenytoin,DB00252,neostigmine,DB01400,0
+phenytoin,DB00252,polymyxin b,DB00781,0
+phenytoin,DB00252,bacitracin,DB00626,0
+phenytoin,DB00252,anesthetics,N/A,0
+phenytoin,DB00252,procaine,DB00721,0
+phenytoin,DB00252,succinylcholine,DB00202,0
+phenytoin,DB00252,muscle relaxants,N/A,0
+carbamazepine,DB00564,antibiotics,N/A,0
+carbamazepine,DB00564,cisplatin,DB00515,0
+carbamazepine,DB00564,edrophonium,DB01010,0
+carbamazepine,DB00564,neostigmine,DB01400,0
+carbamazepine,DB00564,polymyxin b,DB00781,0
+carbamazepine,DB00564,bacitracin,DB00626,0
+carbamazepine,DB00564,anesthetics,N/A,0
+carbamazepine,DB00564,procaine,DB00721,0
+carbamazepine,DB00564,succinylcholine,DB00202,0
+carbamazepine,DB00564,muscle relaxants,N/A,0
+antibiotics,N/A,cisplatin,DB00515,0
+antibiotics,N/A,edrophonium,DB01010,0
+antibiotics,N/A,neostigmine,DB01400,0
+antibiotics,N/A,polymyxin b,DB00781,0
+antibiotics,N/A,procaine,DB00721,0
+antibiotics,N/A,succinylcholine,DB00202,0
+antibiotics,N/A,muscle relaxants,N/A,0
+cisplatin,DB00515,edrophonium,DB01010,0
+cisplatin,DB00515,neostigmine,DB01400,0
+cisplatin,DB00515,polymyxin b,DB00781,0
+cisplatin,DB00515,bacitracin,DB00626,0
+cisplatin,DB00515,anesthetics,N/A,0
+cisplatin,DB00515,procaine,DB00721,0
+cisplatin,DB00515,succinylcholine,DB00202,0
+cisplatin,DB00515,muscle relaxants,N/A,0
+edrophonium,DB01010,neostigmine,DB01400,0
+edrophonium,DB01010,polymyxin b,DB00781,0
+edrophonium,DB01010,bacitracin,DB00626,0
+edrophonium,DB01010,anesthetics,N/A,0
+edrophonium,DB01010,procaine,DB00721,0
+edrophonium,DB01010,succinylcholine,DB00202,0
+edrophonium,DB01010,muscle relaxants,N/A,0
+neostigmine,DB01400,polymyxin b,DB00781,0
+neostigmine,DB01400,bacitracin,DB00626,0
+neostigmine,DB01400,anesthetics,N/A,0
+neostigmine,DB01400,procaine,DB00721,0
+neostigmine,DB01400,succinylcholine,DB00202,0
+neostigmine,DB01400,muscle relaxants,N/A,0
+polymyxin b,DB00781,bacitracin,DB00626,0
+polymyxin b,DB00781,anesthetics,N/A,0
+polymyxin b,DB00781,procaine,DB00721,0
+polymyxin b,DB00781,succinylcholine,DB00202,0
+polymyxin b,DB00781,muscle relaxants,N/A,0
+bacitracin,DB00626,procaine,DB00721,0
+bacitracin,DB00626,succinylcholine,DB00202,0
+bacitracin,DB00626,muscle relaxants,N/A,0
+anesthetics,N/A,procaine,DB00721,0
+anesthetics,N/A,anesthetics,N/A,0
+anesthetics,N/A,succinylcholine,DB00202,0
+anesthetics,N/A,muscle relaxants,N/A,0
+procaine,DB00721,anesthetics,N/A,0
+procaine,DB00721,succinylcholine,DB00202,0
+procaine,DB00721,muscle relaxants,N/A,0
+succinylcholine,DB00202,muscle relaxants,N/A,0
+vesicare,N/A,ketoconazole,DB01026,1
+solifenacin,DB01591,solifenacin,DB01591,0
+solifenacin,DB01591,moxifloxacin,DB00218,0
+guanethidine,DB01170,minoxidil,DB00350,0
+guanethidine,DB01170,guanethidine,DB01170,0
+minoxidil,DB00350,guanethidine,DB01170,1
+guanethidine,DB01170,minoxidil,DB00350,1
+zavesca,N/A,cerezyme,N/A,0
+cerezyme,N/A,cerezyme,N/A,0
+cerezyme,N/A,imiglucerase,DB00053,0
+cerezyme,N/A,zavesca,N/A,1
+imiglucerase,DB00053,zavesca,N/A,1
+aminoglutethimide,DB00357,depo-subq provera 104,N/A,1
+aminoglutethimide,DB00357,mpa,N/A,0
+depo-subq provera 104,N/A,mpa,N/A,0
+steroids,N/A,acth,N/A,0
+thiazides,N/A,norepinephrine,DB00368,1
+thiazide drugs,N/A,tubocurarine,DB01199,1
+lithium,N/A,thiazides,N/A,1
+lithium,N/A,lithium,N/A,0
+thiazides,N/A,lithium,N/A,0
+thiazides,N/A,antihypertensive drugs,N/A,1
+ganglionic adrenergic blocking drugs,N/A,peripheral adrenergic blocking drugs,N/A,0
+diuretics,N/A,diuretics,N/A,0
+diuretics,N/A,aceon,N/A,0
+diuretics,N/A,aceon,N/A,1
+diuretic,N/A,perindopril,DB00790,1
+perindopril,DB00790,diuretics,N/A,0
+perindoprilat,DB14213,diuretics,N/A,0
+potassium,DB14500,potassium-sparing diuretics,N/A,0
+potassium,DB14500,aceon,N/A,0
+potassium-sparing diuretics,N/A,aceon,N/A,0
+potassium-sparing diuretics,N/A,spironolactone,DB00421,0
+potassium-sparing diuretics,N/A,amiloride,DB00594,0
+potassium-sparing diuretics,N/A,triamterene,DB00384,0
+potassium-sparing diuretics,N/A,potassium,DB14500,0
+potassium-sparing diuretics,N/A,indomethacin,DB00328,0
+potassium-sparing diuretics,N/A,heparin,DB01109,0
+potassium-sparing diuretics,N/A,cyclosporine,DB00091,0
+spironolactone,DB00421,amiloride,DB00594,0
+spironolactone,DB00421,triamterene,DB00384,0
+spironolactone,DB00421,potassium,DB14500,0
+spironolactone,DB00421,indomethacin,DB00328,0
+spironolactone,DB00421,heparin,DB01109,0
+spironolactone,DB00421,cyclosporine,DB00091,0
+amiloride,DB00594,triamterene,DB00384,0
+amiloride,DB00594,potassium,DB14500,0
+amiloride,DB00594,indomethacin,DB00328,0
+amiloride,DB00594,heparin,DB01109,0
+amiloride,DB00594,cyclosporine,DB00091,0
+triamterene,DB00384,potassium,DB14500,0
+triamterene,DB00384,indomethacin,DB00328,0
+triamterene,DB00384,heparin,DB01109,0
+triamterene,DB00384,cyclosporine,DB00091,0
+potassium,DB14500,indomethacin,DB00328,0
+potassium,DB14500,heparin,DB01109,0
+potassium,DB14500,cyclosporine,DB00091,0
+indomethacin,DB00328,heparin,DB01109,0
+indomethacin,DB00328,cyclosporine,DB00091,0
+heparin,DB01109,cyclosporine,DB00091,0
+lithium,N/A,lithium,N/A,0
+diuretic,N/A,lithium,N/A,1
+digoxin,DB00390,digoxin,DB00390,0
+digoxin,DB00390,aceon,N/A,0
+digoxin,DB00390,perindopril,DB00790,0
+digoxin,DB00390,perindoprilat,DB14213,0
+digoxin,DB00390,aceon,N/A,0
+digoxin,DB00390,digoxin,DB00390,0
+digoxin,DB00390,perindopril,DB00790,1
+digoxin,DB00390,perindoprilat,DB14213,1
+aceon,N/A,digoxin,DB00390,0
+aceon,N/A,perindopril,DB00790,0
+aceon,N/A,perindoprilat,DB14213,0
+perindopril,DB00790,perindoprilat,DB14213,0
+gentamicin,DB00798,perindopril,DB00790,0
+gentamicin,DB00798,gentamicin,DB00798,0
+perindopril,DB00790,gentamicin,DB00798,1
+alcohol,N/A,cns depression-producing drugs,N/A,0
+alcohol,N/A,methyprylon,DB01107,1
+cns depression-producing drugs,N/A,methyprylon,DB01107,1
+valproic acid,DB00313,temozolomide,DB00853,1
+tolbutamide,DB01124,sodium salicylate,N/A,0
+tolbutamide,DB01124,sulfamethizole,DB00576,0
+tolbutamide,DB01124,teniposide,DB00444,1
+sodium salicylate,N/A,sulfamethizole,DB00576,0
+sodium salicylate,N/A,teniposide,DB00444,1
+sulfamethizole,DB00576,teniposide,DB00444,1
+vumon,N/A,teniposide,DB00444,0
+teniposide,DB00444,methotrexate,DB00563,0
+methotrexate,DB00563,teniposide,DB00444,1
+anticoagulants,N/A,anticoagulants,N/A,0
+anticoagulants,N/A,methimazole,DB00763,0
+anticoagulants,N/A,methimazole,DB00763,1
+digitalis glycosides,N/A,digitalis glycoside,N/A,0
+theophylline,DB00277,theophylline,DB00277,0
+theophylline,DB00277,theophylline,DB00277,0
+cylert,N/A,pemoline,DB01230,0
+cylert,N/A,antiepileptic medications,N/A,1
+diuretics,N/A,furosemide,DB00695,0
+diuretics,N/A,loop diuretics,N/A,0
+diuretics,N/A,metolazone,DB00524,0
+furosemide,DB00695,loop diuretics,N/A,0
+furosemide,DB00695,metolazone,DB00524,1
+loop diuretics,N/A,metolazone,DB00524,1
+antihypertensives,N/A,mykrox,N/A,0
+antihypertensives,N/A,antihypertensive drugs,N/A,0
+mykrox,N/A,antihypertensive drugs,N/A,1
+alcohol,N/A,barbiturates,N/A,0
+alcohol,N/A,narcotics,N/A,0
+alcohol,N/A,metolazone,DB00524,0
+barbiturates,N/A,narcotics,N/A,0
+barbiturates,N/A,metolazone,DB00524,0
+narcotics,N/A,metolazone,DB00524,0
+digitalis glycosides,N/A,diuretic,N/A,0
+digitalis glycosides,N/A,digitalis,N/A,0
+diuretic,N/A,digitalis,N/A,1
+corticosteroids,N/A,acth,N/A,0
+curariform drugs,N/A,diuretic,N/A,0
+curariform drugs,N/A,curariform drugs,N/A,0
+curariform drugs,N/A,tubocurarine,DB01199,0
+diuretic,N/A,curariform drugs,N/A,1
+diuretic,N/A,tubocurarine,DB01199,1
+curariform drugs,N/A,tubocurarine,DB01199,0
+salicylates,N/A,non-steroidal anti-inflammatory drugs,N/A,0
+salicylates,N/A,mykrox,N/A,1
+non-steroidal anti-inflammatory drugs,N/A,mykrox,N/A,1
+sympathomimetics,N/A,metolazone,DB00524,0
+sympathomimetics,N/A,norepinephrine,DB00368,0
+metolazone,DB00524,norepinephrine,DB00368,1
+methenamine,DB06799,metolazone,DB00524,1
+anticoagulants,N/A,metolazone,DB00524,0
+anticoagulants,N/A,thiazide-like diuretics,N/A,0
+metolazone,DB00524,thiazide-like diuretics,N/A,0
+metolazone,DB00524,anticoagulants,N/A,1
+thiazide-like diuretics,N/A,anticoagulants,N/A,0
+anticholinergic drugs,N/A,amantadine,DB00915,1
+anticholinergic drugs,N/A,antiarrhythmic agents of class i,N/A,1
+anticholinergic drugs,N/A,quinidine,DB00908,1
+anticholinergic drugs,N/A,antihistamines,N/A,1
+anticholinergic drugs,N/A,antipsychotic agents,N/A,1
+anticholinergic drugs,N/A,phenothiazines,N/A,1
+anticholinergic drugs,N/A,benzodiazepines,N/A,1
+anticholinergic drugs,N/A,mao inhibitors,N/A,1
+anticholinergic drugs,N/A,narcotic analgesics,N/A,0
+anticholinergic drugs,N/A,meperidine,DB00454,1
+anticholinergic drugs,N/A,nitrates,N/A,1
+anticholinergic drugs,N/A,nitrites,N/A,1
+anticholinergic drugs,N/A,sympathomimetic agents,N/A,1
+amantadine,DB00915,antiarrhythmic agents of class i,N/A,0
+amantadine,DB00915,quinidine,DB00908,0
+amantadine,DB00915,antihistamines,N/A,0
+amantadine,DB00915,antipsychotic agents,N/A,0
+amantadine,DB00915,phenothiazines,N/A,0
+amantadine,DB00915,benzodiazepines,N/A,0
+amantadine,DB00915,mao inhibitors,N/A,0
+amantadine,DB00915,narcotic analgesics,N/A,0
+amantadine,DB00915,meperidine,DB00454,0
+amantadine,DB00915,nitrates,N/A,0
+amantadine,DB00915,nitrites,N/A,0
+amantadine,DB00915,sympathomimetic agents,N/A,0
+amantadine,DB00915,tricyclic antidepressants,N/A,0
+antiarrhythmic agents of class i,N/A,quinidine,DB00908,0
+antiarrhythmic agents of class i,N/A,antihistamines,N/A,0
+antiarrhythmic agents of class i,N/A,antipsychotic agents,N/A,0
+antiarrhythmic agents of class i,N/A,phenothiazines,N/A,0
+antiarrhythmic agents of class i,N/A,benzodiazepines,N/A,0
+antiarrhythmic agents of class i,N/A,mao inhibitors,N/A,0
+antiarrhythmic agents of class i,N/A,narcotic analgesics,N/A,0
+antiarrhythmic agents of class i,N/A,meperidine,DB00454,0
+antiarrhythmic agents of class i,N/A,nitrates,N/A,0
+antiarrhythmic agents of class i,N/A,nitrites,N/A,0
+antiarrhythmic agents of class i,N/A,sympathomimetic agents,N/A,0
+antiarrhythmic agents of class i,N/A,tricyclic antidepressants,N/A,0
+quinidine,DB00908,antihistamines,N/A,0
+quinidine,DB00908,antipsychotic agents,N/A,0
+quinidine,DB00908,phenothiazines,N/A,0
+quinidine,DB00908,benzodiazepines,N/A,0
+quinidine,DB00908,mao inhibitors,N/A,0
+quinidine,DB00908,narcotic analgesics,N/A,0
+quinidine,DB00908,meperidine,DB00454,0
+quinidine,DB00908,nitrates,N/A,0
+quinidine,DB00908,nitrites,N/A,0
+quinidine,DB00908,sympathomimetic agents,N/A,0
+quinidine,DB00908,tricyclic antidepressants,N/A,0
+antihistamines,N/A,antipsychotic agents,N/A,0
+antihistamines,N/A,benzodiazepines,N/A,0
+antihistamines,N/A,mao inhibitors,N/A,0
+antihistamines,N/A,narcotic analgesics,N/A,0
+antihistamines,N/A,meperidine,DB00454,0
+antihistamines,N/A,nitrates,N/A,0
+antihistamines,N/A,nitrites,N/A,0
+antihistamines,N/A,sympathomimetic agents,N/A,0
+antihistamines,N/A,tricyclic antidepressants,N/A,0
+antipsychotic agents,N/A,phenothiazines,N/A,0
+antipsychotic agents,N/A,benzodiazepines,N/A,0
+antipsychotic agents,N/A,mao inhibitors,N/A,0
+antipsychotic agents,N/A,narcotic analgesics,N/A,0
+antipsychotic agents,N/A,meperidine,DB00454,0
+antipsychotic agents,N/A,nitrates,N/A,0
+antipsychotic agents,N/A,nitrites,N/A,0
+antipsychotic agents,N/A,sympathomimetic agents,N/A,0
+antipsychotic agents,N/A,tricyclic antidepressants,N/A,0
+phenothiazines,N/A,benzodiazepines,N/A,0
+phenothiazines,N/A,mao inhibitors,N/A,0
+phenothiazines,N/A,narcotic analgesics,N/A,0
+phenothiazines,N/A,meperidine,DB00454,0
+phenothiazines,N/A,nitrates,N/A,0
+phenothiazines,N/A,nitrites,N/A,0
+phenothiazines,N/A,sympathomimetic agents,N/A,0
+phenothiazines,N/A,tricyclic antidepressants,N/A,0
+benzodiazepines,N/A,mao inhibitors,N/A,0
+benzodiazepines,N/A,narcotic analgesics,N/A,0
+benzodiazepines,N/A,meperidine,DB00454,0
+benzodiazepines,N/A,nitrates,N/A,0
+benzodiazepines,N/A,nitrites,N/A,0
+benzodiazepines,N/A,sympathomimetic agents,N/A,0
+benzodiazepines,N/A,tricyclic antidepressants,N/A,0
+mao inhibitors,N/A,narcotic analgesics,N/A,0
+mao inhibitors,N/A,meperidine,DB00454,0
+mao inhibitors,N/A,nitrates,N/A,0
+mao inhibitors,N/A,nitrites,N/A,0
+mao inhibitors,N/A,sympathomimetic agents,N/A,0
+mao inhibitors,N/A,tricyclic antidepressants,N/A,0
+narcotic analgesics,N/A,meperidine,DB00454,0
+narcotic analgesics,N/A,nitrates,N/A,0
+narcotic analgesics,N/A,nitrites,N/A,0
+narcotic analgesics,N/A,sympathomimetic agents,N/A,0
+narcotic analgesics,N/A,tricyclic antidepressants,N/A,0
+meperidine,DB00454,nitrates,N/A,0
+meperidine,DB00454,nitrites,N/A,0
+meperidine,DB00454,sympathomimetic agents,N/A,0
+meperidine,DB00454,tricyclic antidepressants,N/A,0
+nitrates,N/A,nitrites,N/A,0
+nitrates,N/A,sympathomimetic agents,N/A,0
+nitrates,N/A,tricyclic antidepressants,N/A,0
+nitrites,N/A,sympathomimetic agents,N/A,0
+nitrites,N/A,tricyclic antidepressants,N/A,0
+sympathomimetic agents,N/A,tricyclic antidepressants,N/A,0
+anticholinergics,N/A,antiglaucoma agents,N/A,1
+anticholinergic drugs,N/A,corticosteroids,N/A,1
+anticholinergic agents,N/A,digoxin,DB00390,1
+anticholinergic drugs,N/A,metoclopramide,DB01233,1
+antacids,N/A,anticholinergic agents,N/A,1
+ropivacaine,DB00296,anesthetics,N/A,1
+ropivacaine,DB00296,amide-type local anesthetics,N/A,0
+anesthetics,N/A,amide-type local anesthetics,N/A,0
+ropivacaine,DB00296,fluvoxamine,DB00176,1
+fluvoxamine,DB00176,ropivacaine,DB00296,0
+fluvoxamine,DB00176,ropivacaine,DB00296,0
+ropivacaine,DB00296,ropivacaine,DB00296,0
+ropivacaine,DB00296,ropivacaine,DB00296,0
+theophylline,DB00277,imipramine,DB00458,0
+ketoconazole,DB01026,ropivacaine,DB00296,0
+ketoconazole,DB01026,ketoconazole,DB01026,0
+ropivacaine,DB00296,ketoconazole,DB01026,0
+ropivacaine,DB00296,ropivacaine,DB00296,0
+diuretics,N/A,thiazides,N/A,0
+sulfamethoxazole,DB01015,anticoagulant,N/A,0
+sulfamethoxazole,DB01015,warfarin,DB00682,1
+anticoagulant,N/A,warfarin,DB00682,0
+sulfamethoxazole,DB01015,phenytoin,DB00252,1
+sulfamethoxazole,DB01015,phenytoin,DB00252,1
+sulfonamides,N/A,methotrexate,DB00563,0
+methotrexate,DB00563,methotrexate,DB00563,0
+purinethol,N/A,mercaptopurine,DB01033,0
+purinethol,N/A,tabloid,N/A,1
+purinethol,N/A,thioguanine,N/A,1
+mercaptopurine,DB01033,tabloid,N/A,1
+mercaptopurine,DB01033,thioguanine,N/A,1
+tabloid,N/A,thioguanine,N/A,0
+aminosalicylate derivatives,N/A,olsalazine,DB01250,0
+aminosalicylate derivatives,N/A,mesalazine,DB00244,0
+aminosalicylate derivatives,N/A,sulphasalazine,N/A,0
+aminosalicylate derivatives,N/A,thioguanine,N/A,1
+olsalazine,DB01250,mesalazine,DB00244,0
+olsalazine,DB01250,sulphasalazine,N/A,0
+olsalazine,DB01250,thioguanine,N/A,1
+mesalazine,DB00244,sulphasalazine,N/A,0
+mesalazine,DB00244,thioguanine,N/A,1
+sulphasalazine,N/A,thioguanine,N/A,1
+thalidomide,DB01041,barbiturates,N/A,1
+thalidomide,DB01041,alcohol,N/A,0
+thalidomide,DB01041,chlorpromazine,DB00477,0
+thalidomide,DB01041,reserpine,DB00206,0
+barbiturates,N/A,alcohol,N/A,0
+barbiturates,N/A,chlorpromazine,DB00477,0
+barbiturates,N/A,reserpine,DB00206,0
+alcohol,N/A,chlorpromazine,DB00477,0
+alcohol,N/A,reserpine,DB00206,0
+chlorpromazine,DB00477,reserpine,DB00206,0
+contraceptives,N/A,norethindrone,N/A,0
+contraceptives,N/A,ethinyl estradiol,N/A,0
+contraceptives,N/A,norethindrone acetate,N/A,0
+norethindrone,N/A,ethinyl estradiol,N/A,0
+norethindrone,N/A,norethindrone acetate,N/A,0
+ethinyl estradiol,N/A,norethindrone acetate,N/A,0
+ethinyl estradiol,N/A,ethinyl estradiol,N/A,0
+norethindrone acetate,N/A,ethinyl estradiol,N/A,0
+thalidomide,DB01041,hormonal contraceptives,N/A,0
+thalidomide,DB01041,hiv-protease inhibitors,N/A,0
+thalidomide,DB01041,griseofulvin,DB00400,0
+thalidomide,DB01041,modafinil,DB00745,0
+thalidomide,DB01041,penicillins,N/A,0
+thalidomide,DB01041,rifampin,N/A,0
+thalidomide,DB01041,rifabutin,DB00615,0
+thalidomide,DB01041,phenytoin,DB00252,0
+thalidomide,DB01041,carbamazepine,DB00564,0
+hormonal contraceptives,N/A,hiv-protease inhibitors,N/A,0
+hormonal contraceptives,N/A,griseofulvin,DB00400,0
+hormonal contraceptives,N/A,modafinil,DB00745,0
+hormonal contraceptives,N/A,penicillins,N/A,0
+hormonal contraceptives,N/A,rifampin,N/A,0
+hormonal contraceptives,N/A,rifabutin,DB00615,0
+hormonal contraceptives,N/A,phenytoin,DB00252,0
+hormonal contraceptives,N/A,carbamazepine,DB00564,0
+hiv-protease inhibitors,N/A,griseofulvin,DB00400,0
+hiv-protease inhibitors,N/A,modafinil,DB00745,0
+hiv-protease inhibitors,N/A,penicillins,N/A,0
+hiv-protease inhibitors,N/A,rifampin,N/A,0
+hiv-protease inhibitors,N/A,rifabutin,DB00615,0
+hiv-protease inhibitors,N/A,phenytoin,DB00252,0
+hiv-protease inhibitors,N/A,carbamazepine,DB00564,0
+griseofulvin,DB00400,modafinil,DB00745,0
+griseofulvin,DB00400,penicillins,N/A,0
+griseofulvin,DB00400,rifampin,N/A,0
+griseofulvin,DB00400,rifabutin,DB00615,0
+griseofulvin,DB00400,phenytoin,DB00252,0
+griseofulvin,DB00400,carbamazepine,DB00564,0
+modafinil,DB00745,penicillins,N/A,0
+modafinil,DB00745,rifampin,N/A,0
+modafinil,DB00745,rifabutin,DB00615,0
+modafinil,DB00745,phenytoin,DB00252,0
+modafinil,DB00745,carbamazepine,DB00564,0
+penicillins,N/A,rifampin,N/A,0
+penicillins,N/A,rifabutin,DB00615,0
+penicillins,N/A,phenytoin,DB00252,0
+penicillins,N/A,carbamazepine,DB00564,0
+rifampin,N/A,phenytoin,DB00252,0
+rifampin,N/A,carbamazepine,DB00564,0
+rifabutin,DB00615,phenytoin,DB00252,0
+rifabutin,DB00615,carbamazepine,DB00564,0
+john's wort,N/A,hormonal contraceptive agents,N/A,1
+reserpine,DB00206,beta-blocking agents,N/A,1
+propoxyphene,N/A,cns depressants,N/A,1
+propoxyphene,N/A,alcohol,N/A,1
+cns depressants,N/A,alcohol,N/A,0
+propoxyphene,N/A,antidepressants,N/A,0
+propoxyphene,N/A,anticonvulsants,N/A,0
+propoxyphene,N/A,warfarin,DB00682,0
+antidepressants,N/A,anticonvulsants,N/A,0
+antidepressants,N/A,warfarin,DB00682,0
+anticonvulsants,N/A,warfarin,DB00682,0
+montelukast,DB00471,theophylline,DB00277,0
+terfenadine,DB00342,fexofenadine,DB00950,0
+terfenadine,DB00342,terfenadine,DB00342,0
+fexofenadine,DB00950,terfenadine,DB00342,0
+montelukast,DB00471,contraceptive,N/A,0
+montelukast,DB00471,norethindrone,N/A,0
+montelukast,DB00471,estradiol,DB00783,0
+contraceptive,N/A,norethindrone,N/A,0
+contraceptive,N/A,estradiol,DB00783,0
+norethindrone,N/A,estradiol,DB00783,0
+prednisone,DB00635,prednisolone,DB00860,0
+prednisone,DB00635,prednisone,DB00635,0
+prednisolone,DB00860,prednisone,DB00635,0
+prednisolone,DB00860,prednisolone,DB00860,0
+phenobarbital,DB01174,montelukast,DB00471,0
+montelukast,DB00471,montelukast,DB00471,0
+phenobarbital,DB01174,rifampin,N/A,0
+phenobarbital,DB01174,montelukast,DB00471,1
+rifampin,N/A,montelukast,DB00471,1
+montelukast,DB00471,theophylline,DB00277,0
+montelukast,DB00471,prednisone,DB00635,0
+montelukast,DB00471,prednisolone,DB00860,0
+montelukast,DB00471,contraceptives,N/A,0
+montelukast,DB00471,norethindrone,N/A,0
+montelukast,DB00471,ethinyl estradiol,N/A,0
+montelukast,DB00471,terfenadine,DB00342,0
+montelukast,DB00471,digoxin,DB00390,0
+montelukast,DB00471,warfarin,DB00682,0
+theophylline,DB00277,prednisone,DB00635,0
+theophylline,DB00277,prednisolone,DB00860,0
+theophylline,DB00277,contraceptives,N/A,0
+theophylline,DB00277,norethindrone,N/A,0
+theophylline,DB00277,ethinyl estradiol,N/A,0
+theophylline,DB00277,terfenadine,DB00342,0
+theophylline,DB00277,digoxin,DB00390,0
+theophylline,DB00277,warfarin,DB00682,0
+prednisone,DB00635,contraceptives,N/A,0
+prednisone,DB00635,norethindrone,N/A,0
+prednisone,DB00635,ethinyl estradiol,N/A,0
+prednisone,DB00635,terfenadine,DB00342,0
+prednisone,DB00635,digoxin,DB00390,0
+prednisone,DB00635,warfarin,DB00682,0
+prednisolone,DB00860,contraceptives,N/A,0
+prednisolone,DB00860,norethindrone,N/A,0
+prednisolone,DB00860,ethinyl estradiol,N/A,0
+prednisolone,DB00860,terfenadine,DB00342,0
+prednisolone,DB00860,digoxin,DB00390,0
+prednisolone,DB00860,warfarin,DB00682,0
+contraceptives,N/A,norethindrone,N/A,0
+contraceptives,N/A,ethinyl estradiol,N/A,0
+contraceptives,N/A,terfenadine,DB00342,0
+contraceptives,N/A,digoxin,DB00390,0
+contraceptives,N/A,warfarin,DB00682,0
+norethindrone,N/A,terfenadine,DB00342,0
+norethindrone,N/A,digoxin,DB00390,0
+norethindrone,N/A,warfarin,DB00682,0
+ethinyl estradiol,N/A,terfenadine,DB00342,0
+ethinyl estradiol,N/A,digoxin,DB00390,0
+ethinyl estradiol,N/A,warfarin,DB00682,0
+terfenadine,DB00342,digoxin,DB00390,0
+terfenadine,DB00342,warfarin,DB00682,0
+digoxin,DB00390,warfarin,DB00682,0
+thyroid hormones,N/A,sedative hypnotics,N/A,0
+thyroid hormones,N/A,non-steroidal anti-inflammatory agents,N/A,0
+thyroid hormones,N/A,benzodiazepines,N/A,0
+thyroid hormones,N/A,decongestants,N/A,0
+sedative hypnotics,N/A,non-steroidal anti-inflammatory agents,N/A,0
+sedative hypnotics,N/A,benzodiazepines,N/A,0
+sedative hypnotics,N/A,decongestants,N/A,0
+non-steroidal anti-inflammatory agents,N/A,benzodiazepines,N/A,0
+non-steroidal anti-inflammatory agents,N/A,decongestants,N/A,0
+benzodiazepines,N/A,decongestants,N/A,0
+carbidopa,DB00190,levodopa,DB01235,0
+carbidopa,DB00190,carbidopa,DB00190,0
+carbidopa,DB00190,pramipexole,DB00413,0
+levodopa,DB01235,carbidopa,DB00190,0
+levodopa,DB01235,levodopa,DB01235,0
+levodopa,DB01235,pramipexole,DB00413,0
+selegiline,DB01037,selegiline,DB01037,0
+selegiline,DB01037,pramipexole,DB00413,0
+selegiline,DB01037,pramipexole,DB00413,0
+amantadine,DB00915,amantadine,DB00915,0
+amantadine,DB00915,pramipexole,DB00413,0
+amantadine,DB00915,pramipexole,DB00413,0
+cimetidine,DB00501,cimetidine,DB00501,0
+cimetidine,DB00501,pramipexole,DB00413,1
+probenecid,DB01032,probenecid,DB01032,0
+probenecid,DB01032,pramipexole,DB00413,0
+cimetidine,DB00501,ranitidine,DB00863,0
+cimetidine,DB00501,diltiazem,DB00343,0
+cimetidine,DB00501,triamterene,DB00384,0
+cimetidine,DB00501,verapamil,DB00661,0
+cimetidine,DB00501,quinidine,DB00908,0
+cimetidine,DB00501,quinine,DB00468,0
+cimetidine,DB00501,pramipexole,DB00413,0
+cimetidine,DB00501,cephalosporins,N/A,0
+cimetidine,DB00501,penicillins,N/A,0
+cimetidine,DB00501,indomethacin,DB00328,0
+cimetidine,DB00501,hydrochlorothiazide,DB00999,0
+cimetidine,DB00501,chlorpropamide,DB00672,0
+ranitidine,DB00863,diltiazem,DB00343,0
+ranitidine,DB00863,triamterene,DB00384,0
+ranitidine,DB00863,verapamil,DB00661,0
+ranitidine,DB00863,quinidine,DB00908,0
+ranitidine,DB00863,quinine,DB00468,0
+ranitidine,DB00863,pramipexole,DB00413,0
+ranitidine,DB00863,cephalosporins,N/A,0
+ranitidine,DB00863,penicillins,N/A,0
+ranitidine,DB00863,indomethacin,DB00328,0
+ranitidine,DB00863,hydrochlorothiazide,DB00999,0
+ranitidine,DB00863,chlorpropamide,DB00672,0
+diltiazem,DB00343,triamterene,DB00384,0
+diltiazem,DB00343,verapamil,DB00661,0
+diltiazem,DB00343,quinidine,DB00908,0
+diltiazem,DB00343,quinine,DB00468,0
+diltiazem,DB00343,pramipexole,DB00413,0
+diltiazem,DB00343,cephalosporins,N/A,0
+diltiazem,DB00343,penicillins,N/A,0
+diltiazem,DB00343,indomethacin,DB00328,0
+diltiazem,DB00343,hydrochlorothiazide,DB00999,0
+diltiazem,DB00343,chlorpropamide,DB00672,0
+triamterene,DB00384,verapamil,DB00661,0
+triamterene,DB00384,quinidine,DB00908,0
+triamterene,DB00384,quinine,DB00468,0
+triamterene,DB00384,pramipexole,DB00413,0
+triamterene,DB00384,cephalosporins,N/A,0
+triamterene,DB00384,penicillins,N/A,0
+triamterene,DB00384,hydrochlorothiazide,DB00999,0
+triamterene,DB00384,chlorpropamide,DB00672,0
+verapamil,DB00661,quinidine,DB00908,0
+verapamil,DB00661,quinine,DB00468,0
+verapamil,DB00661,pramipexole,DB00413,0
+verapamil,DB00661,cephalosporins,N/A,0
+verapamil,DB00661,penicillins,N/A,0
+verapamil,DB00661,indomethacin,DB00328,0
+verapamil,DB00661,hydrochlorothiazide,DB00999,0
+verapamil,DB00661,chlorpropamide,DB00672,0
+quinidine,DB00908,quinine,DB00468,0
+quinidine,DB00908,pramipexole,DB00413,0
+quinidine,DB00908,cephalosporins,N/A,0
+quinidine,DB00908,penicillins,N/A,0
+quinidine,DB00908,indomethacin,DB00328,0
+quinidine,DB00908,hydrochlorothiazide,DB00999,0
+quinidine,DB00908,chlorpropamide,DB00672,0
+quinine,DB00468,pramipexole,DB00413,0
+quinine,DB00468,cephalosporins,N/A,0
+quinine,DB00468,penicillins,N/A,0
+quinine,DB00468,indomethacin,DB00328,0
+quinine,DB00468,hydrochlorothiazide,DB00999,0
+quinine,DB00468,chlorpropamide,DB00672,0
+pramipexole,DB00413,cephalosporins,N/A,0
+pramipexole,DB00413,penicillins,N/A,0
+pramipexole,DB00413,indomethacin,DB00328,0
+pramipexole,DB00413,hydrochlorothiazide,DB00999,0
+pramipexole,DB00413,chlorpropamide,DB00672,0
+pramipexole,DB00413,pramipexole,DB00413,0
+cephalosporins,N/A,penicillins,N/A,0
+cephalosporins,N/A,indomethacin,DB00328,0
+cephalosporins,N/A,hydrochlorothiazide,DB00999,0
+cephalosporins,N/A,chlorpropamide,DB00672,0
+cephalosporins,N/A,pramipexole,DB00413,1
+penicillins,N/A,indomethacin,DB00328,0
+penicillins,N/A,hydrochlorothiazide,DB00999,0
+penicillins,N/A,chlorpropamide,DB00672,0
+penicillins,N/A,pramipexole,DB00413,1
+indomethacin,DB00328,hydrochlorothiazide,DB00999,0
+indomethacin,DB00328,chlorpropamide,DB00672,0
+indomethacin,DB00328,pramipexole,DB00413,1
+hydrochlorothiazide,DB00999,chlorpropamide,DB00672,0
+hydrochlorothiazide,DB00999,pramipexole,DB00413,1
+chlorpropamide,DB00672,pramipexole,DB00413,1
+dopamine antagonists,N/A,pramipexole,DB00413,0
+dopamine antagonists,N/A,dopamine agonist,N/A,0
+dopamine antagonists,N/A,dopamine antagonists,N/A,0
+dopamine antagonists,N/A,neuroleptics,N/A,0
+dopamine antagonists,N/A,phenothiazines,N/A,0
+dopamine antagonists,N/A,butyrophenones,N/A,0
+dopamine antagonists,N/A,thioxanthenes,N/A,0
+dopamine antagonists,N/A,metoclopramide,DB01233,0
+dopamine antagonists,N/A,mirapex,N/A,0
+pramipexole,DB00413,dopamine agonist,N/A,0
+pramipexole,DB00413,dopamine antagonists,N/A,0
+pramipexole,DB00413,neuroleptics,N/A,0
+pramipexole,DB00413,phenothiazines,N/A,0
+pramipexole,DB00413,butyrophenones,N/A,0
+pramipexole,DB00413,thioxanthenes,N/A,0
+pramipexole,DB00413,metoclopramide,DB01233,0
+pramipexole,DB00413,mirapex,N/A,0
+dopamine agonist,N/A,dopamine antagonists,N/A,0
+dopamine agonist,N/A,neuroleptics,N/A,0
+dopamine agonist,N/A,phenothiazines,N/A,0
+dopamine agonist,N/A,butyrophenones,N/A,0
+dopamine agonist,N/A,thioxanthenes,N/A,0
+dopamine agonist,N/A,metoclopramide,DB01233,0
+dopamine agonist,N/A,mirapex,N/A,0
+dopamine antagonists,N/A,neuroleptics,N/A,0
+dopamine antagonists,N/A,phenothiazines,N/A,0
+dopamine antagonists,N/A,butyrophenones,N/A,0
+dopamine antagonists,N/A,thioxanthenes,N/A,0
+dopamine antagonists,N/A,metoclopramide,DB01233,0
+dopamine antagonists,N/A,mirapex,N/A,1
+neuroleptics,N/A,phenothiazines,N/A,0
+neuroleptics,N/A,butyrophenones,N/A,0
+neuroleptics,N/A,thioxanthenes,N/A,0
+neuroleptics,N/A,metoclopramide,DB01233,0
+neuroleptics,N/A,mirapex,N/A,1
+phenothiazines,N/A,butyrophenones,N/A,0
+phenothiazines,N/A,thioxanthenes,N/A,0
+phenothiazines,N/A,metoclopramide,DB01233,0
+phenothiazines,N/A,mirapex,N/A,1
+butyrophenones,N/A,thioxanthenes,N/A,0
+butyrophenones,N/A,metoclopramide,DB01233,0
+butyrophenones,N/A,mirapex,N/A,1
+thioxanthenes,N/A,metoclopramide,DB01233,0
+thioxanthenes,N/A,mirapex,N/A,1
+metoclopramide,DB01233,mirapex,N/A,1
+pantoprazole,DB00213,theophylline,DB00277,0
+pantoprazole,DB00213,cisapride,DB00604,0
+pantoprazole,DB00213,antipyrine,DB01435,0
+pantoprazole,DB00213,caffeine,DB00201,0
+pantoprazole,DB00213,carbamazepine,DB00564,0
+pantoprazole,DB00213,diazepam,DB00829,0
+pantoprazole,DB00213,desmethyldiazepam,N/A,0
+pantoprazole,DB00213,diclofenac,DB00586,0
+pantoprazole,DB00213,naproxen,DB00788,0
+pantoprazole,DB00213,piroxicam,DB00554,0
+pantoprazole,DB00213,digoxin,DB00390,0
+pantoprazole,DB00213,ethanol,DB00898,0
+pantoprazole,DB00213,glyburide,DB01016,0
+pantoprazole,DB00213,contraceptive,N/A,0
+pantoprazole,DB00213,levonorgestrel,DB00367,0
+pantoprazole,DB00213,ethinyl estradiol,N/A,0
+pantoprazole,DB00213,metoprolol,DB00264,0
+pantoprazole,DB00213,nifedipine,DB01115,0
+pantoprazole,DB00213,phenytoin,DB00252,0
+pantoprazole,DB00213,warfarin,DB00682,1
+pantoprazole,DB00213,midazolam,DB00683,0
+pantoprazole,DB00213,clarithromycin,DB01211,0
+pantoprazole,DB00213,metronidazole,DB00916,0
+pantoprazole,DB00213,amoxicillin,DB01060,0
+theophylline,DB00277,cisapride,DB00604,0
+theophylline,DB00277,antipyrine,DB01435,0
+theophylline,DB00277,caffeine,DB00201,0
+theophylline,DB00277,carbamazepine,DB00564,0
+theophylline,DB00277,diazepam,DB00829,0
+theophylline,DB00277,desmethyldiazepam,N/A,0
+theophylline,DB00277,diclofenac,DB00586,0
+theophylline,DB00277,naproxen,DB00788,0
+theophylline,DB00277,piroxicam,DB00554,0
+theophylline,DB00277,ethanol,DB00898,0
+theophylline,DB00277,glyburide,DB01016,0
+theophylline,DB00277,contraceptive,N/A,0
+theophylline,DB00277,levonorgestrel,DB00367,0
+theophylline,DB00277,metoprolol,DB00264,0
+theophylline,DB00277,nifedipine,DB01115,0
+theophylline,DB00277,phenytoin,DB00252,0
+theophylline,DB00277,midazolam,DB00683,0
+theophylline,DB00277,clarithromycin,DB01211,0
+theophylline,DB00277,metronidazole,DB00916,0
+theophylline,DB00277,amoxicillin,DB01060,0
+cisapride,DB00604,antipyrine,DB01435,0
+cisapride,DB00604,caffeine,DB00201,0
+cisapride,DB00604,carbamazepine,DB00564,0
+cisapride,DB00604,diazepam,DB00829,0
+cisapride,DB00604,desmethyldiazepam,N/A,0
+cisapride,DB00604,diclofenac,DB00586,0
+cisapride,DB00604,naproxen,DB00788,0
+cisapride,DB00604,piroxicam,DB00554,0
+cisapride,DB00604,digoxin,DB00390,0
+cisapride,DB00604,ethanol,DB00898,0
+cisapride,DB00604,glyburide,DB01016,0
+cisapride,DB00604,contraceptive,N/A,0
+cisapride,DB00604,levonorgestrel,DB00367,0
+cisapride,DB00604,ethinyl estradiol,N/A,0
+cisapride,DB00604,metoprolol,DB00264,0
+cisapride,DB00604,nifedipine,DB01115,0
+cisapride,DB00604,phenytoin,DB00252,0
+cisapride,DB00604,warfarin,DB00682,0
+cisapride,DB00604,midazolam,DB00683,0
+cisapride,DB00604,clarithromycin,DB01211,0
+cisapride,DB00604,metronidazole,DB00916,0
+cisapride,DB00604,amoxicillin,DB01060,0
+antipyrine,DB01435,caffeine,DB00201,0
+antipyrine,DB01435,carbamazepine,DB00564,0
+antipyrine,DB01435,diazepam,DB00829,0
+antipyrine,DB01435,desmethyldiazepam,N/A,0
+antipyrine,DB01435,diclofenac,DB00586,0
+antipyrine,DB01435,naproxen,DB00788,0
+antipyrine,DB01435,piroxicam,DB00554,0
+antipyrine,DB01435,digoxin,DB00390,0
+antipyrine,DB01435,ethanol,DB00898,0
+antipyrine,DB01435,glyburide,DB01016,0
+antipyrine,DB01435,contraceptive,N/A,0
+antipyrine,DB01435,levonorgestrel,DB00367,0
+antipyrine,DB01435,ethinyl estradiol,N/A,0
+antipyrine,DB01435,metoprolol,DB00264,0
+antipyrine,DB01435,nifedipine,DB01115,0
+antipyrine,DB01435,phenytoin,DB00252,0
+antipyrine,DB01435,warfarin,DB00682,0
+antipyrine,DB01435,midazolam,DB00683,0
+antipyrine,DB01435,clarithromycin,DB01211,0
+antipyrine,DB01435,metronidazole,DB00916,0
+antipyrine,DB01435,amoxicillin,DB01060,0
+caffeine,DB00201,carbamazepine,DB00564,0
+caffeine,DB00201,diazepam,DB00829,0
+caffeine,DB00201,desmethyldiazepam,N/A,0
+caffeine,DB00201,diclofenac,DB00586,0
+caffeine,DB00201,naproxen,DB00788,0
+caffeine,DB00201,piroxicam,DB00554,0
+caffeine,DB00201,digoxin,DB00390,0
+caffeine,DB00201,ethanol,DB00898,0
+caffeine,DB00201,glyburide,DB01016,0
+caffeine,DB00201,contraceptive,N/A,0
+caffeine,DB00201,levonorgestrel,DB00367,0
+caffeine,DB00201,ethinyl estradiol,N/A,0
+caffeine,DB00201,metoprolol,DB00264,0
+caffeine,DB00201,nifedipine,DB01115,0
+caffeine,DB00201,phenytoin,DB00252,0
+caffeine,DB00201,warfarin,DB00682,0
+caffeine,DB00201,midazolam,DB00683,0
+caffeine,DB00201,clarithromycin,DB01211,0
+caffeine,DB00201,metronidazole,DB00916,0
+caffeine,DB00201,amoxicillin,DB01060,0
+carbamazepine,DB00564,diazepam,DB00829,0
+carbamazepine,DB00564,desmethyldiazepam,N/A,0
+carbamazepine,DB00564,diclofenac,DB00586,0
+carbamazepine,DB00564,naproxen,DB00788,0
+carbamazepine,DB00564,piroxicam,DB00554,0
+carbamazepine,DB00564,digoxin,DB00390,0
+carbamazepine,DB00564,ethanol,DB00898,0
+carbamazepine,DB00564,glyburide,DB01016,0
+carbamazepine,DB00564,contraceptive,N/A,0
+carbamazepine,DB00564,levonorgestrel,DB00367,0
+carbamazepine,DB00564,ethinyl estradiol,N/A,0
+carbamazepine,DB00564,metoprolol,DB00264,0
+carbamazepine,DB00564,nifedipine,DB01115,0
+carbamazepine,DB00564,phenytoin,DB00252,0
+carbamazepine,DB00564,warfarin,DB00682,0
+carbamazepine,DB00564,midazolam,DB00683,1
+carbamazepine,DB00564,clarithromycin,DB01211,0
+carbamazepine,DB00564,metronidazole,DB00916,0
+carbamazepine,DB00564,amoxicillin,DB01060,0
+diazepam,DB00829,desmethyldiazepam,N/A,0
+diazepam,DB00829,diclofenac,DB00586,0
+diazepam,DB00829,naproxen,DB00788,0
+diazepam,DB00829,piroxicam,DB00554,0
+diazepam,DB00829,digoxin,DB00390,0
+diazepam,DB00829,ethanol,DB00898,0
+diazepam,DB00829,glyburide,DB01016,0
+diazepam,DB00829,contraceptive,N/A,0
+diazepam,DB00829,levonorgestrel,DB00367,0
+diazepam,DB00829,ethinyl estradiol,N/A,0
+diazepam,DB00829,metoprolol,DB00264,0
+diazepam,DB00829,nifedipine,DB01115,0
+diazepam,DB00829,phenytoin,DB00252,0
+diazepam,DB00829,warfarin,DB00682,0
+diazepam,DB00829,midazolam,DB00683,0
+diazepam,DB00829,clarithromycin,DB01211,0
+diazepam,DB00829,metronidazole,DB00916,0
+diazepam,DB00829,amoxicillin,DB01060,0
+desmethyldiazepam,N/A,diclofenac,DB00586,0
+desmethyldiazepam,N/A,naproxen,DB00788,0
+desmethyldiazepam,N/A,piroxicam,DB00554,0
+desmethyldiazepam,N/A,digoxin,DB00390,0
+desmethyldiazepam,N/A,ethanol,DB00898,0
+desmethyldiazepam,N/A,glyburide,DB01016,0
+desmethyldiazepam,N/A,contraceptive,N/A,0
+desmethyldiazepam,N/A,levonorgestrel,DB00367,0
+desmethyldiazepam,N/A,ethinyl estradiol,N/A,0
+desmethyldiazepam,N/A,metoprolol,DB00264,0
+desmethyldiazepam,N/A,nifedipine,DB01115,0
+desmethyldiazepam,N/A,phenytoin,DB00252,0
+desmethyldiazepam,N/A,warfarin,DB00682,0
+desmethyldiazepam,N/A,midazolam,DB00683,0
+desmethyldiazepam,N/A,clarithromycin,DB01211,0
+desmethyldiazepam,N/A,metronidazole,DB00916,0
+desmethyldiazepam,N/A,amoxicillin,DB01060,0
+diclofenac,DB00586,naproxen,DB00788,0
+diclofenac,DB00586,piroxicam,DB00554,0
+diclofenac,DB00586,digoxin,DB00390,0
+diclofenac,DB00586,ethanol,DB00898,0
+diclofenac,DB00586,glyburide,DB01016,0
+diclofenac,DB00586,contraceptive,N/A,0
+diclofenac,DB00586,levonorgestrel,DB00367,0
+diclofenac,DB00586,ethinyl estradiol,N/A,0
+diclofenac,DB00586,metoprolol,DB00264,0
+diclofenac,DB00586,nifedipine,DB01115,0
+diclofenac,DB00586,phenytoin,DB00252,0
+diclofenac,DB00586,warfarin,DB00682,0
+diclofenac,DB00586,midazolam,DB00683,0
+diclofenac,DB00586,clarithromycin,DB01211,0
+diclofenac,DB00586,metronidazole,DB00916,0
+diclofenac,DB00586,amoxicillin,DB01060,0
+naproxen,DB00788,piroxicam,DB00554,0
+naproxen,DB00788,digoxin,DB00390,0
+naproxen,DB00788,ethanol,DB00898,0
+naproxen,DB00788,glyburide,DB01016,0
+naproxen,DB00788,contraceptive,N/A,0
+naproxen,DB00788,levonorgestrel,DB00367,0
+naproxen,DB00788,ethinyl estradiol,N/A,0
+naproxen,DB00788,metoprolol,DB00264,0
+naproxen,DB00788,nifedipine,DB01115,0
+naproxen,DB00788,phenytoin,DB00252,0
+naproxen,DB00788,warfarin,DB00682,0
+naproxen,DB00788,midazolam,DB00683,0
+naproxen,DB00788,clarithromycin,DB01211,0
+naproxen,DB00788,metronidazole,DB00916,0
+naproxen,DB00788,amoxicillin,DB01060,0
+piroxicam,DB00554,digoxin,DB00390,0
+piroxicam,DB00554,ethanol,DB00898,0
+piroxicam,DB00554,glyburide,DB01016,0
+piroxicam,DB00554,contraceptive,N/A,0
+piroxicam,DB00554,levonorgestrel,DB00367,0
+piroxicam,DB00554,ethinyl estradiol,N/A,0
+piroxicam,DB00554,metoprolol,DB00264,0
+piroxicam,DB00554,nifedipine,DB01115,0
+piroxicam,DB00554,phenytoin,DB00252,0
+piroxicam,DB00554,warfarin,DB00682,0
+piroxicam,DB00554,midazolam,DB00683,0
+piroxicam,DB00554,clarithromycin,DB01211,0
+piroxicam,DB00554,metronidazole,DB00916,0
+piroxicam,DB00554,amoxicillin,DB01060,0
+digoxin,DB00390,ethanol,DB00898,0
+digoxin,DB00390,glyburide,DB01016,0
+digoxin,DB00390,contraceptive,N/A,0
+digoxin,DB00390,levonorgestrel,DB00367,0
+digoxin,DB00390,ethinyl estradiol,N/A,0
+digoxin,DB00390,metoprolol,DB00264,0
+digoxin,DB00390,nifedipine,DB01115,0
+digoxin,DB00390,phenytoin,DB00252,0
+digoxin,DB00390,midazolam,DB00683,0
+digoxin,DB00390,clarithromycin,DB01211,0
+digoxin,DB00390,metronidazole,DB00916,0
+digoxin,DB00390,amoxicillin,DB01060,0
+ethanol,DB00898,glyburide,DB01016,0
+ethanol,DB00898,contraceptive,N/A,0
+ethanol,DB00898,levonorgestrel,DB00367,0
+ethanol,DB00898,ethinyl estradiol,N/A,0
+ethanol,DB00898,metoprolol,DB00264,0
+ethanol,DB00898,nifedipine,DB01115,0
+ethanol,DB00898,phenytoin,DB00252,0
+ethanol,DB00898,warfarin,DB00682,0
+ethanol,DB00898,midazolam,DB00683,0
+ethanol,DB00898,clarithromycin,DB01211,0
+ethanol,DB00898,metronidazole,DB00916,0
+ethanol,DB00898,amoxicillin,DB01060,0
+glyburide,DB01016,contraceptive,N/A,0
+glyburide,DB01016,levonorgestrel,DB00367,0
+glyburide,DB01016,ethinyl estradiol,N/A,0
+glyburide,DB01016,metoprolol,DB00264,0
+glyburide,DB01016,nifedipine,DB01115,0
+glyburide,DB01016,phenytoin,DB00252,0
+glyburide,DB01016,warfarin,DB00682,0
+glyburide,DB01016,midazolam,DB00683,0
+glyburide,DB01016,clarithromycin,DB01211,0
+glyburide,DB01016,metronidazole,DB00916,0
+glyburide,DB01016,amoxicillin,DB01060,0
+contraceptive,N/A,levonorgestrel,DB00367,0
+contraceptive,N/A,ethinyl estradiol,N/A,0
+contraceptive,N/A,metoprolol,DB00264,0
+contraceptive,N/A,nifedipine,DB01115,0
+contraceptive,N/A,phenytoin,DB00252,0
+contraceptive,N/A,warfarin,DB00682,0
+contraceptive,N/A,midazolam,DB00683,0
+contraceptive,N/A,clarithromycin,DB01211,0
+contraceptive,N/A,metronidazole,DB00916,0
+contraceptive,N/A,amoxicillin,DB01060,0
+levonorgestrel,DB00367,ethinyl estradiol,N/A,0
+levonorgestrel,DB00367,metoprolol,DB00264,0
+levonorgestrel,DB00367,nifedipine,DB01115,0
+levonorgestrel,DB00367,phenytoin,DB00252,0
+levonorgestrel,DB00367,warfarin,DB00682,0
+levonorgestrel,DB00367,midazolam,DB00683,0
+levonorgestrel,DB00367,clarithromycin,DB01211,0
+levonorgestrel,DB00367,metronidazole,DB00916,0
+levonorgestrel,DB00367,amoxicillin,DB01060,0
+ethinyl estradiol,N/A,metoprolol,DB00264,0
+ethinyl estradiol,N/A,nifedipine,DB01115,0
+ethinyl estradiol,N/A,phenytoin,DB00252,0
+ethinyl estradiol,N/A,midazolam,DB00683,0
+ethinyl estradiol,N/A,clarithromycin,DB01211,0
+ethinyl estradiol,N/A,metronidazole,DB00916,0
+ethinyl estradiol,N/A,amoxicillin,DB01060,0
+metoprolol,DB00264,nifedipine,DB01115,0
+metoprolol,DB00264,phenytoin,DB00252,0
+metoprolol,DB00264,warfarin,DB00682,0
+metoprolol,DB00264,midazolam,DB00683,0
+metoprolol,DB00264,clarithromycin,DB01211,0
+metoprolol,DB00264,metronidazole,DB00916,0
+metoprolol,DB00264,amoxicillin,DB01060,0
+nifedipine,DB01115,phenytoin,DB00252,0
+nifedipine,DB01115,warfarin,DB00682,0
+nifedipine,DB01115,midazolam,DB00683,0
+nifedipine,DB01115,clarithromycin,DB01211,0
+nifedipine,DB01115,metronidazole,DB00916,0
+nifedipine,DB01115,amoxicillin,DB01060,0
+phenytoin,DB00252,warfarin,DB00682,0
+phenytoin,DB00252,midazolam,DB00683,1
+phenytoin,DB00252,clarithromycin,DB01211,0
+phenytoin,DB00252,metronidazole,DB00916,0
+phenytoin,DB00252,amoxicillin,DB01060,0
+warfarin,DB00682,midazolam,DB00683,0
+warfarin,DB00682,clarithromycin,DB01211,0
+warfarin,DB00682,metronidazole,DB00916,0
+warfarin,DB00682,amoxicillin,DB01060,0
+midazolam,DB00683,clarithromycin,DB01211,0
+midazolam,DB00683,metronidazole,DB00916,0
+midazolam,DB00683,amoxicillin,DB01060,0
+clarithromycin,DB01211,metronidazole,DB00916,0
+clarithromycin,DB01211,amoxicillin,DB01060,0
+metronidazole,DB00916,amoxicillin,DB01060,0
+pantoprazole,DB00213,pantoprazole,DB00213,0
+proton pump inhibitors,N/A,pantoprazole,DB00213,0
+proton pump inhibitors,N/A,warfarin,DB00682,1
+pantoprazole,DB00213,ketoconazole,DB01026,1
+pantoprazole,DB00213,ampicillin,DB00415,1
+pantoprazole,DB00213,iron,DB01592,1
+ketoconazole,DB01026,ampicillin,DB00415,0
+ketoconazole,DB01026,iron,DB01592,0
+ampicillin,DB00415,iron,DB01592,0
+tetrahydrocannabinol,N/A,thc,N/A,0
+tetrahydrocannabinol,N/A,proton pump inhibitors,N/A,0
+tetrahydrocannabinol,N/A,pantoprazole,DB00213,0
+thc,N/A,proton pump inhibitors,N/A,0
+thc,N/A,pantoprazole,DB00213,0
+acetylcholine chloride,N/A,miochol,N/A,0
+acetylcholine chloride,N/A,carbachol,N/A,0
+acetylcholine chloride,N/A,carboptic,N/A,0
+acetylcholine chloride,N/A,isopto carbachol,N/A,0
+acetylcholine chloride,N/A,suprofen,DB00870,1
+miochol,N/A,carbachol,N/A,0
+miochol,N/A,carboptic,N/A,0
+miochol,N/A,isopto carbachol,N/A,0
+miochol,N/A,suprofen,DB00870,1
+carbachol,N/A,carboptic,N/A,0
+carbachol,N/A,isopto carbachol,N/A,0
+carbachol,N/A,suprofen,DB00870,1
+carboptic,N/A,isopto carbachol,N/A,0
+carboptic,N/A,suprofen,DB00870,1
+isopto carbachol,N/A,suprofen,DB00870,1
+mazindol,DB00579,monoamine oxidase inhibitor,N/A,1
+mazindol,DB00579,maoi,N/A,1
+mazindol,DB00579,isocarboxazid,DB01247,1
+mazindol,DB00579,marplan,N/A,1
+mazindol,DB00579,tranylcypromine,DB00752,1
+mazindol,DB00579,parnate,N/A,1
+mazindol,DB00579,phenelzine,DB00780,1
+mazindol,DB00579,nardil,N/A,1
+monoamine oxidase inhibitor,N/A,maoi,N/A,0
+monoamine oxidase inhibitor,N/A,isocarboxazid,DB01247,0
+monoamine oxidase inhibitor,N/A,marplan,N/A,0
+monoamine oxidase inhibitor,N/A,tranylcypromine,DB00752,0
+monoamine oxidase inhibitor,N/A,parnate,N/A,0
+monoamine oxidase inhibitor,N/A,phenelzine,DB00780,0
+monoamine oxidase inhibitor,N/A,nardil,N/A,0
+maoi,N/A,isocarboxazid,DB01247,0
+maoi,N/A,marplan,N/A,0
+maoi,N/A,tranylcypromine,DB00752,0
+maoi,N/A,parnate,N/A,0
+maoi,N/A,phenelzine,DB00780,0
+maoi,N/A,nardil,N/A,0
+isocarboxazid,DB01247,marplan,N/A,0
+isocarboxazid,DB01247,tranylcypromine,DB00752,0
+isocarboxazid,DB01247,parnate,N/A,0
+isocarboxazid,DB01247,phenelzine,DB00780,0
+isocarboxazid,DB01247,nardil,N/A,0
+marplan,N/A,tranylcypromine,DB00752,0
+marplan,N/A,parnate,N/A,0
+marplan,N/A,phenelzine,DB00780,0
+marplan,N/A,nardil,N/A,0
+tranylcypromine,DB00752,parnate,N/A,0
+tranylcypromine,DB00752,phenelzine,DB00780,0
+tranylcypromine,DB00752,nardil,N/A,0
+parnate,N/A,phenelzine,DB00780,0
+parnate,N/A,nardil,N/A,0
+phenelzine,DB00780,nardil,N/A,0
+insulin,N/A,mazindol,DB00579,1
+mazindol,DB00579,guanethidine,DB01170,1
+mazindol,DB00579,ismelin,N/A,1
+guanethidine,DB01170,ismelin,N/A,0
+tricyclic antidepressant,N/A,amitriptyline,DB00321,0
+tricyclic antidepressant,N/A,elavil,N/A,0
+tricyclic antidepressant,N/A,amoxapine,DB00543,0
+tricyclic antidepressant,N/A,asendin,N/A,0
+tricyclic antidepressant,N/A,doxepin,DB01142,0
+tricyclic antidepressant,N/A,sinequan,N/A,0
+tricyclic antidepressant,N/A,nortriptyline,DB00540,0
+tricyclic antidepressant,N/A,pamelor,N/A,0
+tricyclic antidepressant,N/A,imipramine,DB00458,0
+tricyclic antidepressant,N/A,tofranil,N/A,0
+tricyclic antidepressant,N/A,clomipramine,DB01242,0
+tricyclic antidepressant,N/A,anafranil,N/A,0
+tricyclic antidepressant,N/A,protriptyline,DB00344,0
+tricyclic antidepressant,N/A,vivactil,N/A,0
+tricyclic antidepressant,N/A,desipramine,DB01151,0
+tricyclic antidepressant,N/A,norpramin,N/A,0
+amitriptyline,DB00321,elavil,N/A,0
+amitriptyline,DB00321,amoxapine,DB00543,0
+amitriptyline,DB00321,asendin,N/A,0
+amitriptyline,DB00321,doxepin,DB01142,0
+amitriptyline,DB00321,sinequan,N/A,0
+amitriptyline,DB00321,nortriptyline,DB00540,0
+amitriptyline,DB00321,pamelor,N/A,0
+amitriptyline,DB00321,imipramine,DB00458,0
+amitriptyline,DB00321,tofranil,N/A,0
+amitriptyline,DB00321,clomipramine,DB01242,0
+amitriptyline,DB00321,anafranil,N/A,0
+amitriptyline,DB00321,protriptyline,DB00344,0
+amitriptyline,DB00321,vivactil,N/A,0
+amitriptyline,DB00321,desipramine,DB01151,0
+amitriptyline,DB00321,norpramin,N/A,0
+elavil,N/A,amoxapine,DB00543,0
+elavil,N/A,asendin,N/A,0
+elavil,N/A,doxepin,DB01142,0
+elavil,N/A,sinequan,N/A,0
+elavil,N/A,nortriptyline,DB00540,0
+elavil,N/A,pamelor,N/A,0
+elavil,N/A,imipramine,DB00458,0
+elavil,N/A,tofranil,N/A,0
+elavil,N/A,clomipramine,DB01242,0
+elavil,N/A,anafranil,N/A,0
+elavil,N/A,protriptyline,DB00344,0
+elavil,N/A,vivactil,N/A,0
+elavil,N/A,desipramine,DB01151,0
+elavil,N/A,norpramin,N/A,0
+amoxapine,DB00543,asendin,N/A,0
+amoxapine,DB00543,doxepin,DB01142,0
+amoxapine,DB00543,sinequan,N/A,0
+amoxapine,DB00543,nortriptyline,DB00540,0
+amoxapine,DB00543,pamelor,N/A,0
+amoxapine,DB00543,imipramine,DB00458,0
+amoxapine,DB00543,tofranil,N/A,0
+amoxapine,DB00543,clomipramine,DB01242,0
+amoxapine,DB00543,anafranil,N/A,0
+amoxapine,DB00543,protriptyline,DB00344,0
+amoxapine,DB00543,vivactil,N/A,0
+amoxapine,DB00543,desipramine,DB01151,0
+amoxapine,DB00543,norpramin,N/A,0
+asendin,N/A,doxepin,DB01142,0
+asendin,N/A,sinequan,N/A,0
+asendin,N/A,nortriptyline,DB00540,0
+asendin,N/A,pamelor,N/A,0
+asendin,N/A,imipramine,DB00458,0
+asendin,N/A,tofranil,N/A,0
+asendin,N/A,clomipramine,DB01242,0
+asendin,N/A,anafranil,N/A,0
+asendin,N/A,protriptyline,DB00344,0
+asendin,N/A,vivactil,N/A,0
+asendin,N/A,desipramine,DB01151,0
+asendin,N/A,norpramin,N/A,0
+doxepin,DB01142,sinequan,N/A,0
+doxepin,DB01142,nortriptyline,DB00540,0
+doxepin,DB01142,pamelor,N/A,0
+doxepin,DB01142,imipramine,DB00458,0
+doxepin,DB01142,tofranil,N/A,0
+doxepin,DB01142,clomipramine,DB01242,0
+doxepin,DB01142,anafranil,N/A,0
+doxepin,DB01142,protriptyline,DB00344,0
+doxepin,DB01142,vivactil,N/A,0
+doxepin,DB01142,desipramine,DB01151,0
+doxepin,DB01142,norpramin,N/A,0
+sinequan,N/A,nortriptyline,DB00540,0
+sinequan,N/A,pamelor,N/A,0
+sinequan,N/A,imipramine,DB00458,0
+sinequan,N/A,tofranil,N/A,0
+sinequan,N/A,clomipramine,DB01242,0
+sinequan,N/A,anafranil,N/A,0
+sinequan,N/A,protriptyline,DB00344,0
+sinequan,N/A,vivactil,N/A,0
+sinequan,N/A,desipramine,DB01151,0
+sinequan,N/A,norpramin,N/A,0
+nortriptyline,DB00540,pamelor,N/A,0
+nortriptyline,DB00540,imipramine,DB00458,0
+nortriptyline,DB00540,tofranil,N/A,0
+nortriptyline,DB00540,clomipramine,DB01242,0
+nortriptyline,DB00540,anafranil,N/A,0
+nortriptyline,DB00540,protriptyline,DB00344,0
+nortriptyline,DB00540,vivactil,N/A,0
+nortriptyline,DB00540,desipramine,DB01151,0
+nortriptyline,DB00540,norpramin,N/A,0
+pamelor,N/A,imipramine,DB00458,0
+pamelor,N/A,tofranil,N/A,0
+pamelor,N/A,clomipramine,DB01242,0
+pamelor,N/A,anafranil,N/A,0
+pamelor,N/A,protriptyline,DB00344,0
+pamelor,N/A,vivactil,N/A,0
+pamelor,N/A,desipramine,DB01151,0
+pamelor,N/A,norpramin,N/A,0
+imipramine,DB00458,tofranil,N/A,0
+imipramine,DB00458,clomipramine,DB01242,0
+imipramine,DB00458,anafranil,N/A,0
+imipramine,DB00458,protriptyline,DB00344,0
+imipramine,DB00458,vivactil,N/A,0
+imipramine,DB00458,desipramine,DB01151,0
+imipramine,DB00458,norpramin,N/A,0
+tofranil,N/A,clomipramine,DB01242,0
+tofranil,N/A,anafranil,N/A,0
+tofranil,N/A,protriptyline,DB00344,0
+tofranil,N/A,vivactil,N/A,0
+tofranil,N/A,desipramine,DB01151,0
+tofranil,N/A,norpramin,N/A,0
+clomipramine,DB01242,anafranil,N/A,0
+clomipramine,DB01242,protriptyline,DB00344,0
+clomipramine,DB01242,vivactil,N/A,0
+clomipramine,DB01242,desipramine,DB01151,0
+clomipramine,DB01242,norpramin,N/A,0
+anafranil,N/A,protriptyline,DB00344,0
+anafranil,N/A,vivactil,N/A,0
+anafranil,N/A,desipramine,DB01151,0
+anafranil,N/A,norpramin,N/A,0
+protriptyline,DB00344,vivactil,N/A,0
+protriptyline,DB00344,desipramine,DB01151,0
+protriptyline,DB00344,norpramin,N/A,0
+vivactil,N/A,desipramine,DB01151,0
+vivactil,N/A,norpramin,N/A,0
+desipramine,DB01151,norpramin,N/A,0
+abacavir,DB01048,lamivudine,DB00709,0
+abacavir,DB01048,zidovudine,DB00495,0
+lamivudine,DB00709,zidovudine,DB00495,0
+lamivudine,DB00709,lamivudine,DB00709,0
+zidovudine,DB00495,lamivudine,DB00709,0
+zidovudine,DB00495,zidovudine,DB00495,0
+lamivudine,DB00709,abacavir,DB01048,0
+zidovudine,DB00495,abacavir,DB01048,0
+abacavir,DB01048,ethanol,DB00898,0
+ethanol,DB00898,abacavir,DB01048,0
+ethanol,DB00898,methadone,DB00333,0
+abacavir,DB01048,methadone,DB00333,0
+abacavir,DB01048,abacavir,DB01048,0
+methadone,DB00333,abacavir,DB01048,0
+methadone,DB00333,ziagen,N/A,1
+methadone,DB00333,methadone,DB00333,0
+ziagen,N/A,methadone,DB00333,0
+sulfoxone,DB01145,barbiturates,N/A,1
+sulfoxone,DB01145,tolbutamide,DB01124,1
+sulfoxone,DB01145,uricosurics,N/A,1
+barbiturates,N/A,tolbutamide,DB01124,0
+barbiturates,N/A,uricosurics,N/A,0
+tolbutamide,DB01124,uricosurics,N/A,0
+thiazides,N/A,cyclosporine,DB00091,0
+thiazides,N/A,sulfonylurea agents,N/A,0
+thiazides,N/A,warfarin,DB00682,0
+thiazides,N/A,methotrexate,DB00563,0
+thiazides,N/A,phenytoin,DB00252,0
+cyclosporine,DB00091,sulfonylurea agents,N/A,0
+cyclosporine,DB00091,warfarin,DB00682,0
+cyclosporine,DB00091,methotrexate,DB00563,0
+cyclosporine,DB00091,phenytoin,DB00252,0
+sulfonylurea agents,N/A,warfarin,DB00682,0
+sulfonylurea agents,N/A,methotrexate,DB00563,0
+sulfonylurea agents,N/A,phenytoin,DB00252,0
+warfarin,DB00682,methotrexate,DB00563,0
+warfarin,DB00682,phenytoin,DB00252,0
+methotrexate,DB00563,phenytoin,DB00252,0
+phenytoin,DB00252,phenytoin,DB00252,0
+phenothiazines,N/A,cns depressants,N/A,1
+phenothiazines,N/A,barbiturates,N/A,1
+phenothiazines,N/A,anesthetics,N/A,1
+phenothiazines,N/A,opiates,N/A,1
+phenothiazines,N/A,alcohol,N/A,1
+cns depressants,N/A,barbiturates,N/A,0
+cns depressants,N/A,anesthetics,N/A,0
+cns depressants,N/A,opiates,N/A,0
+barbiturates,N/A,anesthetics,N/A,0
+barbiturates,N/A,opiates,N/A,0
+anesthetics,N/A,opiates,N/A,0
+anesthetics,N/A,alcohol,N/A,0
+opiates,N/A,alcohol,N/A,0
+atropine,DB00572,phosphorous insecticides,N/A,0
+zidovudine,DB00495,rifabutin,DB00615,0
+zidovudine,DB00495,megestrol acetate,DB00351,0
+rifabutin,DB00615,megestrol acetate,DB00351,0
+megestrol acetate,DB00351,indinavir,DB00224,0
+indinavir,DB00224,indinavir,DB00224,0
+indinavir,DB00224,megestrol acetate,DB00351,0
+indinavir,DB00224,zidovudine,DB00495,0
+indinavir,DB00224,rifabutin,DB00615,0
+streptozocin,DB00428,doxorubicin,DB00997,1
+doxorubicin,DB00997,zanosar,N/A,1
+streptozocin,DB00428,phenytoin,DB00252,1
+streptozocin,DB00428,streptozocin,DB00428,0
+phenytoin,DB00252,streptozocin,DB00428,0
+aramine,N/A,digitalis,N/A,0
+aramine,N/A,sympathomimetic amines,N/A,0
+digitalis,N/A,sympathomimetic amines,N/A,1
+monoamine oxidase inhibitors,N/A,tricyclic antidepressants,N/A,0
+monoamine oxidase inhibitors,N/A,sympathomimetic amines,N/A,1
+tricyclic antidepressants,N/A,sympathomimetic amines,N/A,1
+mequitazine,DB01071,cns depressant,N/A,1
+mequitazine,DB01071,antichlolinergic,N/A,1
+mequitazine,DB01071,tca,N/A,1
+mequitazine,DB01071,maois,N/A,1
+mequitazine,DB01071,alcohol,N/A,1
+cns depressant,N/A,antichlolinergic,N/A,0
+cns depressant,N/A,tca,N/A,0
+cns depressant,N/A,maois,N/A,0
+cns depressant,N/A,alcohol,N/A,0
+antichlolinergic,N/A,tca,N/A,0
+antichlolinergic,N/A,maois,N/A,0
+antichlolinergic,N/A,alcohol,N/A,0
+tca,N/A,maois,N/A,0
+tca,N/A,alcohol,N/A,0
+maois,N/A,alcohol,N/A,0
+barbiturates,N/A,contraceptives,N/A,1
+barbiturates,N/A,antibiotics,N/A,1
+barbiturates,N/A,quinidine,DB00908,1
+barbiturates,N/A,theophylline,DB00277,1
+barbiturates,N/A,corticosteroids,N/A,1
+barbiturates,N/A,anticoagulants,N/A,1
+barbiturates,N/A,beta blockers,N/A,1
+contraceptives,N/A,antibiotics,N/A,0
+contraceptives,N/A,quinidine,DB00908,0
+contraceptives,N/A,theophylline,DB00277,0
+contraceptives,N/A,corticosteroids,N/A,0
+contraceptives,N/A,anticoagulants,N/A,0
+contraceptives,N/A,beta blockers,N/A,0
+antibiotics,N/A,theophylline,DB00277,0
+antibiotics,N/A,corticosteroids,N/A,0
+antibiotics,N/A,anticoagulants,N/A,0
+antibiotics,N/A,beta blockers,N/A,0
+quinidine,DB00908,theophylline,DB00277,0
+quinidine,DB00908,corticosteroids,N/A,0
+quinidine,DB00908,anticoagulants,N/A,0
+quinidine,DB00908,beta blockers,N/A,0
+theophylline,DB00277,corticosteroids,N/A,0
+theophylline,DB00277,anticoagulants,N/A,0
+theophylline,DB00277,beta blockers,N/A,0
+corticosteroids,N/A,anticoagulants,N/A,1
+corticosteroids,N/A,beta blockers,N/A,0
+anticoagulants,N/A,beta blockers,N/A,0
+sulfamethizole,DB00576,barbiturates,N/A,1
+sulfamethizole,DB00576,tolbutamide,DB01124,1
+sulfamethizole,DB00576,uricosurics,N/A,1
+tnkase,N/A,heparin,DB01109,0
+tnkase,N/A,aspirin,N/A,0
+anticoagulants,N/A,heparin,DB01109,0
+anticoagulants,N/A,vitamin k antagonists,N/A,0
+anticoagulants,N/A,acetylsalicylic acid,DB00945,0
+anticoagulants,N/A,dipyridamole,DB00975,0
+anticoagulants,N/A,tnkase,N/A,1
+heparin,DB01109,vitamin k antagonists,N/A,0
+heparin,DB01109,acetylsalicylic acid,DB00945,0
+heparin,DB01109,dipyridamole,DB00975,0
+heparin,DB01109,tnkase,N/A,1
+vitamin k antagonists,N/A,acetylsalicylic acid,DB00945,0
+vitamin k antagonists,N/A,dipyridamole,DB00975,0
+vitamin k antagonists,N/A,tnkase,N/A,1
+acetylsalicylic acid,DB00945,dipyridamole,DB00975,0
+acetylsalicylic acid,DB00945,tnkase,N/A,1
+dipyridamole,DB00975,tnkase,N/A,1
+cimetidine,DB00501,cimetidine,DB00501,0
+cimetidine,DB00501,rimantadine,DB00478,0
+cimetidine,DB00501,rimantadine,DB00478,0
+rimantadine hcl,N/A,cimetidine,DB00501,1
+rimantadine hcl,N/A,rimantadine,DB00478,0
+rimantadine hcl,N/A,cimetidine,DB00501,0
+rimantadine,DB00478,rimantadine,DB00478,0
+rimantadine,DB00478,cimetidine,DB00501,0
+acetaminophen,DB00316,rimantadine hcl,N/A,0
+acetaminophen,DB00316,rimantadine,DB00478,1
+aspirin,N/A,rimantadine hcl,N/A,0
+rimantadine,DB00478,aspirin,N/A,1
+trimethoprim,DB00440,phenytoin,DB00252,1
+pilocarpine,DB01085,beta adrenergic antagonists,N/A,1
+atropine,DB00572,ipratropium,DB00332,0
+acetylsalicylic acid,DB00945,calcium,DB01373,0
+acetylsalicylic acid,DB00945,conjugated estrogens,DB00286,0
+acetylsalicylic acid,DB00945,hydroxychloroquine sulfate,N/A,0
+acetylsalicylic acid,DB00945,ibuprofen,DB01050,0
+acetylsalicylic acid,DB00945,levothyroxine sodium,N/A,0
+acetylsalicylic acid,DB00945,medroxyprogesterone acetate,DB00603,0
+acetylsalicylic acid,DB00945,methotrexate,DB00563,0
+acetylsalicylic acid,DB00945,multivitamins,N/A,0
+acetylsalicylic acid,DB00945,naproxen,DB00788,0
+acetylsalicylic acid,DB00945,omeprazole,DB00338,0
+acetylsalicylic acid,DB00945,paracetamol,N/A,0
+acetylsalicylic acid,DB00945,prednisone,DB00635,0
+calcium,DB01373,conjugated estrogens,DB00286,0
+calcium,DB01373,hydroxychloroquine sulfate,N/A,0
+calcium,DB01373,ibuprofen,DB01050,0
+calcium,DB01373,levothyroxine sodium,N/A,0
+calcium,DB01373,medroxyprogesterone acetate,DB00603,0
+calcium,DB01373,methotrexate,DB00563,0
+calcium,DB01373,multivitamins,N/A,0
+calcium,DB01373,naproxen,DB00788,0
+calcium,DB01373,omeprazole,DB00338,0
+calcium,DB01373,paracetamol,N/A,0
+calcium,DB01373,prednisone,DB00635,0
+conjugated estrogens,DB00286,hydroxychloroquine sulfate,N/A,0
+conjugated estrogens,DB00286,ibuprofen,DB01050,0
+conjugated estrogens,DB00286,levothyroxine sodium,N/A,0
+conjugated estrogens,DB00286,medroxyprogesterone acetate,DB00603,0
+conjugated estrogens,DB00286,methotrexate,DB00563,0
+conjugated estrogens,DB00286,multivitamins,N/A,0
+conjugated estrogens,DB00286,naproxen,DB00788,0
+conjugated estrogens,DB00286,omeprazole,DB00338,0
+conjugated estrogens,DB00286,paracetamol,N/A,0
+conjugated estrogens,DB00286,prednisone,DB00635,0
+hydroxychloroquine sulfate,N/A,ibuprofen,DB01050,0
+hydroxychloroquine sulfate,N/A,levothyroxine sodium,N/A,0
+hydroxychloroquine sulfate,N/A,medroxyprogesterone acetate,DB00603,0
+hydroxychloroquine sulfate,N/A,methotrexate,DB00563,0
+hydroxychloroquine sulfate,N/A,multivitamins,N/A,0
+hydroxychloroquine sulfate,N/A,naproxen,DB00788,0
+hydroxychloroquine sulfate,N/A,omeprazole,DB00338,0
+hydroxychloroquine sulfate,N/A,paracetamol,N/A,0
+hydroxychloroquine sulfate,N/A,prednisone,DB00635,0
+ibuprofen,DB01050,levothyroxine sodium,N/A,0
+ibuprofen,DB01050,medroxyprogesterone acetate,DB00603,0
+ibuprofen,DB01050,methotrexate,DB00563,0
+ibuprofen,DB01050,multivitamins,N/A,0
+ibuprofen,DB01050,naproxen,DB00788,0
+ibuprofen,DB01050,omeprazole,DB00338,0
+ibuprofen,DB01050,paracetamol,N/A,0
+ibuprofen,DB01050,prednisone,DB00635,0
+levothyroxine sodium,N/A,medroxyprogesterone acetate,DB00603,0
+levothyroxine sodium,N/A,methotrexate,DB00563,0
+levothyroxine sodium,N/A,multivitamins,N/A,0
+levothyroxine sodium,N/A,naproxen,DB00788,0
+levothyroxine sodium,N/A,omeprazole,DB00338,0
+levothyroxine sodium,N/A,paracetamol,N/A,0
+levothyroxine sodium,N/A,prednisone,DB00635,0
+medroxyprogesterone acetate,DB00603,methotrexate,DB00563,0
+medroxyprogesterone acetate,DB00603,multivitamins,N/A,0
+medroxyprogesterone acetate,DB00603,naproxen,DB00788,0
+medroxyprogesterone acetate,DB00603,omeprazole,DB00338,0
+medroxyprogesterone acetate,DB00603,paracetamol,N/A,0
+medroxyprogesterone acetate,DB00603,prednisone,DB00635,0
+methotrexate,DB00563,multivitamins,N/A,0
+methotrexate,DB00563,naproxen,DB00788,0
+methotrexate,DB00563,omeprazole,DB00338,0
+methotrexate,DB00563,paracetamol,N/A,0
+methotrexate,DB00563,prednisone,DB00635,0
+multivitamins,N/A,naproxen,DB00788,0
+multivitamins,N/A,omeprazole,DB00338,0
+multivitamins,N/A,paracetamol,N/A,0
+multivitamins,N/A,prednisone,DB00635,0
+naproxen,DB00788,omeprazole,DB00338,0
+naproxen,DB00788,paracetamol,N/A,0
+naproxen,DB00788,prednisone,DB00635,0
+omeprazole,DB00338,paracetamol,N/A,0
+omeprazole,DB00338,prednisone,DB00635,0
+paracetamol,N/A,prednisone,DB00635,0
+cyclosporin,N/A,methylprednisolone,DB00959,1
+methylprednisolone,DB00959,cyclosporin,N/A,1
+phenobarbital,DB01174,phenytoin,DB00252,0
+phenobarbital,DB01174,methylprednisolone,DB00959,1
+phenytoin,DB00252,rifampin,N/A,0
+phenytoin,DB00252,methylprednisolone,DB00959,1
+rifampin,N/A,methylprednisolone,DB00959,1
+methylprednisolone,DB00959,methylprednisolone,DB00959,0
+troleandomycin,DB13179,methylprednisolone,DB00959,1
+ketoconazole,DB01026,methylprednisolone,DB00959,1
+methylprednisolone,DB00959,aspirin,N/A,1
+salicylate,N/A,salicylate,N/A,0
+salicylate,N/A,methylprednisolone,DB00959,1
+aspirin,N/A,corticosteroids,N/A,1
+methylprednisolone,DB00959,anticoagulants,N/A,0
+anticoagulant,N/A,corticosteroids,N/A,1
+metoclopramide,DB01233,anticholinergic drugs,N/A,1
+metoclopramide,DB01233,narcotic analgesics,N/A,1
+metoclopramide,DB01233,alcohol,N/A,1
+metoclopramide,DB01233,sedatives,N/A,1
+metoclopramide,DB01233,hypnotics,N/A,1
+metoclopramide,DB01233,narcotics,N/A,1
+metoclopramide,DB01233,tranquilizers,N/A,1
+alcohol,N/A,narcotics,N/A,0
+alcohol,N/A,tranquilizers,N/A,0
+sedatives,N/A,hypnotics,N/A,0
+sedatives,N/A,narcotics,N/A,0
+sedatives,N/A,tranquilizers,N/A,0
+hypnotics,N/A,narcotics,N/A,0
+hypnotics,N/A,tranquilizers,N/A,0
+narcotics,N/A,tranquilizers,N/A,0
+metoclopramide,DB01233,monoamine oxi-dase inhibitors,N/A,1
+digoxin,DB00390,metoclopramide,DB01233,1
+digoxin,DB00390,acetaminophen,DB00316,0
+digoxin,DB00390,tetracycline,DB00759,0
+digoxin,DB00390,levodopa,DB01235,0
+digoxin,DB00390,cyclosporine,DB00091,0
+metoclopramide,DB01233,acetaminophen,DB00316,1
+metoclopramide,DB01233,tetracycline,DB00759,0
+metoclopramide,DB01233,levodopa,DB01235,0
+metoclopramide,DB01233,ethanol,DB00898,0
+metoclopramide,DB01233,cyclosporine,DB00091,0
+acetaminophen,DB00316,tetracycline,DB00759,0
+acetaminophen,DB00316,levodopa,DB01235,0
+acetaminophen,DB00316,ethanol,DB00898,0
+acetaminophen,DB00316,cyclosporine,DB00091,0
+tetracycline,DB00759,levodopa,DB01235,0
+tetracycline,DB00759,ethanol,DB00898,0
+tetracycline,DB00759,cyclosporine,DB00091,0
+levodopa,DB01235,ethanol,DB00898,0
+levodopa,DB01235,cyclosporine,DB00091,0
+ethanol,DB00898,cyclosporine,DB00091,0
+metoclopramide,DB01233,insulin,N/A,1
+vasopressors,N/A,metaraminol,DB00610,0
+vasopressors,N/A,halothane,DB01159,1
+metaraminol,DB00610,halothane,DB01159,1
+mao inhibitors,N/A,sympathomimetic pressor amines,N/A,0
+mao inhibitors,N/A,monoamine oxidase inhibitors,N/A,0
+mao inhibitors,N/A,maoi,N/A,0
+sympathomimetic pressor amines,N/A,monoamine oxidase inhibitors,N/A,1
+sympathomimetic pressor amines,N/A,maoi,N/A,1
+monoamine oxidase inhibitors,N/A,maoi,N/A,0
+adrenergic agents,N/A,tricyclic antidepressants,N/A,1
+methscopolamine,DB11315,antidepressants,N/A,0
+methscopolamine,DB11315,tricyclic,N/A,1
+methscopolamine,DB11315,mao inhibitors,N/A,1
+methscopolamine,DB11315,phenelzine,DB00780,1
+methscopolamine,DB11315,linezolid,DB00601,1
+methscopolamine,DB11315,tranylcypromine,DB00752,1
+methscopolamine,DB11315,isocarboxazid,DB01247,1
+methscopolamine,DB11315,selegiline,DB01037,1
+methscopolamine,DB11315,furazolidone,DB00614,1
+methscopolamine,DB11315,quinidine,DB00908,1
+methscopolamine,DB11315,amantadine,DB00915,1
+methscopolamine,DB11315,antihistamines,N/A,1
+methscopolamine,DB11315,diphenhydramine,DB01075,1
+methscopolamine,DB11315,anticholinergics,N/A,1
+methscopolamine,DB11315,potassium chloride,DB00761,1
+methscopolamine,DB11315,antacids,N/A,1
+methscopolamine,DB11315,absorbent-type anti-diarrhea medicines,N/A,1
+methscopolamine,DB11315,kaolin,DB01575,1
+methscopolamine,DB11315,pectin,DB11158,1
+methscopolamine,DB11315,phenothiazines,N/A,1
+methscopolamine,DB11315,chlorpromazine,DB00477,1
+methscopolamine,DB11315,promethazine,DB01069,1
+antidepressants,N/A,tricyclic,N/A,0
+antidepressants,N/A,mao inhibitors,N/A,0
+antidepressants,N/A,phenelzine,DB00780,0
+antidepressants,N/A,linezolid,DB00601,0
+antidepressants,N/A,tranylcypromine,DB00752,0
+antidepressants,N/A,isocarboxazid,DB01247,0
+antidepressants,N/A,selegiline,DB01037,0
+antidepressants,N/A,furazolidone,DB00614,0
+antidepressants,N/A,quinidine,DB00908,0
+antidepressants,N/A,amantadine,DB00915,0
+antidepressants,N/A,antihistamines,N/A,0
+antidepressants,N/A,diphenhydramine,DB01075,0
+antidepressants,N/A,anticholinergics,N/A,0
+antidepressants,N/A,potassium chloride,DB00761,0
+antidepressants,N/A,antacids,N/A,0
+antidepressants,N/A,absorbent-type anti-diarrhea medicines,N/A,0
+antidepressants,N/A,kaolin,DB01575,0
+antidepressants,N/A,pectin,DB11158,0
+antidepressants,N/A,phenothiazines,N/A,0
+antidepressants,N/A,chlorpromazine,DB00477,0
+antidepressants,N/A,promethazine,DB01069,0
+tricyclic,N/A,mao inhibitors,N/A,0
+tricyclic,N/A,phenelzine,DB00780,0
+tricyclic,N/A,linezolid,DB00601,0
+tricyclic,N/A,tranylcypromine,DB00752,0
+tricyclic,N/A,isocarboxazid,DB01247,0
+tricyclic,N/A,selegiline,DB01037,0
+tricyclic,N/A,furazolidone,DB00614,0
+tricyclic,N/A,quinidine,DB00908,0
+tricyclic,N/A,amantadine,DB00915,0
+tricyclic,N/A,antihistamines,N/A,0
+tricyclic,N/A,diphenhydramine,DB01075,0
+tricyclic,N/A,anticholinergics,N/A,0
+tricyclic,N/A,potassium chloride,DB00761,0
+tricyclic,N/A,antacids,N/A,0
+tricyclic,N/A,absorbent-type anti-diarrhea medicines,N/A,0
+tricyclic,N/A,kaolin,DB01575,0
+tricyclic,N/A,pectin,DB11158,0
+tricyclic,N/A,phenothiazines,N/A,0
+tricyclic,N/A,chlorpromazine,DB00477,0
+tricyclic,N/A,promethazine,DB01069,0
+mao inhibitors,N/A,phenelzine,DB00780,0
+mao inhibitors,N/A,linezolid,DB00601,0
+mao inhibitors,N/A,tranylcypromine,DB00752,0
+mao inhibitors,N/A,isocarboxazid,DB01247,0
+mao inhibitors,N/A,selegiline,DB01037,0
+mao inhibitors,N/A,furazolidone,DB00614,0
+mao inhibitors,N/A,quinidine,DB00908,0
+mao inhibitors,N/A,amantadine,DB00915,0
+mao inhibitors,N/A,antihistamines,N/A,0
+mao inhibitors,N/A,diphenhydramine,DB01075,0
+mao inhibitors,N/A,anticholinergics,N/A,0
+mao inhibitors,N/A,potassium chloride,DB00761,0
+mao inhibitors,N/A,antacids,N/A,0
+mao inhibitors,N/A,absorbent-type anti-diarrhea medicines,N/A,0
+mao inhibitors,N/A,kaolin,DB01575,0
+mao inhibitors,N/A,pectin,DB11158,0
+mao inhibitors,N/A,phenothiazines,N/A,0
+mao inhibitors,N/A,chlorpromazine,DB00477,0
+mao inhibitors,N/A,promethazine,DB01069,0
+phenelzine,DB00780,linezolid,DB00601,0
+phenelzine,DB00780,tranylcypromine,DB00752,0
+phenelzine,DB00780,isocarboxazid,DB01247,0
+phenelzine,DB00780,selegiline,DB01037,0
+phenelzine,DB00780,furazolidone,DB00614,0
+phenelzine,DB00780,quinidine,DB00908,0
+phenelzine,DB00780,amantadine,DB00915,0
+phenelzine,DB00780,antihistamines,N/A,0
+phenelzine,DB00780,diphenhydramine,DB01075,0
+phenelzine,DB00780,anticholinergics,N/A,0
+phenelzine,DB00780,potassium chloride,DB00761,0
+phenelzine,DB00780,antacids,N/A,0
+phenelzine,DB00780,absorbent-type anti-diarrhea medicines,N/A,0
+phenelzine,DB00780,kaolin,DB01575,0
+phenelzine,DB00780,pectin,DB11158,0
+phenelzine,DB00780,phenothiazines,N/A,0
+phenelzine,DB00780,chlorpromazine,DB00477,0
+phenelzine,DB00780,promethazine,DB01069,0
+linezolid,DB00601,tranylcypromine,DB00752,0
+linezolid,DB00601,isocarboxazid,DB01247,0
+linezolid,DB00601,selegiline,DB01037,0
+linezolid,DB00601,furazolidone,DB00614,0
+linezolid,DB00601,quinidine,DB00908,0
+linezolid,DB00601,amantadine,DB00915,0
+linezolid,DB00601,antihistamines,N/A,0
+linezolid,DB00601,diphenhydramine,DB01075,0
+linezolid,DB00601,anticholinergics,N/A,0
+linezolid,DB00601,potassium chloride,DB00761,0
+linezolid,DB00601,antacids,N/A,0
+linezolid,DB00601,absorbent-type anti-diarrhea medicines,N/A,0
+linezolid,DB00601,kaolin,DB01575,0
+linezolid,DB00601,pectin,DB11158,0
+linezolid,DB00601,phenothiazines,N/A,0
+linezolid,DB00601,chlorpromazine,DB00477,0
+linezolid,DB00601,promethazine,DB01069,0
+tranylcypromine,DB00752,isocarboxazid,DB01247,0
+tranylcypromine,DB00752,selegiline,DB01037,0
+tranylcypromine,DB00752,furazolidone,DB00614,0
+tranylcypromine,DB00752,quinidine,DB00908,0
+tranylcypromine,DB00752,amantadine,DB00915,0
+tranylcypromine,DB00752,antihistamines,N/A,0
+tranylcypromine,DB00752,diphenhydramine,DB01075,0
+tranylcypromine,DB00752,anticholinergics,N/A,0
+tranylcypromine,DB00752,potassium chloride,DB00761,0
+tranylcypromine,DB00752,antacids,N/A,0
+tranylcypromine,DB00752,absorbent-type anti-diarrhea medicines,N/A,0
+tranylcypromine,DB00752,kaolin,DB01575,0
+tranylcypromine,DB00752,pectin,DB11158,0
+tranylcypromine,DB00752,phenothiazines,N/A,0
+tranylcypromine,DB00752,chlorpromazine,DB00477,0
+tranylcypromine,DB00752,promethazine,DB01069,0
+isocarboxazid,DB01247,selegiline,DB01037,0
+isocarboxazid,DB01247,furazolidone,DB00614,0
+isocarboxazid,DB01247,quinidine,DB00908,0
+isocarboxazid,DB01247,amantadine,DB00915,0
+isocarboxazid,DB01247,antihistamines,N/A,0
+isocarboxazid,DB01247,diphenhydramine,DB01075,0
+isocarboxazid,DB01247,anticholinergics,N/A,0
+isocarboxazid,DB01247,potassium chloride,DB00761,0
+isocarboxazid,DB01247,antacids,N/A,0
+isocarboxazid,DB01247,absorbent-type anti-diarrhea medicines,N/A,0
+isocarboxazid,DB01247,kaolin,DB01575,0
+isocarboxazid,DB01247,pectin,DB11158,0
+isocarboxazid,DB01247,phenothiazines,N/A,0
+isocarboxazid,DB01247,chlorpromazine,DB00477,0
+isocarboxazid,DB01247,promethazine,DB01069,0
+selegiline,DB01037,furazolidone,DB00614,0
+selegiline,DB01037,quinidine,DB00908,0
+selegiline,DB01037,amantadine,DB00915,0
+selegiline,DB01037,antihistamines,N/A,0
+selegiline,DB01037,diphenhydramine,DB01075,0
+selegiline,DB01037,anticholinergics,N/A,0
+selegiline,DB01037,potassium chloride,DB00761,0
+selegiline,DB01037,antacids,N/A,0
+selegiline,DB01037,absorbent-type anti-diarrhea medicines,N/A,0
+selegiline,DB01037,kaolin,DB01575,0
+selegiline,DB01037,pectin,DB11158,0
+selegiline,DB01037,phenothiazines,N/A,0
+selegiline,DB01037,chlorpromazine,DB00477,0
+selegiline,DB01037,promethazine,DB01069,0
+furazolidone,DB00614,quinidine,DB00908,0
+furazolidone,DB00614,amantadine,DB00915,0
+furazolidone,DB00614,antihistamines,N/A,0
+furazolidone,DB00614,diphenhydramine,DB01075,0
+furazolidone,DB00614,anticholinergics,N/A,0
+furazolidone,DB00614,potassium chloride,DB00761,0
+furazolidone,DB00614,antacids,N/A,0
+furazolidone,DB00614,absorbent-type anti-diarrhea medicines,N/A,0
+furazolidone,DB00614,kaolin,DB01575,0
+furazolidone,DB00614,pectin,DB11158,0
+furazolidone,DB00614,phenothiazines,N/A,0
+furazolidone,DB00614,chlorpromazine,DB00477,0
+furazolidone,DB00614,promethazine,DB01069,0
+quinidine,DB00908,amantadine,DB00915,0
+quinidine,DB00908,diphenhydramine,DB01075,0
+quinidine,DB00908,anticholinergics,N/A,0
+quinidine,DB00908,potassium chloride,DB00761,0
+quinidine,DB00908,antacids,N/A,0
+quinidine,DB00908,absorbent-type anti-diarrhea medicines,N/A,0
+quinidine,DB00908,kaolin,DB01575,0
+quinidine,DB00908,pectin,DB11158,0
+quinidine,DB00908,chlorpromazine,DB00477,0
+quinidine,DB00908,promethazine,DB01069,0
+amantadine,DB00915,diphenhydramine,DB01075,0
+amantadine,DB00915,anticholinergics,N/A,0
+amantadine,DB00915,potassium chloride,DB00761,0
+amantadine,DB00915,antacids,N/A,0
+amantadine,DB00915,absorbent-type anti-diarrhea medicines,N/A,0
+amantadine,DB00915,kaolin,DB01575,0
+amantadine,DB00915,pectin,DB11158,0
+amantadine,DB00915,chlorpromazine,DB00477,0
+amantadine,DB00915,promethazine,DB01069,0
+antihistamines,N/A,diphenhydramine,DB01075,0
+antihistamines,N/A,anticholinergics,N/A,0
+antihistamines,N/A,potassium chloride,DB00761,0
+antihistamines,N/A,antacids,N/A,0
+antihistamines,N/A,absorbent-type anti-diarrhea medicines,N/A,0
+antihistamines,N/A,kaolin,DB01575,0
+antihistamines,N/A,pectin,DB11158,0
+antihistamines,N/A,chlorpromazine,DB00477,0
+antihistamines,N/A,promethazine,DB01069,0
+diphenhydramine,DB01075,anticholinergics,N/A,0
+diphenhydramine,DB01075,potassium chloride,DB00761,0
+diphenhydramine,DB01075,antacids,N/A,0
+diphenhydramine,DB01075,absorbent-type anti-diarrhea medicines,N/A,0
+diphenhydramine,DB01075,kaolin,DB01575,0
+diphenhydramine,DB01075,pectin,DB11158,0
+diphenhydramine,DB01075,phenothiazines,N/A,0
+diphenhydramine,DB01075,chlorpromazine,DB00477,0
+diphenhydramine,DB01075,promethazine,DB01069,0
+anticholinergics,N/A,potassium chloride,DB00761,0
+anticholinergics,N/A,antacids,N/A,0
+anticholinergics,N/A,absorbent-type anti-diarrhea medicines,N/A,0
+anticholinergics,N/A,kaolin,DB01575,0
+anticholinergics,N/A,pectin,DB11158,0
+anticholinergics,N/A,phenothiazines,N/A,0
+anticholinergics,N/A,chlorpromazine,DB00477,0
+anticholinergics,N/A,promethazine,DB01069,0
+potassium chloride,DB00761,antacids,N/A,0
+potassium chloride,DB00761,absorbent-type anti-diarrhea medicines,N/A,0
+potassium chloride,DB00761,kaolin,DB01575,0
+potassium chloride,DB00761,pectin,DB11158,0
+potassium chloride,DB00761,phenothiazines,N/A,0
+potassium chloride,DB00761,chlorpromazine,DB00477,0
+potassium chloride,DB00761,promethazine,DB01069,0
+antacids,N/A,absorbent-type anti-diarrhea medicines,N/A,0
+antacids,N/A,kaolin,DB01575,0
+antacids,N/A,pectin,DB11158,0
+antacids,N/A,phenothiazines,N/A,0
+antacids,N/A,chlorpromazine,DB00477,0
+antacids,N/A,promethazine,DB01069,0
+absorbent-type anti-diarrhea medicines,N/A,kaolin,DB01575,0
+absorbent-type anti-diarrhea medicines,N/A,pectin,DB11158,0
+absorbent-type anti-diarrhea medicines,N/A,phenothiazines,N/A,0
+absorbent-type anti-diarrhea medicines,N/A,chlorpromazine,DB00477,0
+absorbent-type anti-diarrhea medicines,N/A,promethazine,DB01069,0
+kaolin,DB01575,pectin,DB11158,0
+kaolin,DB01575,phenothiazines,N/A,0
+kaolin,DB01575,chlorpromazine,DB00477,0
+kaolin,DB01575,promethazine,DB01069,0
+pectin,DB11158,phenothiazines,N/A,0
+pectin,DB11158,chlorpromazine,DB00477,0
+pectin,DB11158,promethazine,DB01069,0
+phenothiazines,N/A,chlorpromazine,DB00477,0
+phenothiazines,N/A,promethazine,DB01069,0
+chlorpromazine,DB00477,promethazine,DB01069,0
+symlin,N/A,anticholinergic agents,N/A,1
+symlin,N/A,atropine,DB00572,1
+symlin,N/A,alpha glucosidase inhibitors,N/A,1
+anticholinergic agents,N/A,atropine,DB00572,0
+anticholinergic agents,N/A,alpha glucosidase inhibitors,N/A,0
+atropine,DB00572,alpha glucosidase inhibitors,N/A,0
+analgesics,N/A,symlin,N/A,1
+sulfonylureas,N/A,biguanides,N/A,0
+sulfonylureas,N/A,symlin,N/A,0
+biguanides,N/A,symlin,N/A,0
+symlin,N/A,antidiabetic agents,N/A,0
+symlin,N/A,insulin,N/A,0
+symlin,N/A,symlin,N/A,0
+symlin,N/A,human insulin,N/A,1
+insulin,N/A,symlin,N/A,0
+insulin,N/A,human insulin,N/A,0
+symlin,N/A,insulin,N/A,0
+antibiotics,N/A,sulfonamides,N/A,0
+antibiotics,N/A,ganglion blockers,N/A,1
+sulfonamides,N/A,ganglion blockers,N/A,1
+mecamylamine,DB00657,antihypertensive drugs,N/A,1
+mecamylamine,DB00657,alcohol,N/A,1
+antihypertensive drugs,N/A,alcohol,N/A,0
+metronidazole,DB00916,coumarin,DB04665,1
+metronidazole,DB00916,warfarin,DB00682,1
+coumarin,DB04665,warfarin,DB00682,0
+metrogel,N/A,metronidazole,DB00916,0
+metronidazole,DB00916,metronidazole,DB00916,0
+alcohol,N/A,phentermine hydrochloride,N/A,1
+short-acting beta adrenergic aerosol bronchodilators,N/A,maxair autohaler,N/A,1
+vigabatrin,DB01080,carbamazepine,DB00564,1
+vigabatrin,DB01080,phenytoin,DB00252,0
+anticholinesterases,N/A,procaine hydrochloride,N/A,0
+anticholinesterases,N/A,anticholinesterase agents,N/A,0
+anticholinesterases,N/A,anticholinesterases,N/A,0
+procaine hydrochloride,N/A,anticholinesterase agents,N/A,1
+procaine hydrochloride,N/A,anticholinesterases,N/A,0
+procaine hydrochloride,N/A,procaine hydrochloride,N/A,0
+anticholinesterase agents,N/A,anticholinesterases,N/A,0
+anticholinesterase agents,N/A,procaine hydrochloride,N/A,0
+anticholinesterases,N/A,procaine hydrochloride,N/A,1
+cns depressant,N/A,procaine hydrochloride,N/A,0
+cns depressant,N/A,cns depressant medications,N/A,0
+procaine hydrochloride,N/A,cns depressant medications,N/A,1
+hyaluronidase,DB14740,hyaluronidase,DB14740,0
+hyaluronidase,DB14740,procaine hydrochloride,N/A,1
+neuromuscular blocking agents,N/A,suxamethonium chloride,N/A,0
+neuromuscular blocking agents,N/A,procaine hydrochloride,N/A,0
+neuromuscular blocking agents,N/A,neuromuscular blocking agents,N/A,0
+suxamethonium chloride,N/A,procaine hydrochloride,N/A,0
+suxamethonium chloride,N/A,neuromuscular blocking agents,N/A,0
+procaine hydrochloride,N/A,neuromuscular blocking agents,N/A,1
+sulfonamides,N/A,procaine hydrochloride,N/A,0
+sulfonamides,N/A,sulfonamides,N/A,0
+sulfonamides,N/A,sulfonamide,N/A,0
+procaine hydrochloride,N/A,sulfonamides,N/A,1
+procaine hydrochloride,N/A,sulfonamide,N/A,0
+sulfonamides,N/A,sulfonamide,N/A,0
+acetazolamide,DB00819,acetazolamide,DB00819,0
+acetazolamide,DB00819,procaine hydrochloride,N/A,0
+acetazolamide,DB00819,procaine,DB00721,0
+acetazolamide,DB00819,procaine hydrochloride,N/A,1
+acetazolamide,DB00819,procaine,DB00721,0
+procaine hydrochloride,N/A,procaine,DB00721,0
+sutent,N/A,ketoconazole,DB01026,1
+sutent,N/A,itraconazole,DB01167,1
+sutent,N/A,clarithromycin,DB01211,1
+sutent,N/A,atazanavir,DB01072,1
+sutent,N/A,indinavir,DB00224,1
+sutent,N/A,nefazodone,DB01149,1
+sutent,N/A,nelfinavir,DB00220,1
+sutent,N/A,ritonavir,DB00503,1
+sutent,N/A,saquinavir,DB01232,1
+sutent,N/A,telithromycin,DB00976,1
+sutent,N/A,voriconizole,N/A,1
+sutent,N/A,sunitinib,DB01268,0
+ketoconazole,DB01026,atazanavir,DB01072,0
+ketoconazole,DB01026,indinavir,DB00224,0
+ketoconazole,DB01026,nefazodone,DB01149,0
+ketoconazole,DB01026,nelfinavir,DB00220,0
+ketoconazole,DB01026,ritonavir,DB00503,0
+ketoconazole,DB01026,saquinavir,DB01232,0
+ketoconazole,DB01026,telithromycin,DB00976,0
+ketoconazole,DB01026,voriconizole,N/A,0
+ketoconazole,DB01026,sunitinib,DB01268,0
+itraconazole,DB01167,atazanavir,DB01072,0
+itraconazole,DB01167,indinavir,DB00224,0
+itraconazole,DB01167,nefazodone,DB01149,0
+itraconazole,DB01167,nelfinavir,DB00220,0
+itraconazole,DB01167,ritonavir,DB00503,0
+itraconazole,DB01167,saquinavir,DB01232,0
+itraconazole,DB01167,telithromycin,DB00976,0
+itraconazole,DB01167,voriconizole,N/A,0
+itraconazole,DB01167,sunitinib,DB01268,0
+clarithromycin,DB01211,atazanavir,DB01072,0
+clarithromycin,DB01211,nefazodone,DB01149,0
+clarithromycin,DB01211,saquinavir,DB01232,0
+clarithromycin,DB01211,telithromycin,DB00976,0
+clarithromycin,DB01211,voriconizole,N/A,0
+clarithromycin,DB01211,sunitinib,DB01268,0
+atazanavir,DB01072,indinavir,DB00224,0
+atazanavir,DB01072,nefazodone,DB01149,0
+atazanavir,DB01072,nelfinavir,DB00220,0
+atazanavir,DB01072,ritonavir,DB00503,0
+atazanavir,DB01072,saquinavir,DB01232,0
+atazanavir,DB01072,telithromycin,DB00976,0
+atazanavir,DB01072,voriconizole,N/A,0
+atazanavir,DB01072,sunitinib,DB01268,0
+indinavir,DB00224,nefazodone,DB01149,0
+indinavir,DB00224,ritonavir,DB00503,0
+indinavir,DB00224,saquinavir,DB01232,0
+indinavir,DB00224,telithromycin,DB00976,0
+indinavir,DB00224,voriconizole,N/A,0
+indinavir,DB00224,sunitinib,DB01268,0
+nefazodone,DB01149,nelfinavir,DB00220,0
+nefazodone,DB01149,ritonavir,DB00503,0
+nefazodone,DB01149,saquinavir,DB01232,0
+nefazodone,DB01149,telithromycin,DB00976,0
+nefazodone,DB01149,voriconizole,N/A,0
+nefazodone,DB01149,sunitinib,DB01268,0
+nelfinavir,DB00220,ritonavir,DB00503,0
+nelfinavir,DB00220,saquinavir,DB01232,0
+nelfinavir,DB00220,telithromycin,DB00976,0
+nelfinavir,DB00220,voriconizole,N/A,0
+nelfinavir,DB00220,sunitinib,DB01268,0
+ritonavir,DB00503,saquinavir,DB01232,0
+ritonavir,DB00503,telithromycin,DB00976,0
+ritonavir,DB00503,voriconizole,N/A,0
+ritonavir,DB00503,sunitinib,DB01268,0
+saquinavir,DB01232,telithromycin,DB00976,0
+saquinavir,DB01232,voriconizole,N/A,0
+saquinavir,DB01232,sunitinib,DB01268,0
+telithromycin,DB00976,voriconizole,N/A,0
+telithromycin,DB00976,sunitinib,DB01268,0
+voriconizole,N/A,sunitinib,DB01268,0
+sutent,N/A,dexamethasone,DB01234,1
+sutent,N/A,phenytoin,DB00252,1
+sutent,N/A,carbamazepine,DB00564,1
+sutent,N/A,rifampin,N/A,1
+sutent,N/A,rifabutin,DB00615,1
+sutent,N/A,rifapentin,N/A,1
+sutent,N/A,phenobarbital,DB01174,1
+dexamethasone,DB01234,phenytoin,DB00252,0
+dexamethasone,DB01234,carbamazepine,DB00564,0
+dexamethasone,DB01234,rifampin,N/A,0
+dexamethasone,DB01234,rifabutin,DB00615,0
+dexamethasone,DB01234,rifapentin,N/A,0
+dexamethasone,DB01234,phenobarbital,DB01174,0
+dexamethasone,DB01234,sunitinib,DB01268,0
+phenytoin,DB00252,rifabutin,DB00615,0
+phenytoin,DB00252,rifapentin,N/A,0
+phenytoin,DB00252,phenobarbital,DB01174,0
+phenytoin,DB00252,sunitinib,DB01268,0
+carbamazepine,DB00564,rifampin,N/A,0
+carbamazepine,DB00564,rifabutin,DB00615,0
+carbamazepine,DB00564,rifapentin,N/A,0
+carbamazepine,DB00564,phenobarbital,DB01174,0
+carbamazepine,DB00564,sunitinib,DB01268,0
+rifampin,N/A,rifapentin,N/A,0
+rifampin,N/A,phenobarbital,DB01174,0
+rifampin,N/A,sunitinib,DB01268,0
+rifabutin,DB00615,rifapentin,N/A,0
+rifabutin,DB00615,phenobarbital,DB01174,0
+rifabutin,DB00615,sunitinib,DB01268,0
+rifapentin,N/A,phenobarbital,DB01174,0
+rifapentin,N/A,sunitinib,DB01268,0
+phenobarbital,DB01174,sunitinib,DB01268,0
+phenobarbital,DB01174,corticosteroids,N/A,1
+phenobarbital,DB01174,corticosteroid,N/A,1
+phenytoin,DB00252,corticosteroids,N/A,0
+phenytoin,DB00252,corticosteroid,N/A,1
+rifampin,N/A,corticosteroids,N/A,1
+rifampin,N/A,corticosteroid,N/A,1
+corticosteroids,N/A,corticosteroid,N/A,0
+troleandomycin,DB13179,corticosteroids,N/A,1
+ketoconazole,DB01026,corticosteroids,N/A,1
+corticosteroids,N/A,aspirin,N/A,1
+salicylate,N/A,corticosteroid,N/A,1
+anticoagulants,N/A,corticosteroids,N/A,1
+vitamin b1,N/A,thiamine,DB00152,0
+vitamin b1,N/A,loop diuretics,N/A,1
+vitamin b1,N/A,contraceptives,N/A,1
+vitamin b1,N/A,stavudine,DB00649,1
+vitamin b1,N/A,tricyclic antidepressants,N/A,1
+thiamine,DB00152,loop diuretics,N/A,1
+thiamine,DB00152,contraceptives,N/A,1
+thiamine,DB00152,stavudine,DB00649,1
+thiamine,DB00152,tricyclic antidepressants,N/A,1
+loop diuretics,N/A,contraceptives,N/A,0
+loop diuretics,N/A,stavudine,DB00649,0
+loop diuretics,N/A,tricyclic antidepressants,N/A,0
+contraceptives,N/A,stavudine,DB00649,0
+contraceptives,N/A,tricyclic antidepressants,N/A,0
+stavudine,DB00649,tricyclic antidepressants,N/A,0
+exelon,N/A,rivastigmine tartrate,N/A,0
+exelon,N/A,rivastigmine,DB00989,0
+rivastigmine tartrate,N/A,rivastigmine,DB00989,0
+rivastigmine,DB00989,digoxin,DB00390,0
+rivastigmine,DB00989,warfarin,DB00682,0
+rivastigmine,DB00989,diazepam,DB00829,0
+rivastigmine,DB00989,fluoxetine,DB00472,0
+digoxin,DB00390,diazepam,DB00829,0
+digoxin,DB00390,fluoxetine,DB00472,0
+warfarin,DB00682,diazepam,DB00829,0
+warfarin,DB00682,fluoxetine,DB00472,0
+diazepam,DB00829,fluoxetine,DB00472,0
+warfarin,DB00682,exelon,N/A,0
+exelon,N/A,rivastigmine,DB00989,0
+rivastigmine,DB00989,antacids,N/A,0
+rivastigmine,DB00989,antihypertensives,N/A,0
+rivastigmine,DB00989,calcium channel blockers,N/A,0
+rivastigmine,DB00989,antidiabetics,N/A,0
+rivastigmine,DB00989,nonsteroidal anti-inflammatory drugs,N/A,0
+rivastigmine,DB00989,estrogens,N/A,0
+rivastigmine,DB00989,salicylate analgesics,N/A,0
+rivastigmine,DB00989,antianginals,N/A,0
+rivastigmine,DB00989,antihistamines,N/A,0
+antacids,N/A,antihypertensives,N/A,0
+antacids,N/A,calcium channel blockers,N/A,0
+antacids,N/A,antidiabetics,N/A,0
+antacids,N/A,nonsteroidal anti-inflammatory drugs,N/A,0
+antacids,N/A,estrogens,N/A,0
+antacids,N/A,salicylate analgesics,N/A,0
+antacids,N/A,antianginals,N/A,0
+antacids,N/A,antihistamines,N/A,0
+antihypertensives,N/A,calcium channel blockers,N/A,0
+antihypertensives,N/A,antidiabetics,N/A,0
+antihypertensives,N/A,nonsteroidal anti-inflammatory drugs,N/A,0
+antihypertensives,N/A,estrogens,N/A,0
+antihypertensives,N/A,salicylate analgesics,N/A,0
+antihypertensives,N/A,antianginals,N/A,0
+antihypertensives,N/A,antihistamines,N/A,0
+calcium channel blockers,N/A,antidiabetics,N/A,0
+calcium channel blockers,N/A,nonsteroidal anti-inflammatory drugs,N/A,0
+calcium channel blockers,N/A,estrogens,N/A,0
+calcium channel blockers,N/A,salicylate analgesics,N/A,0
+calcium channel blockers,N/A,antianginals,N/A,0
+calcium channel blockers,N/A,antihistamines,N/A,0
+antidiabetics,N/A,nonsteroidal anti-inflammatory drugs,N/A,0
+antidiabetics,N/A,estrogens,N/A,0
+antidiabetics,N/A,salicylate analgesics,N/A,0
+antidiabetics,N/A,antianginals,N/A,0
+antidiabetics,N/A,antihistamines,N/A,0
+nonsteroidal anti-inflammatory drugs,N/A,estrogens,N/A,0
+nonsteroidal anti-inflammatory drugs,N/A,salicylate analgesics,N/A,0
+nonsteroidal anti-inflammatory drugs,N/A,antianginals,N/A,0
+nonsteroidal anti-inflammatory drugs,N/A,antihistamines,N/A,0
+estrogens,N/A,salicylate analgesics,N/A,0
+estrogens,N/A,antianginals,N/A,0
+estrogens,N/A,antihistamines,N/A,0
+salicylate analgesics,N/A,antianginals,N/A,0
+salicylate analgesics,N/A,antihistamines,N/A,0
+antianginals,N/A,antihistamines,N/A,0
+anticholinergics,N/A,cholinesterase inhibitors,N/A,0
+anticholinergics,N/A,anticholinergic medications,N/A,0
+cholinesterase inhibitors,N/A,anticholinergic medications,N/A,1
+cholinomimetics,N/A,cholinesterase inhibitors,N/A,0
+cholinomimetics,N/A,cholinesterase inhibitors,N/A,0
+cholinomimetics,N/A,succinylcholine,DB00202,0
+cholinomimetics,N/A,neuromuscular blocking agents,N/A,0
+cholinomimetics,N/A,cholinergic agonists,N/A,0
+cholinomimetics,N/A,bethanechol,DB01019,0
+cholinesterase inhibitors,N/A,cholinesterase inhibitors,N/A,0
+cholinesterase inhibitors,N/A,succinylcholine,DB00202,0
+cholinesterase inhibitors,N/A,neuromuscular blocking agents,N/A,0
+cholinesterase inhibitors,N/A,cholinergic agonists,N/A,0
+cholinesterase inhibitors,N/A,bethanechol,DB01019,0
+cholinesterase inhibitors,N/A,succinylcholine,DB00202,1
+cholinesterase inhibitors,N/A,neuromuscular blocking agents,N/A,1
+cholinesterase inhibitors,N/A,cholinergic agonists,N/A,1
+cholinesterase inhibitors,N/A,bethanechol,DB01019,1
+succinylcholine,DB00202,neuromuscular blocking agents,N/A,0
+succinylcholine,DB00202,cholinergic agonists,N/A,0
+succinylcholine,DB00202,bethanechol,DB01019,0
+neuromuscular blocking agents,N/A,cholinergic agonists,N/A,0
+neuromuscular blocking agents,N/A,bethanechol,DB01019,0
+cholinergic agonists,N/A,bethanechol,DB01019,0
+ketoconazole,DB01026,ketoconazole,DB01026,0
+ketoconazole,DB01026,terfenadine,DB00342,0
+ketoconazole,DB01026,terfenadine,DB00342,0
+itraconazole,DB01167,terfenadine,DB00342,0
+itraconazole,DB01167,itraconazole,DB01167,0
+terfenadine,DB00342,itraconazole,DB01167,0
+itraconazole,DB01167,itraconazole,DB01167,0
+itraconazole,DB01167,terfenadine,DB00342,0
+azole-type antifungal agents,N/A,fluconazole,DB00196,0
+azole-type antifungal agents,N/A,metronidazole,DB00916,0
+azole-type antifungal agents,N/A,miconazole,DB01110,0
+azole-type antifungal agents,N/A,ketoconazole,DB01026,0
+azole-type antifungal agents,N/A,itraconazole,DB01167,0
+azole-type antifungal agents,N/A,terfenadine,DB00342,1
+fluconazole,DB00196,metronidazole,DB00916,0
+fluconazole,DB00196,miconazole,DB01110,0
+fluconazole,DB00196,ketoconazole,DB01026,0
+fluconazole,DB00196,itraconazole,DB01167,0
+fluconazole,DB00196,terfenadine,DB00342,1
+metronidazole,DB00916,miconazole,DB01110,0
+metronidazole,DB00916,ketoconazole,DB01026,0
+metronidazole,DB00916,itraconazole,DB01167,0
+metronidazole,DB00916,terfenadine,DB00342,1
+miconazole,DB01110,ketoconazole,DB01026,0
+miconazole,DB01110,itraconazole,DB01167,0
+miconazole,DB01110,terfenadine,DB00342,1
+macrolides,N/A,erythromycin,DB00199,0
+macrolides,N/A,clarithromycin,DB01211,0
+macrolides,N/A,terfenadine,DB00342,0
+macrolides,N/A,ketoconazole,DB01026,0
+erythromycin,DB00199,terfenadine,DB00342,0
+clarithromycin,DB01211,terfenadine,DB00342,0
+terfenadine,DB00342,ketoconazole,DB01026,0
+terfenadine,DB00342,clarithromycin,DB01211,1
+terfenadine,DB00342,erythromycin,DB00199,1
+terfenadine,DB00342,troleandomycin,DB13179,1
+terfenadine,DB00342,macrolide antibiotics,N/A,1
+terfenadine,DB00342,azithromycin,DB00207,0
+clarithromycin,DB01211,erythromycin,DB00199,0
+clarithromycin,DB01211,troleandomycin,DB13179,0
+clarithromycin,DB01211,macrolide antibiotics,N/A,0
+clarithromycin,DB01211,azithromycin,DB00207,0
+erythromycin,DB00199,macrolide antibiotics,N/A,0
+erythromycin,DB00199,azithromycin,DB00207,0
+troleandomycin,DB13179,terfenadine,DB00342,0
+troleandomycin,DB13179,macrolide antibiotics,N/A,0
+troleandomycin,DB13179,azithromycin,DB00207,0
+macrolide antibiotics,N/A,azithromycin,DB00207,0
+nexavar,N/A,irinotecan,DB00762,1
+nexavar,N/A,doxorubicin,DB00997,1
+doxorubicin,DB00997,nexavar,N/A,1
+methadone,DB00333,peg-intron,N/A,1
+peg-intron,N/A,methadone,DB00333,0
+mexitil,N/A,mexiletine,DB00379,0
+mexiletine,DB00379,fluvoxamine,DB00176,1
+propafenone,DB01182,mexiletine,DB00379,0
+mexiletine,DB00379,propafenone,DB01182,0
+propafenone,DB01182,propafenone,DB01182,0
+mexiletine,DB00379,mexiletine,DB00379,0
+mexitil,N/A,antihypertensive,N/A,0
+mexitil,N/A,anticoagulant drugs,N/A,0
+antihypertensive,N/A,anticoagulant drugs,N/A,0
+antiarrhythmics,N/A,quinidine,DB00908,0
+antiarrhythmics,N/A,propranolol,DB00571,0
+quinidine,DB00908,propranolol,DB00571,0
+phenytoin,DB00252,mexitil,N/A,0
+rifampin,N/A,mexitil,N/A,0
+phenobarbital,DB01174,mexitil,N/A,0
+mexitil,N/A,mexitil,N/A,0
+benzodiazepines,N/A,mexitil,N/A,0
+mexitil,N/A,digoxin,DB00390,0
+mexitil,N/A,diuretics,N/A,0
+mexitil,N/A,propranolol,DB00571,0
+digoxin,DB00390,diuretics,N/A,0
+digoxin,DB00390,propranolol,DB00571,0
+diuretics,N/A,propranolol,DB00571,0
+cimetidine,DB00501,mexitil,N/A,0
+mexitil,N/A,magnesium-aluminum hydroxide,N/A,0
+digoxin,DB00390,magnesium-aluminum hydroxide,N/A,0
+digoxin,DB00390,mexitil,N/A,0
+magnesium-aluminum hydroxide,N/A,mexitil,N/A,0
+magnesium-aluminum hydroxide,N/A,digoxin,DB00390,1
+mexitil,N/A,theophylline,DB00277,0
+theophylline,DB00277,theophylline,DB00277,0
+mexitil,N/A,theophylline,DB00277,0
+theophylline,DB00277,mexitil,N/A,0
+theophylline,DB00277,mexitil,N/A,0
+caffeine,DB00201,mexitil,N/A,1
+alcohol,N/A,alcohol,N/A,0
+alcohol,N/A,pentazocine,DB00652,0
+alcohol,N/A,pentazocine,DB00652,1
+thiabendazole,DB00730,theophylline,DB00277,1
+thiabendazole,DB00730,xanthine derivatives,N/A,1
+pyrimethamine,DB00205,sulfonamides,N/A,0
+pyrimethamine,DB00205,quinine,DB00468,0
+pyrimethamine,DB00205,antimalarials,N/A,0
+pyrimethamine,DB00205,antibiotics,N/A,0
+sulfonamides,N/A,quinine,DB00468,0
+sulfonamides,N/A,antimalarials,N/A,0
+sulfonamides,N/A,antibiotics,N/A,0
+quinine,DB00468,antimalarials,N/A,0
+quinine,DB00468,antibiotics,N/A,0
+antimalarials,N/A,antibiotics,N/A,0
+folinic acid,N/A,leucovorin,DB00650,0
+lorazepam,DB00186,pyrimethamine,DB00205,1
+posicor,N/A,terfenadine,DB00342,1
+posicor,N/A,astemizole,DB00637,1
+posicor,N/A,cisapride,DB00604,1
+posicor,N/A,cyclosporine,DB00091,1
+posicor,N/A,tricyclic antidepressants,N/A,1
+terfenadine,DB00342,astemizole,DB00637,0
+terfenadine,DB00342,cisapride,DB00604,0
+terfenadine,DB00342,cyclosporine,DB00091,0
+terfenadine,DB00342,tricyclic antidepressants,N/A,0
+astemizole,DB00637,cisapride,DB00604,0
+astemizole,DB00637,cyclosporine,DB00091,0
+astemizole,DB00637,tricyclic antidepressants,N/A,0
+cisapride,DB00604,cyclosporine,DB00091,0
+cisapride,DB00604,tricyclic antidepressants,N/A,0
+cyclosporine,DB00091,tricyclic antidepressants,N/A,0
+trilostane,DB01108,aminoglutethimide,DB00357,1
+trilostane,DB01108,mitotane,DB00648,1
+aminoglutethimide,DB00357,mitotane,DB00648,0
+probenecid,DB01032,alimta,N/A,1
+ibuprofen,DB01050,alimta,N/A,1
+ibuprofen,DB01050,ibuprofen,DB01050,0
+alimta,N/A,ibuprofen,DB01050,0
+alimta,N/A,alimta,N/A,0
+nsaids,N/A,alimta,N/A,1
+alimta,N/A,nsaids,N/A,0
+nsaids,N/A,nsaids,N/A,0
+ritalin,N/A,guanethidine,DB01170,1
+ritalin,N/A,coumarin anticoagulants,N/A,1
+ritalin,N/A,anticonvulsants,N/A,1
+ritalin,N/A,phenobarbital,DB01174,1
+ritalin,N/A,diphenylhydantoin,N/A,1
+ritalin,N/A,primidone,DB00794,1
+ritalin,N/A,phenylbutazone,DB00812,1
+ritalin,N/A,tricyclic drugs,N/A,1
+ritalin,N/A,imipramine,DB00458,1
+ritalin,N/A,clomipramine,DB01242,1
+ritalin,N/A,desipramine,DB01151,1
+coumarin anticoagulants,N/A,anticonvulsants,N/A,0
+coumarin anticoagulants,N/A,phenobarbital,DB01174,0
+coumarin anticoagulants,N/A,diphenylhydantoin,N/A,0
+coumarin anticoagulants,N/A,primidone,DB00794,0
+coumarin anticoagulants,N/A,phenylbutazone,DB00812,0
+coumarin anticoagulants,N/A,tricyclic drugs,N/A,0
+coumarin anticoagulants,N/A,imipramine,DB00458,0
+coumarin anticoagulants,N/A,clomipramine,DB01242,0
+coumarin anticoagulants,N/A,desipramine,DB01151,0
+anticonvulsants,N/A,phenobarbital,DB01174,0
+anticonvulsants,N/A,diphenylhydantoin,N/A,0
+anticonvulsants,N/A,primidone,DB00794,0
+anticonvulsants,N/A,phenylbutazone,DB00812,0
+anticonvulsants,N/A,tricyclic drugs,N/A,0
+anticonvulsants,N/A,imipramine,DB00458,0
+anticonvulsants,N/A,clomipramine,DB01242,0
+anticonvulsants,N/A,desipramine,DB01151,0
+phenobarbital,DB01174,diphenylhydantoin,N/A,0
+phenobarbital,DB01174,primidone,DB00794,0
+phenobarbital,DB01174,phenylbutazone,DB00812,0
+phenobarbital,DB01174,tricyclic drugs,N/A,0
+phenobarbital,DB01174,imipramine,DB00458,0
+phenobarbital,DB01174,clomipramine,DB01242,0
+phenobarbital,DB01174,desipramine,DB01151,0
+diphenylhydantoin,N/A,primidone,DB00794,0
+diphenylhydantoin,N/A,phenylbutazone,DB00812,0
+diphenylhydantoin,N/A,tricyclic drugs,N/A,0
+diphenylhydantoin,N/A,imipramine,DB00458,0
+diphenylhydantoin,N/A,clomipramine,DB01242,0
+diphenylhydantoin,N/A,desipramine,DB01151,0
+primidone,DB00794,phenylbutazone,DB00812,0
+primidone,DB00794,tricyclic drugs,N/A,0
+primidone,DB00794,imipramine,DB00458,0
+primidone,DB00794,clomipramine,DB01242,0
+primidone,DB00794,desipramine,DB01151,0
+phenylbutazone,DB00812,tricyclic drugs,N/A,0
+phenylbutazone,DB00812,imipramine,DB00458,0
+phenylbutazone,DB00812,clomipramine,DB01242,0
+phenylbutazone,DB00812,desipramine,DB01151,0
+tricyclic drugs,N/A,imipramine,DB00458,0
+tricyclic drugs,N/A,clomipramine,DB01242,0
+tricyclic drugs,N/A,desipramine,DB01151,0
+methylphenidate,DB00422,clonidine,DB00575,0
+methylphenidate,DB00422,alpha-2 agonists,N/A,0
+clonidine,DB00575,alpha-2 agonists,N/A,0
+coumarin-derivative anticoagulants,N/A,zolinza,N/A,0
+coumarin-derivative anticoagulants,N/A,coumarin-derivative anticoagulants,N/A,0
+zolinza,N/A,coumarin-derivative anticoagulants,N/A,1
+zolinza,N/A,coumarin derivatives,N/A,1
+hdac inhibitors,N/A,zolinza,N/A,0
+hdac inhibitors,N/A,hdac inhibitors,N/A,0
+hdac inhibitors,N/A,valproic acid,DB00313,0
+zolinza,N/A,hdac inhibitors,N/A,1
+zolinza,N/A,valproic acid,DB00313,1
+hdac inhibitors,N/A,valproic acid,DB00313,0
+eloxatin,N/A,5-fu,N/A,0
+5-fu,N/A,eloxatin,N/A,1
+alcohol,N/A,xenical,N/A,0
+alcohol,N/A,orlistat,DB01083,0
+xenical,N/A,alcohol,N/A,0
+xenical,N/A,orlistat,DB01083,0
+alcohol,N/A,alcohol,N/A,0
+alcohol,N/A,orlistat,DB01083,0
+orlistat,DB01083,orlistat,DB01083,0
+cyclosporine,DB00091,xenical,N/A,0
+cyclosporine,DB00091,cyclosporine,DB00091,0
+xenical,N/A,cyclosporine,DB00091,1
+xenical,N/A,xenical,N/A,0
+cyclosporine,DB00091,cyclosporine,DB00091,0
+cyclosporine,DB00091,xenical,N/A,0
+digoxin,DB00390,xenical,N/A,0
+xenical,N/A,digoxin,DB00390,0
+fat-soluble vitamin supplements,N/A,beta-carotene,N/A,0
+fat-soluble vitamin supplements,N/A,xenical,N/A,0
+beta-carotene,N/A,xenical,N/A,1
+xenical,N/A,vitamin e acetate,N/A,1
+orlistat,DB01083,vitamin d,DB11094,0
+orlistat,DB01083,vitamin a,DB00162,0
+orlistat,DB01083,vitamin k,N/A,0
+vitamin d,DB11094,vitamin a,DB00162,0
+vitamin d,DB11094,vitamin k,N/A,0
+vitamin a,DB00162,vitamin k,N/A,0
+glyburide,DB01016,orlistat,DB01083,0
+glyburide,DB01016,glyburide,DB01016,0
+orlistat,DB01083,glyburide,DB01016,0
+nifedipine,DB01115,xenical,N/A,0
+xenical,N/A,nifedipine,DB01115,0
+contraceptives,N/A,xenical,N/A,0
+contraceptives,N/A,contraceptives,N/A,0
+xenical,N/A,contraceptives,N/A,0
+phenytoin,DB00252,xenical,N/A,0
+phenytoin,DB00252,phenytoin,DB00252,0
+xenical,N/A,phenytoin,DB00252,0
+pravastatin,DB00175,xenical,N/A,0
+pravastatin,DB00175,pravastatin,DB00175,0
+xenical,N/A,pravastatin,DB00175,0
+warfarin,DB00682,xenical,N/A,0
+warfarin,DB00682,warfarin,DB00682,0
+xenical,N/A,warfarin,DB00682,0
+vitamin k,N/A,xenical,N/A,0
+vitamin k,N/A,warfarin,DB00682,0
+warfarin,DB00682,xenical,N/A,1
+terbinafine,DB00857,tolbutamide,DB01124,0
+terbinafine,DB00857,ethinylestradiol,DB00977,0
+terbinafine,DB00857,ethoxycoumarin,,0
+terbinafine,DB00857,cyclosporine,DB00091,0
+tolbutamide,DB01124,ethinylestradiol,DB00977,0
+tolbutamide,DB01124,ethoxycoumarin,,0
+tolbutamide,DB01124,cyclosporine,DB00091,0
+ethinylestradiol,DB00977,ethoxycoumarin,,0
+ethinylestradiol,DB00977,cyclosporine,DB00091,0
+ethoxycoumarin,,cyclosporine,DB00091,0
+tricyclic antidepressants,N/A,selective serotonin reuptake inhibitors,N/A,0
+tricyclic antidepressants,N/A,ssris,N/A,0
+tricyclic antidepressants,N/A,monoamine oxidase inhibitors (mao-is) type b,N/A,0
+selective serotonin reuptake inhibitors,N/A,ssris,N/A,0
+selective serotonin reuptake inhibitors,N/A,monoamine oxidase inhibitors (mao-is) type b,N/A,0
+ssris,N/A,monoamine oxidase inhibitors (mao-is) type b,N/A,0
+terbinafine,DB00857,antipyrine,DB01435,0
+terbinafine,DB00857,digoxin,DB00390,0
+terbinafine,DB00857,caffeine,DB00201,1
+terbinafine,DB00857,cyclosporine,DB00091,0
+terbinafine,DB00857,warfarin,DB00682,1
+terbinafine,DB00857,lamisil,N/A,0
+warfarin,DB00682,lamisil,N/A,0
+terbinafine,DB00857,rifampin,N/A,1
+terbinafine,DB00857,cimetidine,DB00501,1
+rifampin,N/A,cimetidine,DB00501,0
+contraceptives,N/A,hypoglycemics,N/A,0
+contraceptives,N/A,theophyllines,N/A,0
+contraceptives,N/A,phenytoins,N/A,0
+contraceptives,N/A,thiazide diuretics,N/A,0
+contraceptives,N/A,calcium channel blockers,N/A,0
+hypoglycemics,N/A,theophyllines,N/A,0
+hypoglycemics,N/A,phenytoins,N/A,0
+hypoglycemics,N/A,thiazide diuretics,N/A,0
+hypoglycemics,N/A,beta blockers,N/A,0
+hypoglycemics,N/A,calcium channel blockers,N/A,0
+theophyllines,N/A,phenytoins,N/A,0
+theophyllines,N/A,thiazide diuretics,N/A,0
+theophyllines,N/A,beta blockers,N/A,0
+theophyllines,N/A,calcium channel blockers,N/A,0
+phenytoins,N/A,thiazide diuretics,N/A,0
+phenytoins,N/A,beta blockers,N/A,0
+phenytoins,N/A,calcium channel blockers,N/A,0
+thiazide diuretics,N/A,beta blockers,N/A,0
+thiazide diuretics,N/A,calcium channel blockers,N/A,0
+beta blockers,N/A,calcium channel blockers,N/A,0
+aspirin,N/A,salicylate drugs,N/A,0
+aspirin,N/A,disalcid,N/A,1
+aspirin,N/A,salicylic acid,DB00936,0
+salicylate drugs,N/A,disalcid,N/A,1
+salicylate drugs,N/A,salicylic acid,DB00936,0
+disalcid,N/A,salicylic acid,DB00936,0
+salicylates,N/A,anticoagulant drugs,N/A,1
+salicylates,N/A,antidiabetic drugs,N/A,1
+salicylate,N/A,penicillin,,1
+salicylate,N/A,thiopental,DB00599,1
+salicylate,N/A,thyroxine,N/A,1
+salicylate,N/A,triiodothyronine,N/A,1
+salicylate,N/A,phenytoin,DB00252,1
+salicylate,N/A,sulfinpyrazone,DB01138,1
+salicylate,N/A,naproxen,DB00788,1
+salicylate,N/A,warfarin,DB00682,1
+salicylate,N/A,methotrexate,DB00563,1
+salicylate,N/A,corticosteroids,N/A,1
+penicillin,,thiopental,DB00599,0
+penicillin,,thyroxine,N/A,0
+penicillin,,triiodothyronine,N/A,0
+penicillin,,phenytoin,DB00252,0
+penicillin,,sulfinpyrazone,DB01138,0
+penicillin,,naproxen,DB00788,0
+penicillin,,warfarin,DB00682,0
+penicillin,,methotrexate,DB00563,0
+penicillin,,corticosteroids,N/A,0
+thiopental,DB00599,thyroxine,N/A,0
+thiopental,DB00599,triiodothyronine,N/A,0
+thiopental,DB00599,phenytoin,DB00252,0
+thiopental,DB00599,sulfinpyrazone,DB01138,0
+thiopental,DB00599,naproxen,DB00788,0
+thiopental,DB00599,warfarin,DB00682,0
+thiopental,DB00599,methotrexate,DB00563,0
+thiopental,DB00599,corticosteroids,N/A,0
+thyroxine,N/A,triiodothyronine,N/A,0
+thyroxine,N/A,phenytoin,DB00252,0
+thyroxine,N/A,sulfinpyrazone,DB01138,0
+thyroxine,N/A,naproxen,DB00788,0
+thyroxine,N/A,warfarin,DB00682,0
+thyroxine,N/A,methotrexate,DB00563,0
+thyroxine,N/A,corticosteroids,N/A,0
+triiodothyronine,N/A,phenytoin,DB00252,0
+triiodothyronine,N/A,sulfinpyrazone,DB01138,0
+triiodothyronine,N/A,naproxen,DB00788,0
+triiodothyronine,N/A,warfarin,DB00682,0
+triiodothyronine,N/A,methotrexate,DB00563,0
+triiodothyronine,N/A,corticosteroids,N/A,0
+phenytoin,DB00252,sulfinpyrazone,DB01138,0
+phenytoin,DB00252,naproxen,DB00788,0
+phenytoin,DB00252,methotrexate,DB00563,0
+sulfinpyrazone,DB01138,naproxen,DB00788,0
+sulfinpyrazone,DB01138,warfarin,DB00682,0
+sulfinpyrazone,DB01138,methotrexate,DB00563,0
+sulfinpyrazone,DB01138,corticosteroids,N/A,0
+naproxen,DB00788,methotrexate,DB00563,0
+naproxen,DB00788,corticosteroids,N/A,0
+warfarin,DB00682,corticosteroids,N/A,0
+methotrexate,DB00563,corticosteroids,N/A,0
+pindolol,DB00960,antihypertensive agents,N/A,0
+pindolol,DB00960,hydrochlorothiazide,DB00999,0
+pindolol,DB00960,hydralazine,DB01275,0
+pindolol,DB00960,guanethidine,DB01170,0
+antihypertensive agents,N/A,hydrochlorothiazide,DB00999,0
+antihypertensive agents,N/A,hydralazine,DB01275,0
+antihypertensive agents,N/A,guanethidine,DB01170,0
+hydrochlorothiazide,DB00999,hydralazine,DB01275,0
+hydrochlorothiazide,DB00999,guanethidine,DB01170,0
+hydralazine,DB01275,guanethidine,DB01170,0
+pindolol,DB00960,thioridazine,DB00679,1
+mifepristone,DB00834,ketoconazole,DB01026,0
+mifepristone,DB00834,itraconazole,DB01167,0
+mifepristone,DB00834,erythromycin,DB00199,0
+mifepristone,DB00834,mifepristone,DB00834,0
+ketoconazole,DB01026,mifepristone,DB00834,1
+itraconazole,DB01167,mifepristone,DB00834,1
+erythromycin,DB00199,mifepristone,DB00834,1
+rifampin,N/A,dexamethasone,DB01234,0
+anticonvulsants,N/A,phenytoin,DB00252,0
+anticonvulsants,N/A,carbamazepine,DB00564,0
+anticonvulsants,N/A,mifepristone,DB00834,0
+phenytoin,DB00252,mifepristone,DB00834,0
+phenobarbital,DB01174,carbamazepine,DB00564,0
+phenobarbital,DB01174,mifepristone,DB00834,0
+carbamazepine,DB00564,mifepristone,DB00834,0
+heparin,DB01109,abciximab,DB00054,0
+heparin,DB01109,retavase,N/A,1
+vitamin k antagonists,N/A,aspirin,N/A,0
+vitamin k antagonists,N/A,abciximab,DB00054,0
+vitamin k antagonists,N/A,retavase,N/A,1
+aspirin,N/A,dipyridamole,DB00975,0
+aspirin,N/A,abciximab,DB00054,0
+aspirin,N/A,retavase,N/A,1
+dipyridamole,DB00975,abciximab,DB00054,0
+dipyridamole,DB00975,retavase,N/A,1
+abciximab,DB00054,retavase,N/A,1
+selegiline,DB01037,meperidine,DB00454,1
+meperidine,DB00454,maois,N/A,1
+tricyclic antidepressants,N/A,eldepryl,N/A,0
+eldepryl,N/A,selective serotonin reuptake inhibitors,N/A,0
+eldepryl,N/A,eldepryl,N/A,0
+selective serotonin reuptake inhibitors,N/A,eldepryl,N/A,1
+selegiline,DB01037,sympathomimetic medication,N/A,1
+selegiline,DB01037,ephedrine,DB01364,1
+sympathomimetic medication,N/A,ephedrine,DB01364,0
+zadaxin,N/A,immunomodulating drugs,N/A,1
+demser,N/A,phenothiazines,N/A,1
+demser,N/A,haloperidol,DB00502,1
+phenothiazines,N/A,haloperidol,DB00502,0
+demser,N/A,alcohol,N/A,1
+demser,N/A,cns depressants,N/A,1
+alcohol,N/A,cns depressants,N/A,0
+metopirone,N/A,phenytoin,DB00252,1
+metopirone,N/A,acetaminophen,DB00316,1
+acetaminophen,DB00316,acetaminophen,DB00316,0
+dopamine antagonists,N/A,thioxanthines,N/A,0
+dopamine antagonists,N/A,permax,N/A,1
+neuroleptics,N/A,thioxanthines,N/A,0
+neuroleptics,N/A,permax,N/A,1
+neuroleptics,N/A,dopamine agonist,N/A,0
+phenothiazines,N/A,thioxanthines,N/A,0
+phenothiazines,N/A,permax,N/A,1
+phenothiazines,N/A,dopamine agonist,N/A,0
+butyrophenones,N/A,thioxanthines,N/A,0
+butyrophenones,N/A,permax,N/A,1
+butyrophenones,N/A,dopamine agonist,N/A,0
+thioxanthines,N/A,metoclopramide,DB01233,0
+thioxanthines,N/A,permax,N/A,1
+thioxanthines,N/A,dopamine agonist,N/A,0
+metoclopramide,DB01233,permax,N/A,1
+metoclopramide,DB01233,dopamine agonist,N/A,0
+permax,N/A,dopamine agonist,N/A,0
+pergolide mesylate,N/A,pergolide mesylate,N/A,0
+ketoconazole,DB01026,retapamulin,DB01256,1
+retapamulin,DB01256,retapamulin,DB01256,0
+retapamulin,DB01256,ketoconazole,DB01026,0
+altabax,N/A,retapamulin,DB01256,0
+ketoconazole,DB01026,paricalcitol,DB00910,0
+paricalcitol,DB00910,paricalcitol,DB00910,0
+paricalcitol,DB00910,ketoconazole,DB01026,1
+paricalcitol,DB00910,atazanavir,DB01072,1
+paricalcitol,DB00910,clarithromycin,DB01211,1
+paricalcitol,DB00910,indinavir,DB00224,1
+paricalcitol,DB00910,itraconazole,DB01167,1
+paricalcitol,DB00910,nefazodone,DB01149,1
+paricalcitol,DB00910,nelfinavir,DB00220,1
+paricalcitol,DB00910,ritonavir,DB00503,1
+paricalcitol,DB00910,saquinavir,DB01232,1
+paricalcitol,DB00910,telithromycin,DB00976,1
+paricalcitol,DB00910,voriconazole,DB00582,1
+atazanavir,DB01072,clarithromycin,DB01211,0
+atazanavir,DB01072,itraconazole,DB01167,0
+atazanavir,DB01072,voriconazole,DB00582,0
+nefazodone,DB01149,voriconazole,DB00582,0
+saquinavir,DB01232,voriconazole,DB00582,0
+telithromycin,DB00976,voriconazole,DB00582,0
+zemplar,N/A,ketoconazole,DB01026,1
+fat-soluble vitamins,N/A,cholestyramine,DB01432,1
+fat-soluble vitamins,N/A,zemplar,N/A,0
+cholestyramine,DB01432,zemplar,N/A,1
+aspirin,N/A,methazolamide,DB00703,1
+aspirin,N/A,carbonic anhydrase inhibitors,N/A,1
+methazolamide,DB00703,aspirin,N/A,0
+methazolamide,DB00703,carbonic anhydrase inhibitors,N/A,0
+flomax,N/A,alpha-adrenergic blocking agents,N/A,1
+cimetidine,DB00501,flomax,N/A,0
+flomax,N/A,cimetidine,DB00501,1
+tamsulosin hci,N/A,warfarin,DB00682,0
+warfarin,DB00682,flomax,N/A,1
+glucocorticoid,N/A,glucocorticoid,N/A,0
+gh,N/A,antipyrine,DB01435,1
+gh,N/A,corticosteroids,N/A,1
+gh,N/A,sex steroids,N/A,1
+gh,N/A,anticonvulsants,N/A,1
+gh,N/A,cyclosporin,N/A,1
+corticosteroids,N/A,sex steroids,N/A,0
+corticosteroids,N/A,anticonvulsants,N/A,0
+corticosteroids,N/A,cyclosporin,N/A,0
+sex steroids,N/A,anticonvulsants,N/A,0
+sex steroids,N/A,cyclosporin,N/A,0
+anticonvulsants,N/A,cyclosporin,N/A,0
+oxycodone hydrochloride,N/A,cns depressants,N/A,1
+central nervous system depressants,N/A,morphine,DB00295,0
+central nervous system depressants,N/A,cns depressants,N/A,0
+central nervous system depressants,N/A,alcohol,N/A,0
+central nervous system depressants,N/A,sedatives,N/A,0
+central nervous system depressants,N/A,antihistaminics,N/A,0
+central nervous system depressants,N/A,psychotropic drugs,N/A,0
+morphine,DB00295,cns depressants,N/A,1
+morphine,DB00295,alcohol,N/A,1
+morphine,DB00295,sedatives,N/A,1
+morphine,DB00295,antihistaminics,N/A,1
+morphine,DB00295,psychotropic drugs,N/A,1
+cns depressants,N/A,sedatives,N/A,0
+cns depressants,N/A,antihistaminics,N/A,0
+cns depressants,N/A,psychotropic drugs,N/A,0
+alcohol,N/A,antihistaminics,N/A,0
+alcohol,N/A,psychotropic drugs,N/A,0
+sedatives,N/A,antihistaminics,N/A,0
+sedatives,N/A,psychotropic drugs,N/A,0
+antihistaminics,N/A,psychotropic drugs,N/A,0
+neuroleptics,N/A,morphine,DB00295,1
+mixed agonist/antagonist opioid analgesics,N/A,agonist/antagonist analgesics,N/A,0
+mixed agonist/antagonist opioid analgesics,N/A,pentazocine,DB00652,0
+mixed agonist/antagonist opioid analgesics,N/A,nalbuphine,DB00844,0
+mixed agonist/antagonist opioid analgesics,N/A,butorphanol,DB00611,0
+mixed agonist/antagonist opioid analgesics,N/A,buprenorphine,DB00921,0
+mixed agonist/antagonist opioid analgesics,N/A,opioid agonist analgesic,N/A,0
+agonist/antagonist analgesics,N/A,pentazocine,DB00652,0
+agonist/antagonist analgesics,N/A,nalbuphine,DB00844,0
+agonist/antagonist analgesics,N/A,butorphanol,DB00611,0
+agonist/antagonist analgesics,N/A,buprenorphine,DB00921,0
+agonist/antagonist analgesics,N/A,opioid agonist analgesic,N/A,1
+pentazocine,DB00652,nalbuphine,DB00844,0
+pentazocine,DB00652,butorphanol,DB00611,0
+pentazocine,DB00652,buprenorphine,DB00921,0
+pentazocine,DB00652,opioid agonist analgesic,N/A,1
+nalbuphine,DB00844,butorphanol,DB00611,0
+nalbuphine,DB00844,buprenorphine,DB00921,0
+nalbuphine,DB00844,opioid agonist analgesic,N/A,1
+butorphanol,DB00611,buprenorphine,DB00921,0
+butorphanol,DB00611,opioid agonist analgesic,N/A,1
+buprenorphine,DB00921,opioid agonist analgesic,N/A,1
+ergotamine,DB00696,ergot-type medications,N/A,0
+ergotamine,DB00696,dihydroergotamine,DB00320,0
+ergotamine,DB00696,methysergide,DB00247,0
+ergotamine,DB00696,sumatriptan,DB00669,1
+ergot-type medications,N/A,dihydroergotamine,DB00320,0
+ergot-type medications,N/A,methysergide,DB00247,0
+ergot-type medications,N/A,sumatriptan,DB00669,1
+dihydroergotamine,DB00320,methysergide,DB00247,0
+dihydroergotamine,DB00320,sumatriptan,DB00669,1
+methysergide,DB00247,sumatriptan,DB00669,1
+mao-a inhibitors,N/A,sumatriptan,DB00669,0
+sumatriptan succinate,N/A,mao-a inhibitors,N/A,1
+sumatriptan succinate,N/A,selective serotonin reuptake inhibitors,N/A,0
+sumatriptan succinate,N/A,ssris,N/A,0
+sumatriptan succinate,N/A,fluoxetine,DB00472,0
+sumatriptan succinate,N/A,fluvoxamine,DB00176,0
+sumatriptan succinate,N/A,paroxetine,DB00715,0
+sumatriptan succinate,N/A,sertraline,DB01104,0
+sumatriptan succinate,N/A,sumatriptan,DB00669,0
+mao-a inhibitors,N/A,selective serotonin reuptake inhibitors,N/A,0
+mao-a inhibitors,N/A,ssris,N/A,0
+mao-a inhibitors,N/A,fluoxetine,DB00472,0
+mao-a inhibitors,N/A,fluvoxamine,DB00176,0
+mao-a inhibitors,N/A,paroxetine,DB00715,0
+mao-a inhibitors,N/A,sertraline,DB01104,0
+selective serotonin reuptake inhibitors,N/A,ssris,N/A,0
+selective serotonin reuptake inhibitors,N/A,fluoxetine,DB00472,0
+selective serotonin reuptake inhibitors,N/A,fluvoxamine,DB00176,0
+selective serotonin reuptake inhibitors,N/A,paroxetine,DB00715,0
+selective serotonin reuptake inhibitors,N/A,sertraline,DB01104,0
+selective serotonin reuptake inhibitors,N/A,sumatriptan,DB00669,1
+ssris,N/A,fluoxetine,DB00472,0
+ssris,N/A,fluvoxamine,DB00176,0
+ssris,N/A,paroxetine,DB00715,0
+ssris,N/A,sertraline,DB01104,0
+ssris,N/A,sumatriptan,DB00669,1
+fluoxetine,DB00472,paroxetine,DB00715,0
+fluoxetine,DB00472,sertraline,DB01104,0
+fluoxetine,DB00472,sumatriptan,DB00669,1
+fluvoxamine,DB00176,paroxetine,DB00715,0
+fluvoxamine,DB00176,sertraline,DB01104,0
+fluvoxamine,DB00176,sumatriptan,DB00669,1
+paroxetine,DB00715,sertraline,DB01104,0
+paroxetine,DB00715,sumatriptan,DB00669,1
+sertraline,DB01104,sumatriptan,DB00669,1
+sumatriptan,DB00669,ssri,N/A,1
+antacids,N/A,myfortic,N/A,0
+antacids,N/A,magnesium,DB14513,0
+antacids,N/A,aluminum,N/A,0
+antacids,N/A,antacids,N/A,0
+myfortic,N/A,magnesium,DB14513,1
+myfortic,N/A,aluminum,N/A,1
+myfortic,N/A,antacids,N/A,1
+myfortic,N/A,myfortic,N/A,0
+magnesium,DB14513,aluminum,N/A,0
+magnesium,DB14513,antacids,N/A,0
+magnesium,DB14513,myfortic,N/A,0
+aluminum,N/A,antacids,N/A,0
+aluminum,N/A,myfortic,N/A,0
+antacids,N/A,myfortic,N/A,0
+cyclosporine,DB00091,myfortic,N/A,0
+cyclosporine,DB00091,myfortic,N/A,0
+acyclovir,DB00787,ganciclovir,DB01004,0
+acyclovir,DB00787,myfortic,N/A,0
+ganciclovir,DB01004,myfortic,N/A,0
+acyclovir,DB00787,ganciclovir,DB01004,0
+acyclovir,DB00787,mpag,N/A,0
+ganciclovir,DB01004,mpag,N/A,0
+azathioprine,DB00993,mycophenolate mofetil,DB00688,0
+azathioprine,DB00993,azathioprine,DB00993,0
+azathioprine,DB00993,mycophenolate mofetil,DB00688,0
+azathioprine,DB00993,myfortic,N/A,0
+mycophenolate mofetil,DB00688,azathioprine,DB00993,0
+mycophenolate mofetil,DB00688,mycophenolate mofetil,DB00688,0
+mycophenolate mofetil,DB00688,myfortic,N/A,0
+azathioprine,DB00993,mycophenolate mofetil,DB00688,0
+azathioprine,DB00993,myfortic,N/A,0
+azathioprine,DB00993,azathioprine,DB00993,0
+mycophenolate mofetil,DB00688,myfortic,N/A,0
+mycophenolate mofetil,DB00688,azathioprine,DB00993,0
+mycophenolate mofetil,DB00688,mycophenolate mofetil,DB00688,0
+myfortic,N/A,azathioprine,DB00993,1
+myfortic,N/A,mycophenolate mofetil,DB00688,1
+cholestyramine,DB01432,mpa,N/A,0
+cholestyramine,DB01432,mycophenolate mofetil,DB00688,0
+mpa,N/A,mycophenolate mofetil,DB00688,0
+myfortic,N/A,cholestyramine,DB01432,1
+myfortic,N/A,activated charcoal,DB09278,1
+cholestyramine,DB01432,activated charcoal,DB09278,0
+cholestyramine,DB01432,myfortic,N/A,0
+activated charcoal,DB09278,myfortic,N/A,0
+contraceptives,N/A,myfortic,N/A,0
+myfortic,N/A,contraceptives,N/A,0
+levonorgesterol,N/A,mycophenolate mofetil,DB00688,1
+contraceptives,N/A,myfortic,N/A,1
+live vaccines,N/A,myfortic,N/A,0
+live vaccines,N/A,live attenuated vaccines,N/A,0
+myfortic,N/A,live attenuated vaccines,N/A,1
+mpag,N/A,mpa,N/A,0
+coumarin-type anticoagulants,N/A,coumarin-type anticoagulants,N/A,0
+coumarin-type anticoagulants,N/A,feldene,N/A,0
+feldene,N/A,feldene,N/A,0
+feldene,N/A,coumarin-type anticoagulants,N/A,1
+piroxicam,DB00554,feldene,N/A,0
+piroxicam,DB00554,aspirin,N/A,0
+piroxicam,DB00554,antacids,N/A,0
+piroxicam,DB00554,piroxicam,DB00554,0
+piroxicam,DB00554,nonsteroidal anti-inflammatory agents,N/A,0
+piroxicam,DB00554,lithium,N/A,0
+feldene,N/A,aspirin,N/A,1
+feldene,N/A,antacids,N/A,0
+feldene,N/A,piroxicam,DB00554,0
+feldene,N/A,nonsteroidal anti-inflammatory agents,N/A,0
+feldene,N/A,lithium,N/A,1
+aspirin,N/A,antacids,N/A,0
+aspirin,N/A,piroxicam,DB00554,0
+aspirin,N/A,nonsteroidal anti-inflammatory agents,N/A,0
+aspirin,N/A,feldene,N/A,0
+aspirin,N/A,lithium,N/A,0
+antacids,N/A,piroxicam,DB00554,0
+antacids,N/A,nonsteroidal anti-inflammatory agents,N/A,0
+antacids,N/A,feldene,N/A,0
+antacids,N/A,lithium,N/A,0
+nonsteroidal anti-inflammatory agents,N/A,feldene,N/A,0
+nonsteroidal anti-inflammatory agents,N/A,lithium,N/A,1
+lithium,N/A,feldene,N/A,1
+insulin,N/A,hypoglycemic,N/A,0
+insulin,N/A,somavert,N/A,1
+hypoglycemic,N/A,somavert,N/A,1
+opioids,N/A,pegvisomant,DB00082,1
+pegvisomant,DB00082,opioids,N/A,0
+digoxin,DB00390,sitagliptin,DB01261,0
+digoxin,DB00390,sitagliptin,DB01261,1
+digoxin,DB00390,januvia,N/A,0
+ascorbic acid,DB00126,bishydroxycoumarin,N/A,1
+vindesine,DB00309,phenytoin,DB00252,1
+vindesine,DB00309,live virus vaccines,N/A,1
+vindesine,DB00309,vaccine,N/A,0
+vindesine,DB00309,mitomycin-c,N/A,1
+vindesine,DB00309,killed virus vaccines,N/A,1
+phenytoin,DB00252,live virus vaccines,N/A,0
+phenytoin,DB00252,vaccine,N/A,0
+phenytoin,DB00252,mitomycin-c,N/A,0
+phenytoin,DB00252,killed virus vaccines,N/A,0
+live virus vaccines,N/A,vaccine,N/A,0
+live virus vaccines,N/A,mitomycin-c,N/A,0
+live virus vaccines,N/A,killed virus vaccines,N/A,0
+vaccine,N/A,mitomycin-c,N/A,0
+vaccine,N/A,killed virus vaccines,N/A,0
+vaccine,N/A,vaccine,N/A,0
+mitomycin-c,N/A,killed virus vaccines,N/A,0
+mitomycin-c,N/A,vaccine,N/A,0
+killed virus vaccines,N/A,vaccine,N/A,0
+diuretics,N/A,ace inhibitors,N/A,0
+univasc,N/A,univasc,N/A,0
+univasc,N/A,moexpril,N/A,0
+potassium,DB14500,univasc,N/A,0
+potassium-sparing diuretics,N/A,univasc,N/A,0
+potassium-sparing diuretics,N/A,ace inhibitors,N/A,1
+spironolactone,DB00421,ace inhibitors,N/A,1
+triamterene,DB00384,amiloride,DB00594,0
+triamterene,DB00384,ace inhibitors,N/A,1
+amiloride,DB00594,ace inhibitors,N/A,1
+potassium,DB14500,ace inhibitors,N/A,1
+anticoagulants,N/A,warfarin,DB00682,0
+anticoagulants,N/A,anticoagulant,N/A,0
+warfarin,DB00682,anticoagulant,N/A,0
+lithium,N/A,ace inhibitors,N/A,0
+lithium,N/A,ace inhibitors,N/A,0
+ace inhibitors,N/A,lithium,N/A,1
+univasc,N/A,hydrochlorothiazide,DB00999,0
+univasc,N/A,digoxin,DB00390,0
+univasc,N/A,cimetidine,DB00501,0
+hydrochlorothiazide,DB00999,digoxin,DB00390,0
+hydrochlorothiazide,DB00999,cimetidine,DB00501,0
+digoxin,DB00390,cimetidine,DB00501,0
+univasc,N/A,calcium-channel-blocking agents,N/A,0
+univasc,N/A,diuretics,N/A,0
+univasc,N/A,h2 blockers,N/A,0
+univasc,N/A,hypoglycemic agents,N/A,0
+calcium-channel-blocking agents,N/A,diuretics,N/A,0
+calcium-channel-blocking agents,N/A,h2 blockers,N/A,0
+calcium-channel-blocking agents,N/A,digoxin,DB00390,0
+calcium-channel-blocking agents,N/A,hypoglycemic agents,N/A,0
+diuretics,N/A,h2 blockers,N/A,0
+diuretics,N/A,digoxin,DB00390,0
+diuretics,N/A,hypoglycemic agents,N/A,0
+h2 blockers,N/A,digoxin,DB00390,0
+h2 blockers,N/A,hypoglycemic agents,N/A,0
+digoxin,DB00390,hypoglycemic agents,N/A,0
+melatonin,DB01065,aspirin,N/A,1
+melatonin,DB01065,nsaids,N/A,1
+melatonin,DB01065,melatonin,DB01065,0
+melatonin,DB01065,fluvoxamine,DB00176,1
+melatonin,DB01065,beta blockers,N/A,1
+melatonin,DB01065,fluoxetine,DB00472,1
+melatonin,DB01065,progestin,N/A,0
+melatonin,DB01065,benzodiazepenes,N/A,1
+melatonin,DB01065,corticosteroids,N/A,0
+aspirin,N/A,nsaids,N/A,0
+aspirin,N/A,melatonin,DB01065,0
+aspirin,N/A,fluvoxamine,DB00176,0
+aspirin,N/A,beta blockers,N/A,0
+aspirin,N/A,fluoxetine,DB00472,0
+aspirin,N/A,progestin,N/A,0
+aspirin,N/A,benzodiazepenes,N/A,0
+aspirin,N/A,corticosteroids,N/A,0
+nsaids,N/A,melatonin,DB01065,0
+nsaids,N/A,fluvoxamine,DB00176,0
+nsaids,N/A,beta blockers,N/A,0
+nsaids,N/A,fluoxetine,DB00472,0
+nsaids,N/A,progestin,N/A,0
+nsaids,N/A,benzodiazepenes,N/A,0
+nsaids,N/A,corticosteroids,N/A,0
+melatonin,DB01065,fluvoxamine,DB00176,0
+melatonin,DB01065,melatonin,DB01065,0
+melatonin,DB01065,beta blockers,N/A,0
+melatonin,DB01065,fluoxetine,DB00472,0
+melatonin,DB01065,progestin,N/A,1
+melatonin,DB01065,benzodiazepenes,N/A,0
+melatonin,DB01065,corticosteroids,N/A,0
+fluvoxamine,DB00176,melatonin,DB01065,0
+fluvoxamine,DB00176,beta blockers,N/A,0
+fluvoxamine,DB00176,fluoxetine,DB00472,0
+fluvoxamine,DB00176,progestin,N/A,0
+fluvoxamine,DB00176,benzodiazepenes,N/A,0
+fluvoxamine,DB00176,corticosteroids,N/A,0
+beta blockers,N/A,melatonin,DB01065,0
+beta blockers,N/A,fluoxetine,DB00472,0
+beta blockers,N/A,progestin,N/A,0
+beta blockers,N/A,benzodiazepenes,N/A,0
+beta blockers,N/A,corticosteroids,N/A,0
+fluoxetine,DB00472,progestin,N/A,0
+fluoxetine,DB00472,melatonin,DB01065,0
+fluoxetine,DB00472,benzodiazepenes,N/A,0
+fluoxetine,DB00472,corticosteroids,N/A,0
+progestin,N/A,melatonin,DB01065,0
+progestin,N/A,progestin,N/A,0
+progestin,N/A,benzodiazepenes,N/A,0
+progestin,N/A,corticosteroids,N/A,0
+benzodiazepenes,N/A,corticosteroids,N/A,0
+benzodiazepenes,N/A,melatonin,DB01065,0
+corticosteroids,N/A,melatonin,DB01065,0
+corticosteroids,N/A,corticosteroids,N/A,0
+remeron soltab,N/A,mirtazapine,DB00370,0
+mirtazapine,DB00370,mirtazapine,DB00370,0
+mirtazapine,DB00370,remeron soltab,N/A,0
+alcohol,N/A,mirtazapine,DB00370,0
+alcohol,N/A,mirtazapine,DB00370,0
+remeron,N/A,alcohol,N/A,1
+alcohol,N/A,remeron soltab,N/A,1
+alcohol,N/A,diazepam,DB00829,0
+alcohol,N/A,diazepam,DB00829,0
+remeron soltab,N/A,diazepam,DB00829,0
+remeron soltab,N/A,diazepam,DB00829,0
+diazepam,DB00829,diazepam,DB00829,0
+diazepam,DB00829,mirtazapine,DB00370,0
+diazepam,DB00829,mirtazapine,DB00370,1
+remeron,N/A,diazepam,DB00829,1
+diazepam,DB00829,remeron soltab,N/A,1
+central nervous system depressants,N/A,meperidine,DB00454,0
+central nervous system depressants,N/A,narcotic analgesics,N/A,0
+central nervous system depressants,N/A,anesthetics,N/A,0
+central nervous system depressants,N/A,phenothiazines,N/A,0
+central nervous system depressants,N/A,tranquilizers,N/A,0
+central nervous system depressants,N/A,sedative-hypnotics,N/A,0
+central nervous system depressants,N/A,barbiturates,N/A,0
+central nervous system depressants,N/A,tricyclic antidepressants,N/A,0
+central nervous system depressants,N/A,cns depressants,N/A,0
+central nervous system depressants,N/A,alcohol,N/A,0
+meperidine,DB00454,narcotic analgesics,N/A,1
+meperidine,DB00454,anesthetics,N/A,1
+meperidine,DB00454,phenothiazines,N/A,1
+meperidine,DB00454,tranquilizers,N/A,1
+meperidine,DB00454,sedative-hypnotics,N/A,1
+meperidine,DB00454,barbiturates,N/A,1
+meperidine,DB00454,tricyclic antidepressants,N/A,1
+meperidine,DB00454,cns depressants,N/A,1
+meperidine,DB00454,alcohol,N/A,1
+narcotic analgesics,N/A,anesthetics,N/A,0
+narcotic analgesics,N/A,phenothiazines,N/A,0
+narcotic analgesics,N/A,tranquilizers,N/A,0
+narcotic analgesics,N/A,sedative-hypnotics,N/A,0
+narcotic analgesics,N/A,barbiturates,N/A,0
+narcotic analgesics,N/A,tricyclic antidepressants,N/A,0
+narcotic analgesics,N/A,cns depressants,N/A,0
+narcotic analgesics,N/A,alcohol,N/A,0
+anesthetics,N/A,phenothiazines,N/A,0
+anesthetics,N/A,tranquilizers,N/A,0
+anesthetics,N/A,sedative-hypnotics,N/A,0
+anesthetics,N/A,barbiturates,N/A,0
+anesthetics,N/A,tricyclic antidepressants,N/A,0
+anesthetics,N/A,cns depressants,N/A,0
+anesthetics,N/A,alcohol,N/A,0
+phenothiazines,N/A,tranquilizers,N/A,0
+phenothiazines,N/A,sedative-hypnotics,N/A,0
+phenothiazines,N/A,barbiturates,N/A,0
+phenothiazines,N/A,tricyclic antidepressants,N/A,0
+phenothiazines,N/A,cns depressants,N/A,0
+phenothiazines,N/A,alcohol,N/A,0
+tranquilizers,N/A,sedative-hypnotics,N/A,0
+tranquilizers,N/A,barbiturates,N/A,0
+tranquilizers,N/A,tricyclic antidepressants,N/A,0
+tranquilizers,N/A,cns depressants,N/A,0
+tranquilizers,N/A,alcohol,N/A,0
+sedative-hypnotics,N/A,barbiturates,N/A,0
+sedative-hypnotics,N/A,tricyclic antidepressants,N/A,0
+sedative-hypnotics,N/A,cns depressants,N/A,0
+sedative-hypnotics,N/A,alcohol,N/A,0
+barbiturates,N/A,tricyclic antidepressants,N/A,0
+barbiturates,N/A,cns depressants,N/A,0
+barbiturates,N/A,alcohol,N/A,0
+tricyclic antidepressants,N/A,cns depressants,N/A,0
+tricyclic antidepressants,N/A,alcohol,N/A,0
+cns depressants,N/A,alcohol,N/A,0
+bacteriostatic antibiotics,N/A,erythromycin,DB00199,0
+bacteriostatic antibiotics,N/A,tetracycline,DB00759,0
+bacteriostatic antibiotics,N/A,penicillins,N/A,1
+erythromycin,DB00199,tetracycline,DB00759,0
+erythromycin,DB00199,penicillins,N/A,1
+tetracycline,DB00759,penicillins,N/A,1
+penicillin,,probenecid,DB01032,1
+penicillin,,penicillins,N/A,0
+probenecid,DB01032,penicillins,N/A,0
+penicillin,,penicillin,,0
+contraceptives,N/A,vitamin a,DB00162,1
+chemet,N/A,iron,DB01592,0
+chemet,N/A,cana 2 edta,N/A,1
+methyldopa,DB00968,antihypertensive drugs,N/A,1
+anesthetics,N/A,methyldopa,DB00968,1
+methyldopa,DB00968,lithium,N/A,0
+methyldopa,DB00968,ferrous sulfate,N/A,1
+methyldopa,DB00968,ferrous gluconate,DB14488,1
+ferrous sulfate,N/A,ferrous gluconate,DB14488,0
+methyldopa,DB00968,vma,N/A,0
+methyldopa,DB00968,vanillylmandelic acid,N/A,0
+methyldopa,DB00968,vanillin,N/A,0
+vma,N/A,vanillylmandelic acid,N/A,0
+vma,N/A,vma,N/A,0
+vma,N/A,vanillin,N/A,0
+vanillylmandelic acid,N/A,vma,N/A,0
+vanillylmandelic acid,N/A,vanillin,N/A,0
+norepinephrine,DB00368,dobutamine,DB00841,0
+norepinephrine,DB00368,sodium bicarbonate,DB01390,1
+dobutamine,DB00841,sodium bicarbonate,DB01390,1
+sodium bicarbonate,DB01390,calcium,DB01373,0
+skelid,N/A,calcium,DB01373,0
+skelid,N/A,skelid,N/A,0
+skelid,N/A,aluminum,N/A,0
+skelid,N/A,magnesium,DB14513,0
+skelid,N/A,antacids,N/A,0
+calcium,DB01373,calcium,DB01373,0
+calcium,DB01373,skelid,N/A,0
+calcium,DB01373,aluminum,N/A,0
+calcium,DB01373,magnesium,DB14513,0
+calcium,DB01373,antacids,N/A,0
+aluminum,N/A,magnesium,DB14513,0
+aluminum,N/A,skelid,N/A,1
+magnesium,DB14513,skelid,N/A,1
+antacids,N/A,skelid,N/A,0
+aspirin,N/A,skelid,N/A,0
+skelid,N/A,indomethacin,DB00328,1
+skelid,N/A,diclofenac,DB00586,0
+indomethacin,DB00328,diclofenac,DB00586,0
+digoxin,DB00390,skelid,N/A,0
+tiludronate,N/A,warfarin,DB00682,0
+tetracycline,DB00759,antibiotic,N/A,0
+tetracycline,DB00759,penicillin,,1
+antibiotic,N/A,penicillin,,0
+scopolamine,DB00747,sedatives,N/A,1
+scopolamine,DB00747,tranquilizers,N/A,1
+scopolamine,DB00747,alcohol,N/A,1
+sedatives,N/A,alcohol,N/A,0
+tranquilizers,N/A,alcohol,N/A,0
+belladonna alkaloids,N/A,antihistamines,N/A,0
+belladonna alkaloids,N/A,meclizine,DB00737,0
+belladonna alkaloids,N/A,tricyclic antidepressants,N/A,0
+belladonna alkaloids,N/A,muscle relaxants,N/A,0
+antihistamines,N/A,meclizine,DB00737,0
+antihistamines,N/A,muscle relaxants,N/A,0
+meclizine,DB00737,tricyclic antidepressants,N/A,0
+meclizine,DB00737,muscle relaxants,N/A,0
+tricyclic antidepressants,N/A,muscle relaxants,N/A,0
+diprivan,N/A,narcotics,N/A,1
+diprivan,N/A,morphine,DB00295,1
+diprivan,N/A,meperidine,DB00454,1
+diprivan,N/A,fentanyl,DB00813,1
+narcotics,N/A,morphine,DB00295,0
+narcotics,N/A,meperidine,DB00454,0
+narcotics,N/A,fentanyl,DB00813,0
+morphine,DB00295,meperidine,DB00454,0
+morphine,DB00295,fentanyl,DB00813,0
+meperidine,DB00454,fentanyl,DB00813,0
+opioids,N/A,sedatives,N/A,0
+opioids,N/A,benzodiazepines,N/A,0
+opioids,N/A,barbiturates,N/A,0
+opioids,N/A,chloral hydrate,DB01563,0
+opioids,N/A,droperidol,DB00450,0
+sedatives,N/A,benzodiazepines,N/A,0
+sedatives,N/A,barbiturates,N/A,0
+sedatives,N/A,chloral hydrate,DB01563,0
+sedatives,N/A,droperidol,DB00450,0
+benzodiazepines,N/A,chloral hydrate,DB01563,0
+benzodiazepines,N/A,droperidol,DB00450,0
+barbiturates,N/A,chloral hydrate,DB01563,0
+barbiturates,N/A,droperidol,DB00450,0
+chloral hydrate,DB01563,droperidol,DB00450,0
+diprivan,N/A,analgesic agents,N/A,1
+diprivan,N/A,nitrous oxide,DB06690,1
+diprivan,N/A,opioids,N/A,1
+analgesic agents,N/A,nitrous oxide,DB06690,0
+analgesic agents,N/A,opioids,N/A,0
+nitrous oxide,DB06690,opioids,N/A,0
+isoflurane,DB00753,enflurane,DB00228,0
+isoflurane,DB00753,halothane,DB01159,0
+isoflurane,DB00753,diprivan,N/A,0
+enflurane,DB00228,halothane,DB01159,0
+enflurane,DB00228,diprivan,N/A,0
+halothane,DB01159,diprivan,N/A,0
+diprivan,N/A,neuromuscular blocking agents,N/A,0
+diprivan,N/A,succinylcholine,DB00202,0
+diprivan,N/A,nondepolarizing muscle relaxants,N/A,0
+neuromuscular blocking agents,N/A,succinylcholine,DB00202,0
+neuromuscular blocking agents,N/A,nondepolarizing muscle relaxants,N/A,0
+succinylcholine,DB00202,nondepolarizing muscle relaxants,N/A,0
+muscle relaxants,N/A,analgesic agents,N/A,0
+muscle relaxants,N/A,anesthetic agents,N/A,0
+analgesic agents,N/A,anesthetic agents,N/A,0
+warfarin,DB00682,tolmetin,DB00500,0
+tolmetin,DB00500,tolmetin,DB00500,0
+tolectin,N/A,warfarin,DB00682,1
+tolectin,N/A,anticoagulants,N/A,1
+sulfonylureas,N/A,insulin,N/A,0
+sulfonylureas,N/A,tolectin,N/A,0
+sulfonylureas,N/A,hypoglycemic agents,N/A,0
+insulin,N/A,tolectin,N/A,0
+insulin,N/A,hypoglycemic agents,N/A,0
+tolectin,N/A,hypoglycemic agents,N/A,0
+tolectin,N/A,methotrexate,DB00563,0
+tolectin,N/A,nonsteroidal anti-inflammatory drugs,N/A,0
+nonsteroidal anti-inflammatory drugs,N/A,methotrexate,DB00563,0
+thiazide diuretics,N/A,phenothiazines,N/A,1
+guanethidine,DB01170,phenothiazines,N/A,1
+propranolol,DB00571,phenothiazines,N/A,1
+tobi,N/A,tobi,N/A,0
+tobi,N/A,dornase alfa,DB00003,1
+tobi,N/A,pulmozyme,N/A,1
+tobi,N/A,(beta)-agonists,N/A,1
+tobi,N/A,corticosteroids,N/A,1
+tobi,N/A,anti-pseudomonal antibiotics,N/A,1
+tobi,N/A,aminoglycosides,N/A,1
+dornase alfa,DB00003,pulmozyme,N/A,0
+dornase alfa,DB00003,(beta)-agonists,N/A,0
+dornase alfa,DB00003,corticosteroids,N/A,0
+dornase alfa,DB00003,anti-pseudomonal antibiotics,N/A,0
+dornase alfa,DB00003,aminoglycosides,N/A,0
+pulmozyme,N/A,(beta)-agonists,N/A,0
+pulmozyme,N/A,corticosteroids,N/A,0
+pulmozyme,N/A,anti-pseudomonal antibiotics,N/A,0
+pulmozyme,N/A,aminoglycosides,N/A,0
+(beta)-agonists,N/A,corticosteroids,N/A,0
+(beta)-agonists,N/A,anti-pseudomonal antibiotics,N/A,0
+(beta)-agonists,N/A,aminoglycosides,N/A,0
+corticosteroids,N/A,anti-pseudomonal antibiotics,N/A,0
+corticosteroids,N/A,aminoglycosides,N/A,0
+anti-pseudomonal antibiotics,N/A,aminoglycosides,N/A,0
+diuretics,N/A,aminoglycoside,N/A,1
+diuretics,N/A,antibiotic,N/A,0
+aminoglycoside,N/A,antibiotic,N/A,0
+tobi,N/A,ethacrynic acid,N/A,1
+tobi,N/A,furosemide,DB00695,1
+tobi,N/A,urea,DB03904,1
+tobi,N/A,mannitol,DB00742,1
+ethacrynic acid,N/A,furosemide,DB00695,0
+ethacrynic acid,N/A,urea,DB03904,0
+ethacrynic acid,N/A,mannitol,DB00742,0
+furosemide,DB00695,urea,DB03904,0
+furosemide,DB00695,mannitol,DB00742,0
+urea,DB03904,mannitol,DB00742,0
+gemfibrozil,DB01241,rosiglitazone,DB00412,0
+gemfibrozil,DB01241,rifampin,N/A,0
+rosiglitazone,DB00412,rifampin,N/A,0
+rosiglitazone,DB00412,rosiglitazone,DB00412,0
+rifampin,N/A,rosiglitazone,DB00412,1
+cholestyramine,DB01432,cholestyramine,DB01432,0
+cholestyramine,DB01432,raloxifene,DB00481,1
+cholestyramine,DB01432,evista,N/A,1
+raloxifene,DB00481,evista,N/A,0
+warfarin,DB00682,evista,N/A,0
+evista,N/A,warfarin,DB00682,1
+raloxifene,DB00481,warfarin,DB00682,0
+raloxifene,DB00481,phenytoin,DB00252,0
+raloxifene,DB00481,tamoxifen,DB00675,0
+warfarin,DB00682,tamoxifen,DB00675,0
+phenytoin,DB00252,tamoxifen,DB00675,0
+evista,N/A,clofibrate,DB00636,1
+evista,N/A,indomethacin,DB00328,1
+evista,N/A,naproxen,DB00788,1
+evista,N/A,ibuprofen,DB01050,1
+evista,N/A,diazepam,DB00829,1
+evista,N/A,diazoxide,DB01119,1
+clofibrate,DB00636,indomethacin,DB00328,0
+clofibrate,DB00636,naproxen,DB00788,0
+clofibrate,DB00636,ibuprofen,DB01050,0
+clofibrate,DB00636,diazepam,DB00829,0
+clofibrate,DB00636,diazoxide,DB01119,0
+indomethacin,DB00328,naproxen,DB00788,0
+indomethacin,DB00328,ibuprofen,DB01050,0
+indomethacin,DB00328,diazepam,DB00829,0
+indomethacin,DB00328,diazoxide,DB01119,0
+naproxen,DB00788,ibuprofen,DB01050,0
+naproxen,DB00788,diazepam,DB00829,0
+naproxen,DB00788,diazoxide,DB01119,0
+ibuprofen,DB01050,diazepam,DB00829,0
+ibuprofen,DB01050,diazoxide,DB01119,0
+diazepam,DB00829,diazoxide,DB01119,0
+probenecid,DB01032,meropenem,DB00760,0
+meropenem,DB00760,meropenem,DB00760,0
+probenecid,DB01032,meropenem,DB00760,1
+meropenem,DB00760,valproic acid,DB00313,1
+meropenem,DB00760,valproate,N/A,0
+valproic acid,DB00313,valproate,N/A,0
+beta adrenergic aerosol bronchodilators,N/A,alupent,N/A,1
+beta adrenergic aerosol bronchodilators,N/A,metaproterenol sulfate,N/A,1
+alupent,N/A,metaproterenol sulfate,N/A,0
+beta adrenergic agonists,N/A,monoamine oxidase inhibitors,N/A,1
+beta adrenergic agonists,N/A,tricyclic antidepressants,N/A,1
+beta adrenergic agonists,N/A,beta adrenergic agonists,N/A,0
+monoamine oxidase inhibitors,N/A,tricyclic antidepressants,N/A,0
+monoamine oxidase inhibitors,N/A,beta adrenergic agonists,N/A,0
+tricyclic antidepressants,N/A,beta adrenergic agonists,N/A,0
+zemuron,N/A,rocuronium bromide,N/A,0
+zemuron,N/A,succinylcholine,DB00202,0
+rocuronium bromide,N/A,succinylcholine,DB00202,0
+zemuron,N/A,nondepolarizing muscle relaxants,N/A,0
+ondansetron,DB00904,ondansetron,DB00904,0
+phenytoin,DB00252,carbamazepine,DB00564,0
+phenytoin,DB00252,rifampicin,DB01045,0
+phenytoin,DB00252,carbamazepine,DB00564,0
+phenytoin,DB00252,rifampicin,DB01045,0
+phenytoin,DB00252,ondansetron,DB00904,0
+carbamazepine,DB00564,rifampicin,DB01045,0
+carbamazepine,DB00564,phenytoin,DB00252,0
+carbamazepine,DB00564,carbamazepine,DB00564,0
+carbamazepine,DB00564,rifampicin,DB01045,0
+carbamazepine,DB00564,ondansetron,DB00904,0
+rifampicin,DB01045,phenytoin,DB00252,0
+rifampicin,DB01045,carbamazepine,DB00564,0
+rifampicin,DB01045,rifampicin,DB01045,0
+rifampicin,DB01045,ondansetron,DB00904,0
+phenytoin,DB00252,rifampicin,DB01045,0
+phenytoin,DB00252,ondansetron,DB00904,1
+carbamazepine,DB00564,rifampicin,DB01045,0
+carbamazepine,DB00564,ondansetron,DB00904,1
+rifampicin,DB01045,ondansetron,DB00904,1
+ondansetron,DB00904,tramadol,DB00193,0
+ondansetron,DB00904,tramadol,DB00193,1
+tramadol,DB00193,ondansetron,DB00904,0
+tramadol,DB00193,tramadol,DB00193,0
+tramadol,DB00193,ondansetron,DB00904,0
+tramadol,DB00193,tramadol,DB00193,0
+carmustine,DB00262,etoposide,DB00773,0
+carmustine,DB00262,cisplatin,DB00515,0
+carmustine,DB00262,ondansetron,DB00904,0
+etoposide,DB00773,cisplatin,DB00515,0
+etoposide,DB00773,ondansetron,DB00904,0
+cisplatin,DB00515,ondansetron,DB00904,0
+ondansetron,DB00904,methotrexate,DB00563,0
+paclitaxel,DB01229,herceptin,N/A,0
+herceptin,N/A,herceptin,N/A,0
+terfenadine,DB00342,astemizole,DB00637,0
+terfenadine,DB00342,macrolides,N/A,0
+terfenadine,DB00342,terfenadine,DB00342,0
+astemizole,DB00637,macrolides,N/A,0
+astemizole,DB00637,terfenadine,DB00342,0
+astemizole,DB00637,astemizole,DB00637,0
+macrolides,N/A,terfenadine,DB00342,1
+macrolides,N/A,astemizole,DB00637,1
+roxithromycin,DB00778,roxithromycin,DB00778,0
+roxithromycin,DB00778,terfenadine,DB00342,1
+roxithromycin,DB00778,astemizole,DB00637,1
+cisapride,DB00604,pimozide,DB01100,0
+cisapride,DB00604,cisapride,DB00604,0
+cisapride,DB00604,macrolide antibacterials,N/A,0
+pimozide,DB01100,cisapride,DB00604,0
+pimozide,DB01100,pimozide,DB01100,0
+pimozide,DB01100,macrolide antibacterials,N/A,0
+cisapride,DB00604,pimozide,DB01100,0
+cisapride,DB00604,macrolide antibacterials,N/A,1
+anticonvulsants,N/A,mephenytoin,DB00532,1
+anticonvulsants,N/A,divalproex sodium,N/A,0
+anticonvulsants,N/A,valproic acid,DB00313,0
+divalproex sodium,N/A,valproic acid,DB00313,0
+divalproex sodium,N/A,phenobarbital,DB01174,0
+valproic acid,DB00313,phenobarbital,DB01174,0
+mephenytoin,DB00532,steroid medications,N/A,1
+mephenytoin,DB00532,warfarin,DB00682,1
+mephenytoin,DB00532,anti-infective medicines,N/A,1
+mephenytoin,DB00532,furosemide,DB00695,1
+mephenytoin,DB00532,theophylline,DB00277,1
+mephenytoin,DB00532,mephenytoin,DB00532,0
+steroid medications,N/A,warfarin,DB00682,0
+steroid medications,N/A,anti-infective medicines,N/A,0
+steroid medications,N/A,furosemide,DB00695,0
+steroid medications,N/A,theophylline,DB00277,0
+steroid medications,N/A,mephenytoin,DB00532,0
+warfarin,DB00682,anti-infective medicines,N/A,0
+warfarin,DB00682,furosemide,DB00695,0
+warfarin,DB00682,theophylline,DB00277,0
+warfarin,DB00682,mephenytoin,DB00532,0
+anti-infective medicines,N/A,furosemide,DB00695,0
+anti-infective medicines,N/A,theophylline,DB00277,0
+anti-infective medicines,N/A,mephenytoin,DB00532,0
+furosemide,DB00695,theophylline,DB00277,0
+furosemide,DB00695,mephenytoin,DB00532,0
+theophylline,DB00277,mephenytoin,DB00532,0
+streptase,N/A,streptokinase,DB00086,0
+anticoagulants,N/A,antiplatelet agents,N/A,0
+anticoagulants,N/A,streptase,N/A,0
+anticoagulants,N/A,streptokinase,DB00086,0
+anticoagulants,N/A,antiplatelet agents,N/A,0
+antiplatelet agents,N/A,streptase,N/A,0
+antiplatelet agents,N/A,streptokinase,DB00086,0
+antiplatelet agents,N/A,antiplatelet agents,N/A,0
+antiplatelet agents,N/A,anticoagulants,N/A,0
+streptase,N/A,antiplatelet agents,N/A,1
+streptase,N/A,anticoagulants,N/A,1
+streptokinase,DB00086,antiplatelet agents,N/A,1
+streptokinase,DB00086,anticoagulants,N/A,1
+antiplatelet agents,N/A,anticoagulants,N/A,0
+aspirin,N/A,streptokinase,DB00086,1
+antiplatelets,N/A,aspirin,N/A,0
+mao inhibitors,N/A,beta adrenergic blockers,N/A,0
+mao inhibitors,N/A,pseudoephedrine,DB00852,1
+beta adrenergic blockers,N/A,pseudoephedrine,DB00852,1
+sympathomimetics,N/A,methyldopa,DB00968,1
+sympathomimetics,N/A,mecamylamine,DB00657,1
+sympathomimetics,N/A,reserpine,DB00206,1
+sympathomimetics,N/A,veratrum alkaloids,N/A,1
+methyldopa,DB00968,mecamylamine,DB00657,0
+methyldopa,DB00968,reserpine,DB00206,0
+methyldopa,DB00968,veratrum alkaloids,N/A,0
+mecamylamine,DB00657,reserpine,DB00206,0
+mecamylamine,DB00657,veratrum alkaloids,N/A,0
+reserpine,DB00206,veratrum alkaloids,N/A,0
+tetracyclines,N/A,anticoagulant,N/A,0
+anticoagulant,N/A,anticoagulant,N/A,0
+penicillin,,tetracycline class drugs,N/A,0
+tetracycline class drugs,N/A,penicillin,,1
+tetracyclines,N/A,antacids,N/A,0
+tetracyclines,N/A,aluminum,N/A,1
+tetracyclines,N/A,calcium,DB01373,1
+tetracyclines,N/A,iron,DB01592,1
+antacids,N/A,aluminum,N/A,0
+antacids,N/A,calcium,DB01373,0
+antacids,N/A,magnesium,DB14513,0
+antacids,N/A,iron,DB01592,0
+aluminum,N/A,calcium,DB01373,0
+aluminum,N/A,iron,DB01592,0
+calcium,DB01373,iron,DB01592,1
+magnesium,DB14513,iron,DB01592,0
+tetracycline,DB00759,methoxyflurane,DB01028,1
+tetracyclines,N/A,contraceptives,N/A,0
+sanctura,N/A,anticholinergic agents,N/A,1
+sanctura,N/A,sanctura,N/A,0
+sanctura,N/A,digoxin,DB00390,1
+sanctura,N/A,procainamide,DB01035,1
+sanctura,N/A,pancuronium,DB01337,1
+sanctura,N/A,morphine,DB00295,1
+sanctura,N/A,vancomycin,DB00512,1
+sanctura,N/A,metformin,DB00331,1
+sanctura,N/A,tenofovir,DB14126,1
+digoxin,DB00390,procainamide,DB01035,0
+digoxin,DB00390,pancuronium,DB01337,0
+digoxin,DB00390,morphine,DB00295,0
+digoxin,DB00390,vancomycin,DB00512,0
+digoxin,DB00390,metformin,DB00331,0
+digoxin,DB00390,tenofovir,DB14126,0
+procainamide,DB01035,pancuronium,DB01337,0
+procainamide,DB01035,morphine,DB00295,0
+procainamide,DB01035,vancomycin,DB00512,0
+procainamide,DB01035,metformin,DB00331,0
+procainamide,DB01035,tenofovir,DB14126,0
+pancuronium,DB01337,morphine,DB00295,0
+pancuronium,DB01337,vancomycin,DB00512,0
+pancuronium,DB01337,metformin,DB00331,0
+pancuronium,DB01337,tenofovir,DB14126,0
+morphine,DB00295,vancomycin,DB00512,0
+morphine,DB00295,metformin,DB00331,0
+morphine,DB00295,tenofovir,DB14126,0
+vancomycin,DB00512,metformin,DB00331,0
+vancomycin,DB00512,tenofovir,DB14126,0
+metformin,DB00331,tenofovir,DB14126,0
+alkeran,N/A,live organism vaccines,N/A,0
+alkeran,N/A,nalidixic acid,DB00779,0
+alkeran,N/A,melphalan,DB01042,0
+live organism vaccines,N/A,nalidixic acid,DB00779,0
+live organism vaccines,N/A,melphalan,DB01042,0
+nalidixic acid,DB00779,melphalan,DB01042,1
+melphalan,DB01042,cyclosporin,N/A,1
+midazolam,DB00683,azole antimycotics,N/A,1
+midazolam,DB00683,protease inhibitors,N/A,1
+midazolam,DB00683,calcium channel antagonists,N/A,1
+midazolam,DB00683,macrolide antibiotics,N/A,1
+azole antimycotics,N/A,protease inhibitors,N/A,0
+azole antimycotics,N/A,calcium channel antagonists,N/A,0
+azole antimycotics,N/A,macrolide antibiotics,N/A,0
+protease inhibitors,N/A,calcium channel antagonists,N/A,0
+protease inhibitors,N/A,macrolide antibiotics,N/A,0
+calcium channel antagonists,N/A,macrolide antibiotics,N/A,0
+erythromycin,DB00199,diltiazem,DB00343,0
+erythromycin,DB00199,verapamil,DB00661,0
+erythromycin,DB00199,midazolam,DB00683,1
+diltiazem,DB00343,ketoconazole,DB01026,0
+diltiazem,DB00343,fluconazole,DB00196,0
+diltiazem,DB00343,itraconazole,DB01167,0
+diltiazem,DB00343,midazolam,DB00683,1
+verapamil,DB00661,ketoconazole,DB01026,0
+verapamil,DB00661,fluconazole,DB00196,0
+verapamil,DB00661,itraconazole,DB01167,0
+verapamil,DB00661,midazolam,DB00683,1
+ketoconazole,DB01026,midazolam,DB00683,1
+fluconazole,DB00196,midazolam,DB00683,0
+itraconazole,DB01167,midazolam,DB00683,1
+ritonavir,DB00503,midazolam,DB00683,1
+nelfinavir,DB00220,midazolam,DB00683,1
+rifampin,N/A,midazolam,DB00683,1
+sedatives,N/A,methylphenidate,DB00422,0
+versed syrup,N/A,narcotics,N/A,1
+versed syrup,N/A,morphine,DB00295,1
+versed syrup,N/A,meperidine,DB00454,1
+versed syrup,N/A,fentanyl,DB00813,1
+versed syrup,N/A,propofol,DB00818,1
+versed syrup,N/A,ketamine,DB01221,1
+versed syrup,N/A,nitrous oxide,DB06690,1
+versed syrup,N/A,secobarbital,DB00418,1
+versed syrup,N/A,droperidol,DB00450,1
+narcotics,N/A,propofol,DB00818,0
+narcotics,N/A,ketamine,DB01221,0
+narcotics,N/A,nitrous oxide,DB06690,0
+narcotics,N/A,secobarbital,DB00418,0
+narcotics,N/A,droperidol,DB00450,0
+morphine,DB00295,propofol,DB00818,0
+morphine,DB00295,ketamine,DB01221,0
+morphine,DB00295,nitrous oxide,DB06690,0
+morphine,DB00295,secobarbital,DB00418,0
+morphine,DB00295,droperidol,DB00450,0
+meperidine,DB00454,propofol,DB00818,0
+meperidine,DB00454,ketamine,DB01221,0
+meperidine,DB00454,nitrous oxide,DB06690,0
+meperidine,DB00454,secobarbital,DB00418,0
+meperidine,DB00454,droperidol,DB00450,0
+fentanyl,DB00813,propofol,DB00818,0
+fentanyl,DB00813,ketamine,DB01221,0
+fentanyl,DB00813,nitrous oxide,DB06690,0
+fentanyl,DB00813,secobarbital,DB00418,0
+fentanyl,DB00813,droperidol,DB00450,0
+propofol,DB00818,ketamine,DB01221,0
+propofol,DB00818,nitrous oxide,DB06690,0
+propofol,DB00818,secobarbital,DB00418,0
+propofol,DB00818,droperidol,DB00450,0
+ketamine,DB01221,nitrous oxide,DB06690,0
+ketamine,DB01221,secobarbital,DB00418,0
+ketamine,DB01221,droperidol,DB00450,0
+nitrous oxide,DB06690,secobarbital,DB00418,0
+nitrous oxide,DB06690,droperidol,DB00450,0
+secobarbital,DB00418,droperidol,DB00450,0
+atropine,DB00572,scopolamine,DB00747,0
+atropine,DB00572,glycopyrrolate,N/A,0
+atropine,DB00572,diazepam,DB00829,0
+atropine,DB00572,hydroxyzine,DB00557,0
+atropine,DB00572,muscle relaxants,N/A,0
+atropine,DB00572,anesthetics,N/A,0
+scopolamine,DB00747,glycopyrrolate,N/A,0
+scopolamine,DB00747,diazepam,DB00829,0
+scopolamine,DB00747,hydroxyzine,DB00557,0
+scopolamine,DB00747,muscle relaxants,N/A,0
+scopolamine,DB00747,anesthetics,N/A,0
+glycopyrrolate,N/A,diazepam,DB00829,0
+glycopyrrolate,N/A,hydroxyzine,DB00557,0
+glycopyrrolate,N/A,muscle relaxants,N/A,0
+glycopyrrolate,N/A,anesthetics,N/A,0
+diazepam,DB00829,hydroxyzine,DB00557,0
+diazepam,DB00829,muscle relaxants,N/A,0
+diazepam,DB00829,anesthetics,N/A,0
+hydroxyzine,DB00557,muscle relaxants,N/A,0
+hydroxyzine,DB00557,anesthetics,N/A,0
+muscle relaxants,N/A,anesthetics,N/A,0
+leukine,N/A,lithium,N/A,1
+leukine,N/A,corticosteroids,N/A,1
+lithium,N/A,corticosteroids,N/A,0
+hypoglycemics,N/A,coumarin-type anticoagulants,N/A,0
+hypoglycemics,N/A,phenytoin,DB00252,0
+hypoglycemics,N/A,cyclosporine,DB00091,0
+hypoglycemics,N/A,rifampin,N/A,0
+hypoglycemics,N/A,theophylline,DB00277,0
+hypoglycemics,N/A,terfenadine,DB00342,0
+hypoglycemics,N/A,cisapride,DB00604,0
+hypoglycemics,N/A,astemizole,DB00637,0
+hypoglycemics,N/A,rifabutin,DB00615,0
+hypoglycemics,N/A,tacrolimus,DB00864,0
+hypoglycemics,N/A,short-acting benzodiazepines,N/A,0
+hypoglycemics,N/A,hypoglycemics,N/A,0
+hypoglycemics,N/A,diflucan,N/A,0
+hypoglycemics,N/A,hypoglycemic agents,N/A,0
+coumarin-type anticoagulants,N/A,phenytoin,DB00252,0
+coumarin-type anticoagulants,N/A,cyclosporine,DB00091,0
+coumarin-type anticoagulants,N/A,rifampin,N/A,0
+coumarin-type anticoagulants,N/A,theophylline,DB00277,0
+coumarin-type anticoagulants,N/A,terfenadine,DB00342,0
+coumarin-type anticoagulants,N/A,cisapride,DB00604,0
+coumarin-type anticoagulants,N/A,astemizole,DB00637,0
+coumarin-type anticoagulants,N/A,rifabutin,DB00615,0
+coumarin-type anticoagulants,N/A,tacrolimus,DB00864,0
+coumarin-type anticoagulants,N/A,short-acting benzodiazepines,N/A,0
+coumarin-type anticoagulants,N/A,hypoglycemics,N/A,0
+coumarin-type anticoagulants,N/A,diflucan,N/A,0
+coumarin-type anticoagulants,N/A,hypoglycemic agents,N/A,0
+phenytoin,DB00252,cyclosporine,DB00091,0
+phenytoin,DB00252,rifampin,N/A,0
+phenytoin,DB00252,theophylline,DB00277,0
+phenytoin,DB00252,terfenadine,DB00342,0
+phenytoin,DB00252,cisapride,DB00604,0
+phenytoin,DB00252,astemizole,DB00637,0
+phenytoin,DB00252,rifabutin,DB00615,0
+phenytoin,DB00252,tacrolimus,DB00864,0
+phenytoin,DB00252,short-acting benzodiazepines,N/A,0
+phenytoin,DB00252,hypoglycemics,N/A,0
+phenytoin,DB00252,diflucan,N/A,0
+phenytoin,DB00252,hypoglycemic agents,N/A,0
+cyclosporine,DB00091,rifampin,N/A,0
+cyclosporine,DB00091,theophylline,DB00277,0
+cyclosporine,DB00091,terfenadine,DB00342,0
+cyclosporine,DB00091,cisapride,DB00604,0
+cyclosporine,DB00091,astemizole,DB00637,0
+cyclosporine,DB00091,rifabutin,DB00615,0
+cyclosporine,DB00091,tacrolimus,DB00864,0
+cyclosporine,DB00091,short-acting benzodiazepines,N/A,0
+cyclosporine,DB00091,hypoglycemics,N/A,0
+cyclosporine,DB00091,diflucan,N/A,0
+cyclosporine,DB00091,hypoglycemic agents,N/A,0
+rifampin,N/A,theophylline,DB00277,0
+rifampin,N/A,terfenadine,DB00342,0
+rifampin,N/A,cisapride,DB00604,0
+rifampin,N/A,astemizole,DB00637,0
+rifampin,N/A,rifabutin,DB00615,0
+rifampin,N/A,tacrolimus,DB00864,0
+rifampin,N/A,short-acting benzodiazepines,N/A,0
+rifampin,N/A,hypoglycemics,N/A,0
+rifampin,N/A,diflucan,N/A,1
+rifampin,N/A,hypoglycemic agents,N/A,0
+theophylline,DB00277,terfenadine,DB00342,0
+theophylline,DB00277,cisapride,DB00604,0
+theophylline,DB00277,astemizole,DB00637,0
+theophylline,DB00277,rifabutin,DB00615,0
+theophylline,DB00277,tacrolimus,DB00864,0
+theophylline,DB00277,short-acting benzodiazepines,N/A,0
+theophylline,DB00277,hypoglycemics,N/A,0
+theophylline,DB00277,diflucan,N/A,0
+theophylline,DB00277,hypoglycemic agents,N/A,0
+terfenadine,DB00342,cisapride,DB00604,0
+terfenadine,DB00342,astemizole,DB00637,0
+terfenadine,DB00342,rifabutin,DB00615,0
+terfenadine,DB00342,tacrolimus,DB00864,0
+terfenadine,DB00342,short-acting benzodiazepines,N/A,0
+terfenadine,DB00342,hypoglycemics,N/A,0
+terfenadine,DB00342,diflucan,N/A,0
+terfenadine,DB00342,hypoglycemic agents,N/A,0
+cisapride,DB00604,astemizole,DB00637,0
+cisapride,DB00604,rifabutin,DB00615,0
+cisapride,DB00604,tacrolimus,DB00864,0
+cisapride,DB00604,short-acting benzodiazepines,N/A,0
+cisapride,DB00604,hypoglycemics,N/A,0
+cisapride,DB00604,diflucan,N/A,0
+cisapride,DB00604,hypoglycemic agents,N/A,0
+astemizole,DB00637,rifabutin,DB00615,0
+astemizole,DB00637,tacrolimus,DB00864,0
+astemizole,DB00637,short-acting benzodiazepines,N/A,0
+astemizole,DB00637,hypoglycemics,N/A,0
+astemizole,DB00637,diflucan,N/A,0
+astemizole,DB00637,hypoglycemic agents,N/A,0
+rifabutin,DB00615,tacrolimus,DB00864,0
+rifabutin,DB00615,short-acting benzodiazepines,N/A,0
+rifabutin,DB00615,hypoglycemics,N/A,0
+rifabutin,DB00615,diflucan,N/A,0
+rifabutin,DB00615,hypoglycemic agents,N/A,0
+tacrolimus,DB00864,short-acting benzodiazepines,N/A,0
+tacrolimus,DB00864,hypoglycemics,N/A,0
+tacrolimus,DB00864,diflucan,N/A,0
+tacrolimus,DB00864,hypoglycemic agents,N/A,0
+short-acting benzodiazepines,N/A,hypoglycemics,N/A,0
+short-acting benzodiazepines,N/A,diflucan,N/A,0
+short-acting benzodiazepines,N/A,hypoglycemic agents,N/A,0
+diflucan,N/A,hypoglycemic agents,N/A,1
+diflucan,N/A,glyburide,DB01016,1
+diflucan,N/A,tolbutamide,DB01124,1
+diflucan,N/A,glipizide,DB01067,1
+tolbutamide,DB01124,glyburide,DB01016,0
+tolbutamide,DB01124,glipizide,DB01067,0
+glyburide,DB01016,glipizide,DB01067,0
+diflucan,N/A,sulfonylurea oral hypoglycemic agents,N/A,1
+diflucan,N/A,sulfonylurea,N/A,0
+sulfonylurea oral hypoglycemic agents,N/A,sulfonylurea,N/A,0
+coumarin-type anticoagulants,N/A,coumarin-type anticoagulants,N/A,0
+diflucan,N/A,coumarin-type anticoagulants,N/A,1
+azole antifungals,N/A,fluconazole,DB00196,0
+azole antifungals,N/A,warfarin,DB00682,0
+fluconazole,DB00196,warfarin,DB00682,1
+diflucan,N/A,phenytoin,DB00252,1
+phenytoin,DB00252,diflucan,N/A,0
+diflucan,N/A,cyclosporine,DB00091,1
+cyclosporine,DB00091,diflucan,N/A,0
+rifampin,N/A,rifampin,N/A,0
+diflucan,N/A,rifampin,N/A,1
+diflucan,N/A,theophylline,DB00277,1
+theophylline,DB00277,diflucan,N/A,0
+terfenadine,DB00342,azole antifungals,N/A,0
+azole antifungals,N/A,terfenadine,DB00342,1
+fluconazole,DB00196,diflucan,N/A,0
+diflucan,N/A,terfenadine,DB00342,1
+cisapride,DB00604,fluconazole,DB00196,0
+fluconazole,DB00196,cisapride,DB00604,1
+cisapride,DB00604,cisapride,DB00604,0
+astemizole,DB00637,fluconazole,DB00196,0
+astemizole,DB00637,astemizole,DB00637,0
+fluconazole,DB00196,astemizole,DB00637,1
+rifabutin,DB00615,fluconazole,DB00196,0
+rifabutin,DB00615,rifabutin,DB00615,0
+fluconazole,DB00196,rifabutin,DB00615,1
+tacrolimus,DB00864,fluconazole,DB00196,0
+tacrolimus,DB00864,tacrolimus,DB00864,0
+fluconazole,DB00196,tacrolimus,DB00864,1
+short-acting benzodiazepines,N/A,midazolam,DB00683,0
+short-acting benzodiazepines,N/A,fluconazole,DB00196,0
+midazolam,DB00683,fluconazole,DB00196,0
+midazolam,DB00683,midazolam,DB00683,0
+fluconazole,DB00196,fluconazole,DB00196,0
+short-acting benzodiazepines,N/A,fluconazole,DB00196,1
+short-acting benzodiazepines,N/A,benzodiazepine,DB12537,0
+fluconazole,DB00196,benzodiazepine,DB12537,0
+fluconazole,DB00196,ethinyl estradiol,N/A,0
+fluconazole,DB00196,levonorgestrel,DB00367,0
+fluconazole,DB00196,contraceptives,N/A,0
+ethinyl estradiol,N/A,levonorgestrel,DB00367,0
+ethinyl estradiol,N/A,contraceptives,N/A,0
+levonorgestrel,DB00367,contraceptives,N/A,0
+levonorgestrel,DB00367,levonorgestrel,DB00367,0
+contraceptives,N/A,levonorgestrel,DB00367,0
+ethinyl estradiol,N/A,fluconazole,DB00196,0
+levonorgestrel,DB00367,fluconazole,DB00196,0
+fluconazole,DB00196,ethinyl estradiol,N/A,0
+fluconazole,DB00196,levonorgestrel,DB00367,0
+trental,N/A,anticoagulants,N/A,1
+trental,N/A,platelet aggregation inhibitors,N/A,1
+anticoagulants,N/A,platelet aggregation inhibitors,N/A,0
+trental,N/A,theophylline,DB00277,0
+trental,N/A,antihypertensive drugs,N/A,0
+trental,N/A,beta blockers,N/A,0
+trental,N/A,digitalis,N/A,0
+trental,N/A,diuretics,N/A,0
+trental,N/A,antidiabetic agents,N/A,0
+trental,N/A,antiarrhythmics,N/A,0
+antihypertensive drugs,N/A,beta blockers,N/A,0
+antihypertensive drugs,N/A,digitalis,N/A,0
+antihypertensive drugs,N/A,diuretics,N/A,0
+antihypertensive drugs,N/A,antidiabetic agents,N/A,0
+antihypertensive drugs,N/A,antiarrhythmics,N/A,0
+beta blockers,N/A,digitalis,N/A,0
+beta blockers,N/A,diuretics,N/A,0
+beta blockers,N/A,antidiabetic agents,N/A,0
+beta blockers,N/A,antiarrhythmics,N/A,0
+digitalis,N/A,diuretics,N/A,0
+digitalis,N/A,antidiabetic agents,N/A,0
+digitalis,N/A,antiarrhythmics,N/A,0
+diuretics,N/A,antidiabetic agents,N/A,0
+diuretics,N/A,antiarrhythmics,N/A,0
+antidiabetic agents,N/A,antiarrhythmics,N/A,0
+ace inhibitors,N/A,nsaids,N/A,0
+ace inhibitors,N/A,angiotensin-converting enzyme (ace) inhibitors,N/A,0
+nsaids,N/A,angiotensin-converting enzyme (ace) inhibitors,N/A,1
+nsaids,N/A,ace inhibitors,N/A,1
+aspirin,N/A,aspirin,N/A,0
+aspirin,N/A,meloxicam,DB00814,0
+aspirin,N/A,meloxicam,DB00814,1
+nsaids,N/A,meloxicam,DB00814,0
+nsaids,N/A,aspirin,N/A,1
+meloxicam,DB00814,aspirin,N/A,1
+aspirin,N/A,mobic,N/A,0
+mobic,N/A,mobic,N/A,0
+mobic,N/A,aspirin,N/A,0
+cholestyramine,DB01432,cholestyramine,DB01432,0
+cholestyramine,DB01432,meloxicam,DB00814,0
+cholestyramine,DB01432,meloxicam,DB00814,1
+cimetidine,DB00501,meloxicam,DB00814,0
+cimetidine,DB00501,meloxicam,DB00814,0
+digoxin,DB00390,meloxicam,DB00814,0
+meloxicam,DB00814,digoxin,DB00390,0
+digoxin,DB00390,meloxicam,DB00814,0
+furosemide,DB00695,nsaids,N/A,0
+furosemide,DB00695,furosemide,DB00695,0
+furosemide,DB00695,thiazide diuretics,N/A,0
+nsaids,N/A,furosemide,DB00695,1
+nsaids,N/A,thiazide diuretics,N/A,1
+furosemide,DB00695,thiazide diuretics,N/A,0
+furosemide,DB00695,meloxicam,DB00814,0
+furosemide,DB00695,meloxicam,DB00814,0
+furosemide,DB00695,mobic,N/A,1
+lithium,N/A,nsaids,N/A,0
+nsaids,N/A,lithium,N/A,0
+lithium,N/A,meloxicam,DB00814,1
+meloxicam,DB00814,lithium,N/A,0
+lithium,N/A,mobic,N/A,1
+methotrexate,DB00563,meloxicam,DB00814,0
+methotrexate,DB00563,methotrexate,DB00563,0
+meloxicam,DB00814,methotrexate,DB00563,0
+meloxicam,DB00814,methotrexate,DB00563,0
+methotrexate,DB00563,meloxicam,DB00814,0
+warfarin,DB00682,mobic,N/A,0
+mobic,N/A,warfarin,DB00682,0
+meloxicam,DB00814,warfarin,DB00682,0
+proamatine,N/A,cardiac glycosides,N/A,1
+phenylephrine,DB00388,pseudoephedrine,DB00852,0
+phenylephrine,DB00388,ephedrine,DB01364,0
+phenylephrine,DB00388,phenylpropanolamine,DB00397,0
+phenylephrine,DB00388,dihydroergotamine,DB00320,0
+phenylephrine,DB00388,proamatine,N/A,0
+pseudoephedrine,DB00852,ephedrine,DB01364,0
+pseudoephedrine,DB00852,phenylpropanolamine,DB00397,0
+pseudoephedrine,DB00852,dihydroergotamine,DB00320,0
+pseudoephedrine,DB00852,proamatine,N/A,0
+ephedrine,DB01364,phenylpropanolamine,DB00397,0
+ephedrine,DB01364,dihydroergotamine,DB00320,0
+ephedrine,DB01364,proamatine,N/A,0
+phenylpropanolamine,DB00397,dihydroergotamine,DB00320,0
+phenylpropanolamine,DB00397,proamatine,N/A,0
+dihydroergotamine,DB00320,proamatine,N/A,0
+proamatine,N/A,proamatine,N/A,0
+proamatine,N/A,fludrocortisone acetate,N/A,0
+proamatine,N/A,alpha-adrenergic blocking agents,N/A,0
+proamatine,N/A,prazosin,DB00457,0
+proamatine,N/A,terazosin,DB01162,0
+proamatine,N/A,doxazosin,DB00590,0
+proamatine,N/A,desglymidodrine,N/A,0
+proamatine,N/A,metformin,DB00331,0
+proamatine,N/A,cimetidine,DB00501,0
+proamatine,N/A,ranitidine,DB00863,0
+proamatine,N/A,procainamide,DB01035,0
+proamatine,N/A,triamterene,DB00384,0
+proamatine,N/A,flecainide,DB01195,0
+proamatine,N/A,quinidine,DB00908,0
+alpha-adrenergic blocking agents,N/A,prazosin,DB00457,0
+alpha-adrenergic blocking agents,N/A,terazosin,DB01162,0
+alpha-adrenergic blocking agents,N/A,doxazosin,DB00590,0
+alpha-adrenergic blocking agents,N/A,proamatine,N/A,1
+alpha-adrenergic blocking agents,N/A,desglymidodrine,N/A,0
+alpha-adrenergic blocking agents,N/A,metformin,DB00331,0
+alpha-adrenergic blocking agents,N/A,cimetidine,DB00501,0
+alpha-adrenergic blocking agents,N/A,ranitidine,DB00863,0
+alpha-adrenergic blocking agents,N/A,procainamide,DB01035,0
+alpha-adrenergic blocking agents,N/A,triamterene,DB00384,0
+alpha-adrenergic blocking agents,N/A,flecainide,DB01195,0
+alpha-adrenergic blocking agents,N/A,quinidine,DB00908,0
+prazosin,DB00457,terazosin,DB01162,0
+prazosin,DB00457,doxazosin,DB00590,0
+prazosin,DB00457,proamatine,N/A,1
+prazosin,DB00457,desglymidodrine,N/A,0
+prazosin,DB00457,metformin,DB00331,0
+prazosin,DB00457,cimetidine,DB00501,0
+prazosin,DB00457,ranitidine,DB00863,0
+prazosin,DB00457,procainamide,DB01035,0
+prazosin,DB00457,triamterene,DB00384,0
+prazosin,DB00457,flecainide,DB01195,0
+prazosin,DB00457,quinidine,DB00908,0
+terazosin,DB01162,doxazosin,DB00590,0
+terazosin,DB01162,proamatine,N/A,1
+terazosin,DB01162,desglymidodrine,N/A,0
+terazosin,DB01162,metformin,DB00331,0
+terazosin,DB01162,cimetidine,DB00501,0
+terazosin,DB01162,ranitidine,DB00863,0
+terazosin,DB01162,procainamide,DB01035,0
+terazosin,DB01162,triamterene,DB00384,0
+terazosin,DB01162,flecainide,DB01195,0
+terazosin,DB01162,quinidine,DB00908,0
+doxazosin,DB00590,proamatine,N/A,1
+doxazosin,DB00590,desglymidodrine,N/A,0
+doxazosin,DB00590,metformin,DB00331,0
+doxazosin,DB00590,cimetidine,DB00501,0
+doxazosin,DB00590,ranitidine,DB00863,0
+doxazosin,DB00590,procainamide,DB01035,0
+doxazosin,DB00590,triamterene,DB00384,0
+doxazosin,DB00590,flecainide,DB01195,0
+doxazosin,DB00590,quinidine,DB00908,0
+desglymidodrine,N/A,metformin,DB00331,1
+desglymidodrine,N/A,cimetidine,DB00501,1
+desglymidodrine,N/A,ranitidine,DB00863,1
+desglymidodrine,N/A,procainamide,DB01035,1
+desglymidodrine,N/A,triamterene,DB00384,1
+desglymidodrine,N/A,flecainide,DB01195,1
+desglymidodrine,N/A,quinidine,DB00908,1
+metformin,DB00331,cimetidine,DB00501,0
+metformin,DB00331,ranitidine,DB00863,0
+metformin,DB00331,procainamide,DB01035,0
+metformin,DB00331,triamterene,DB00384,0
+metformin,DB00331,flecainide,DB01195,0
+metformin,DB00331,quinidine,DB00908,0
+cimetidine,DB00501,procainamide,DB01035,0
+cimetidine,DB00501,flecainide,DB01195,0
+ranitidine,DB00863,procainamide,DB01035,0
+ranitidine,DB00863,flecainide,DB01195,0
+procainamide,DB01035,triamterene,DB00384,0
+procainamide,DB01035,flecainide,DB01195,0
+triamterene,DB00384,flecainide,DB01195,0
+flecainide,DB01195,quinidine,DB00908,0
+cimetidine,DB00501,mebendazole,DB00643,0
+mebendazole,DB00643,mebendazole,DB00643,0
+vitamin b2,N/A,riboflavin,DB00140,0
+vitamin b2,N/A,alcohol,N/A,0
+vitamin b2,N/A,riboflavin,DB00140,0
+riboflavin,DB00140,alcohol,N/A,0
+riboflavin,DB00140,riboflavin,DB00140,0
+alcohol,N/A,riboflavin,DB00140,1
+probenecid,DB01032,riboflavin,DB00140,1
+riboflavin,DB00140,probenecid,DB01032,1
+cns depressants,N/A,hypnotics,N/A,0
+cns depressants,N/A,tranquilizers,N/A,0
+cns depressants,N/A,phenothiazines,N/A,0
+cns depressants,N/A,opioids,N/A,0
+cns depressants,N/A,tricyclic antidepressants,N/A,0
+cns depressants,N/A,monoamine oxidase (mao) inhibitors,N/A,0
+sedatives,N/A,anesthetics,N/A,0
+sedatives,N/A,phenothiazines,N/A,0
+sedatives,N/A,opioids,N/A,0
+sedatives,N/A,tricyclic antidepressants,N/A,0
+sedatives,N/A,monoamine oxidase (mao) inhibitors,N/A,0
+hypnotics,N/A,anesthetics,N/A,0
+hypnotics,N/A,phenothiazines,N/A,0
+hypnotics,N/A,opioids,N/A,0
+hypnotics,N/A,tricyclic antidepressants,N/A,0
+hypnotics,N/A,monoamine oxidase (mao) inhibitors,N/A,0
+hypnotics,N/A,alcohol,N/A,0
+tranquilizers,N/A,anesthetics,N/A,0
+tranquilizers,N/A,phenothiazines,N/A,0
+tranquilizers,N/A,opioids,N/A,0
+tranquilizers,N/A,tricyclic antidepressants,N/A,0
+tranquilizers,N/A,monoamine oxidase (mao) inhibitors,N/A,0
+anesthetics,N/A,phenothiazines,N/A,0
+anesthetics,N/A,opioids,N/A,0
+anesthetics,N/A,tricyclic antidepressants,N/A,0
+anesthetics,N/A,monoamine oxidase (mao) inhibitors,N/A,0
+phenothiazines,N/A,opioids,N/A,0
+phenothiazines,N/A,monoamine oxidase (mao) inhibitors,N/A,0
+phenothiazines,N/A,alcohol,N/A,0
+opioids,N/A,tricyclic antidepressants,N/A,0
+opioids,N/A,monoamine oxidase (mao) inhibitors,N/A,0
+opioids,N/A,alcohol,N/A,0
+tricyclic antidepressants,N/A,monoamine oxidase (mao) inhibitors,N/A,0
+tricyclic antidepressants,N/A,alcohol,N/A,0
+monoamine oxidase (mao) inhibitors,N/A,alcohol,N/A,0
+anticholinergics,N/A,opioid analgesics,N/A,1
+oxymorphone,DB01192,propofol,DB00818,1
+cimetidine,DB00501,opioid analgesics,N/A,1
+celontin,N/A,methsuximide,DB05246,0
+celontin,N/A,antiepileptic drugs,N/A,1
+celontin,N/A,phenytoin,DB00252,0
+celontin,N/A,phenobarbital,DB01174,0
+methsuximide,DB05246,antiepileptic drugs,N/A,1
+methsuximide,DB05246,methsuximide,DB05246,0
+methsuximide,DB05246,phenytoin,DB00252,1
+methsuximide,DB05246,phenobarbital,DB01174,1
+antiepileptic drugs,N/A,methsuximide,DB05246,0
+antiepileptic drugs,N/A,phenytoin,DB00252,0
+antiepileptic drugs,N/A,phenobarbital,DB01174,0
+atropine,DB00572,pralidoxime,DB00733,0
+atropine,DB00572,atropine,DB00572,0
+pralidoxime,DB00733,atropine,DB00572,0
+pralidoxime,DB00733,barbiturates,N/A,0
+pralidoxime,DB00733,anticholinesterases,N/A,0
+barbiturates,N/A,anticholinesterases,N/A,1
+morphine,DB00295,theophylline,DB00277,0
+morphine,DB00295,aminophylline,DB01223,0
+morphine,DB00295,succinylcholine,DB00202,0
+morphine,DB00295,reserpine,DB00206,0
+morphine,DB00295,phenothiazine-type tranquilizers,N/A,0
+theophylline,DB00277,aminophylline,DB01223,0
+theophylline,DB00277,succinylcholine,DB00202,0
+theophylline,DB00277,reserpine,DB00206,0
+theophylline,DB00277,phenothiazine-type tranquilizers,N/A,0
+aminophylline,DB01223,succinylcholine,DB00202,0
+aminophylline,DB01223,reserpine,DB00206,0
+aminophylline,DB01223,phenothiazine-type tranquilizers,N/A,0
+succinylcholine,DB00202,reserpine,DB00206,0
+succinylcholine,DB00202,phenothiazine-type tranquilizers,N/A,0
+reserpine,DB00206,phenothiazine-type tranquilizers,N/A,0
+folic acid,DB00158,digoxin,DB00390,0
+folic acid,DB00158,sulfasalazine,DB00795,1
+digoxin,DB00390,sulfasalazine,DB00795,1
+sulfasalazine,DB00795,methotrexate,DB00563,0
+anticoagulants,N/A,anabolic steroids,N/A,0
+anabolic steroids,N/A,anticoagulants,N/A,1
+warfarin,DB00682,oxandrolone,DB00621,0
+warfarin,DB00682,s-warfarin,N/A,0
+warfarin,DB00682,r-warfarin,N/A,0
+oxandrolone,DB00621,warfarin,DB00682,0
+oxandrolone,DB00621,s-warfarin,N/A,0
+oxandrolone,DB00621,r-warfarin,N/A,0
+warfarin,DB00682,s-warfarin,N/A,0
+warfarin,DB00682,r-warfarin,N/A,0
+s-warfarin,N/A,r-warfarin,N/A,0
+warfarin,DB00682,oxandrolone,DB00621,1
+hypoglycemic agents,N/A,oxandrolone,DB00621,0
+hypoglycemic agents,N/A,hypoglycemic agents,N/A,0
+oxandrolone,DB00621,hypoglycemic agents,N/A,1
+adrenal steroids,N/A,acth,N/A,0
+adrenal steroids,N/A,adrenal cortical steroids,N/A,0
+acth,N/A,adrenal cortical steroids,N/A,0
+acth,N/A,acth,N/A,0
+adrenal cortical steroids,N/A,acth,N/A,0
+methysergide,DB00247,narcotic analgesics,N/A,1
+vasoconstrictor agents,N/A,ergot alkaloids,N/A,0
+vasoconstrictor agents,N/A,sumatriptan,DB00669,0
+vasoconstrictor agents,N/A,nicotine,DB00184,0
+ergot alkaloids,N/A,sumatriptan,DB00669,0
+ergot alkaloids,N/A,nicotine,DB00184,0
+sumatriptan,DB00669,nicotine,DB00184,0
+zidovudine,DB00495,stavudine,DB00649,1
+zidovudine,DB00495,zerit,N/A,1
+stavudine,DB00649,doxorubicin,DB00997,1
+stavudine,DB00649,ribavirin,DB00811,1
+doxorubicin,DB00997,ribavirin,DB00811,0
+testolactone,DB00894,anticoagulants,N/A,1
+cholestyramine,DB01432,ezetimibe,DB00973,0
+cholestyramine,DB01432,ezetimibe,DB00973,1
+ezetimibe,DB00973,cholestyramine,DB01432,1
+fibrates,N/A,ezetimibe,DB00973,0
+fibrates,N/A,fibrates,N/A,0
+ezetimibe,DB00973,fibrates,N/A,0
+zetia,N/A,fibrates,N/A,1
+fenofibrate,DB01039,fenofibrate,DB01039,0
+fenofibrate,DB01039,ezetimibe,DB00973,0
+fenofibrate,DB01039,ezetimibe,DB00973,1
+gemfibrozil,DB01241,gemfibrozil,DB01241,0
+gemfibrozil,DB01241,ezetimibe,DB00973,0
+gemfibrozil,DB01241,ezetimibe,DB00973,0
+hmg-coa reductase inhibitors,N/A,ezetimibe,DB00973,0
+hmg-coa reductase inhibitors,N/A,atorvastatin,DB01076,0
+hmg-coa reductase inhibitors,N/A,simvastatin,DB00641,0
+hmg-coa reductase inhibitors,N/A,pravastatin,DB00175,0
+hmg-coa reductase inhibitors,N/A,lovastatin,DB00227,0
+hmg-coa reductase inhibitors,N/A,fluvastatin,DB01095,0
+ezetimibe,DB00973,atorvastatin,DB01076,0
+ezetimibe,DB00973,simvastatin,DB00641,0
+ezetimibe,DB00973,pravastatin,DB00175,0
+ezetimibe,DB00973,lovastatin,DB00227,0
+ezetimibe,DB00973,fluvastatin,DB01095,0
+atorvastatin,DB01076,simvastatin,DB00641,0
+atorvastatin,DB01076,pravastatin,DB00175,0
+atorvastatin,DB01076,lovastatin,DB00227,0
+atorvastatin,DB01076,fluvastatin,DB01095,0
+simvastatin,DB00641,pravastatin,DB00175,0
+simvastatin,DB00641,lovastatin,DB00227,0
+simvastatin,DB00641,fluvastatin,DB01095,0
+pravastatin,DB00175,lovastatin,DB00227,0
+pravastatin,DB00175,fluvastatin,DB01095,0
+lovastatin,DB00227,fluvastatin,DB01095,0
+cyclosporine,DB00091,ezetimibe,DB00973,0
+ezetimibe,DB00973,cyclosporine,DB00091,1
+ezetimibe,DB00973,ezetimibe,DB00973,0
+ezetimibe,DB00973,hmg-coa reductase inhibitors,N/A,0
+ezetimibe,DB00973,statins,N/A,0
+hmg-coa reductase inhibitors,N/A,statins,N/A,0
+statins,N/A,ezetimibe,DB00973,0
+zetia,N/A,hmg-coa reductase inhibitor,N/A,0
+hmg-coa reductase inhibitor,N/A,hmg-coa reductase inhibitor,N/A,0
+ketoconazole,DB01026,mometasone furoate,DB14512,1
+skelaxin,N/A,alcohol,N/A,1
+skelaxin,N/A,barbiturates,N/A,1
+skelaxin,N/A,cns depressants,N/A,1
+barbiturates,N/A,cns depressants,N/A,0
+3-deazaneplanocin a,N/A,dznep,N/A,0
+dznep,N/A,dznep,N/A,0
+dznep,N/A,abt-737,,0
+abt-737,,dznep,N/A,1
+ephedrine,DB01364,dexmedetomidine,DB00633,1
+ephedrine,DB01364,dexmedetomidine,DB00633,0
+ephedrine,DB01364,ephedrine,DB01364,0
+dexmedetomidine,DB00633,ephedrine,DB01364,1
+dexmedetomidine,DB00633,dexmedetomidine,DB00633,0
+dexmedetomidine,DB00633,analgesic,N/A,0
+ephedrine,DB01364,analgesic,N/A,0
+acetyl-l-carnitine,N/A,alpha lipoic acid,N/A,0
+acetyl-l-carnitine,N/A,alpha-lipoic acid,N/A,1
+dasatinib,DB01254,paclitaxel,DB01229,1
+dasatinib,DB01254,dasatinib,DB01254,0
+paclitaxel,DB01229,dasatinib,DB01254,0
+paclitaxel,DB01229,paclitaxel,DB01229,0
+celecoxib,DB00482,anti-cancer drugs,N/A,1
+cyclooxygenase-2 inhibitors,N/A,chemotherapeutic agents,N/A,0
+5-fu,N/A,cisplatin,DB00515,0
+5-fu,N/A,doxorubicin,DB00997,0
+5-fu,N/A,etoposide,DB00773,0
+5-fu,N/A,celecoxib,DB00482,0
+cisplatin,DB00515,doxorubicin,DB00997,0
+cisplatin,DB00515,etoposide,DB00773,0
+cisplatin,DB00515,celecoxib,DB00482,0
+doxorubicin,DB00997,etoposide,DB00773,0
+doxorubicin,DB00997,celecoxib,DB00482,0
+etoposide,DB00773,celecoxib,DB00482,0
+celecoxib,DB00482,celecoxib,DB00482,0
+celecoxib,DB00482,doxorubicin,DB00997,0
+levothyroxine,DB00451,simeticone,N/A,1
+infacol,N/A,levothyroxine,DB00451,0
+thyroxine,N/A,simeticone,N/A,0
+midazolam,DB00683,cyclosporine,DB00091,1
+midazolam,DB00683,tacrolimus,DB00864,0
+midazolam,DB00683,calcineurin inhibitor,N/A,0
+tacrolimus,DB00864,calcineurin inhibitor,N/A,0
+tacrolimus,DB00864,cyclosporine,DB00091,0
+implanon,N/A,antiretroviral,N/A,1
+antiretroviral,N/A,implanon,N/A,1
+sunitinib,DB01268,docetaxel,DB01248,0
+sunitinib,DB01268,sunitinib,DB01268,0
+sunitinib,DB01268,docetaxel,DB01248,0
+docetaxel,DB01248,sunitinib,DB01268,0
+sunitinib,DB01268,sunitinib,DB01268,0
+docetaxel,DB01248,docetaxel,DB01248,0
+"3-[(2-methyl-1,3-thiazol-4-yl) ethynyl] pyridine",N/A,"1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine",,1
+"1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine",,"3-[(2-methyl-1,3-thiazol-4-yl) ethynyl] pyridine",N/A,1
+"1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine",,"1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine",,0
+"3-[(2-methyl-1,3-thiazol-4-yl) ethynyl] pyridine",N/A,"3-[(2-methyl-1,3-thiazol-4-yl) ethynyl] pyridine",N/A,0
+clopidogrel,DB00758,proton pump inhibitors,N/A,0
+proton pump inhibitors,N/A,clopidogrel,DB00758,0
+omeprazole,DB00338,clopidogrel,DB00758,1
+omeprazole,DB00338,omeprazole,DB00338,0
+clopidogrel,DB00758,omeprazole,DB00338,1
+pantoprazole,DB00213,clopidogrel,DB00758,1
+clopidogrel,DB00758,esomeprazole,DB00736,1
+omeprazole,DB00338,esomeprazole,DB00736,0
+ketoconazole,DB01026,panobinostat,DB06603,1
+ketoconazole,DB01026,lbh589,N/A,0
+ketoconazole,DB01026,histone deacetylase inhibitor,N/A,0
+panobinostat,DB06603,lbh589,N/A,0
+panobinostat,DB06603,histone deacetylase inhibitor,N/A,0
+lbh589,N/A,histone deacetylase inhibitor,N/A,0
+panobinostat,DB06603,ketoconazole,DB01026,0
+panobinostat,DB06603,panobinostat,DB06603,0
+lenalidomide,DB00480,cci-779,N/A,1
+lenalidomide,DB00480,lenalidomide,DB00480,0
+cci-779,N/A,lenalidomide,DB00480,0
+cci-779,N/A,cci-779,N/A,0
+ticagrelor,DB08816,brilinta,N/A,0
+ticagrelor,DB08816,clopidogrel,DB00758,0
+ticagrelor,DB08816,plavix,N/A,0
+brilinta,N/A,clopidogrel,DB00758,0
+brilinta,N/A,plavix,N/A,0
+clopidogrel,DB00758,plavix,N/A,0
+ticagrelor,DB08816,brilinta,N/A,0
+ticagrelor,DB08816,antiplatelet drug,N/A,0
+ticagrelor,DB08816,aspirin,N/A,1
+brilinta,N/A,antiplatelet drug,N/A,0
+brilinta,N/A,aspirin,N/A,1
+antiplatelet drug,N/A,aspirin,N/A,0
+clopidogrel,DB00758,prasugrel,DB06209,0
+clopidogrel,DB00758,effient,N/A,0
+plavix,N/A,prasugrel,DB06209,0
+plavix,N/A,effient,N/A,0
+prasugrel,DB06209,effient,N/A,0
+s-ketamine,N/A,itraconazole,DB01167,0
+s-ketamine,N/A,ticlopidine,DB00208,1
+itraconazole,DB01167,ticlopidine,DB00208,0
+ticlopidine,DB00208,itraconazole,DB01167,0
+ticlopidine,DB00208,ketamine,DB01221,1
+ticlopidine,DB00208,itraconazole,DB01167,0
+ticlopidine,DB00208,s-ketamine,N/A,0
+ketamine,DB01221,itraconazole,DB01167,0
+ketamine,DB01221,s-ketamine,N/A,0
+itraconazole,DB01167,s-ketamine,N/A,0
+norketamine,N/A,ketamine,DB01221,0
+norketamine,N/A,ticlopidine,DB00208,0
+norketamine,N/A,itraconazole,DB01167,0
+ketamine,DB01221,ticlopidine,DB00208,0
+cinacalcet,DB01012,darbepoetin,N/A,1
+erythropoietin,DB00016,epo,N/A,0
+darbepoetin,N/A,cinacalcet,DB01012,0
+antidepressant,N/A,warfarin,DB00682,0
+antidepressant,N/A,warfarin,DB00682,0
+warfarin,DB00682,citalopram,DB00215,1
+warfarin,DB00682,fluoxetine,DB00472,1
+warfarin,DB00682,paroxetine,DB00715,1
+warfarin,DB00682,amitriptyline,DB00321,1
+citalopram,DB00215,fluoxetine,DB00472,0
+citalopram,DB00215,paroxetine,DB00715,0
+citalopram,DB00215,amitriptyline,DB00321,0
+fluoxetine,DB00472,amitriptyline,DB00321,0
+paroxetine,DB00715,amitriptyline,DB00321,0
+mirtazapine,DB00370,warfarin,DB00682,1
+warfarin,DB00682,mirtazapine,DB00370,1
+citalopram,DB00215,mirtazapine,DB00370,0
+fluoxetine,DB00472,mirtazapine,DB00370,0
+paroxetine,DB00715,mirtazapine,DB00370,0
+amitriptyline,DB00321,mirtazapine,DB00370,0
+avian influenza vaccines,N/A,ginseng stem-and-leaf saponins,N/A,0
+ginseng stem-and-leaf saponins,N/A,gsls,N/A,0
+ginseng stem-and-leaf saponins,N/A,inactivated nd vaccines,N/A,0
+ginseng stem-and-leaf saponins,N/A,inactivated ai vaccines,N/A,0
+gsls,N/A,inactivated nd vaccines,N/A,0
+gsls,N/A,inactivated ai vaccines,N/A,1
+inactivated nd vaccines,N/A,inactivated ai vaccines,N/A,0
+gsls,N/A,inactivated nd vaccine,N/A,0
+gsls,N/A,gsls,N/A,0
+calcium,DB01373,nonheme iron,N/A,1
+calcium,DB01373,heme iron,N/A,1
+nonheme iron,N/A,heme iron,N/A,0
+iron,DB01592,calcium,DB01373,0
+calcium,DB01373,nonheme iron,N/A,1
+calcium,DB01373,heme iron,N/A,1
+calcium,DB01373,ferrous sulfate,N/A,0
+nonheme iron,N/A,ferrous sulfate,N/A,0
+calcium,DB01373,calcium chloride,DB01164,0
+calcium,DB01373,minerals,N/A,0
+calcium chloride,DB01164,minerals,N/A,0
+amphetamine,DB00182,quinpirole,N/A,0
+quinpirole,N/A,amphetamine,DB00182,0
+quinpirole,N/A,quinpirole,N/A,0
+amphetamine,DB00182,quinpirole,N/A,0
+amphetamine,DB00182,amphetamine,DB00182,0
+minocycline,DB01017,fosfomycin,DB00828,1
+minocycline,DB01017,methicillin,N/A,0
+fosfomycin,DB00828,methicillin,N/A,0
+lapatinib,DB01259,herceptin,N/A,1
+lapatinib,DB01259,herceptin,N/A,1
+lapatinib,DB01259,lapatinib,DB01259,0
+herceptin,N/A,lapatinib,DB01259,1
+herceptin,N/A,herceptin,N/A,0
+lapatinib,DB01259,herceptin,N/A,0
+piperine,DB12582,ibuprofen,DB01050,1
+piperine,DB12582,acetic acid,DB03166,0
+ibuprofen,DB01050,acetic acid,DB03166,0
+acetic acid,DB03166,ibuprofen,DB01050,0
+ibuprofen,DB01050,piperine,DB12582,1
+ibuprofen,DB01050,piperine,DB12582,1
+adeno-associated virus-2,N/A,aav2,N/A,0
+aav2,N/A,collagenase,N/A,0
+aav2,N/A,hyaluronan lyase,N/A,0
+aav2,N/A,heparinase iii,N/A,1
+aav2,N/A,chondroitin abc lyase,N/A,1
+collagenase,N/A,hyaluronan lyase,N/A,0
+collagenase,N/A,heparinase iii,N/A,0
+collagenase,N/A,chondroitin abc lyase,N/A,0
+hyaluronan lyase,N/A,heparinase iii,N/A,0
+hyaluronan lyase,N/A,chondroitin abc lyase,N/A,0
+heparinase iii,N/A,chondroitin abc lyase,N/A,0
+hyaluronan lyase,N/A,collagenase,N/A,0
+cross-reacting material 197,N/A,crm197,N/A,0
+crm197,N/A,anticancer agent,N/A,0
+crm197,N/A,crm197,N/A,0
+crm197,N/A,doxorubicin,DB00997,1
+ketamine,DB01221,propofol,DB00818,0
+propofol,DB00818,propofol,DB00818,0
+piperacillin,DB00319,methylglyoxal,N/A,0
+piperacillin,DB00319,carbenicillin,DB00578,0
+piperacillin,DB00319,amikacin,DB00479,0
+piperacillin,DB00319,ciprofloxacin,DB00537,0
+carbenicillin,DB00578,amikacin,DB00479,0
+carbenicillin,DB00578,ciprofloxacin,DB00537,0
+amikacin,DB00479,ciprofloxacin,DB00537,0
+methylglyoxal,N/A,piperacillin,DB00319,1
+methylglyoxal,N/A,carbenicillin,DB00578,1
+methylglyoxal,N/A,amikacin,DB00479,1
+moxifloxacin,DB00218,lomefloxacin,DB00978,0
+moxifloxacin,DB00218,lomefloxacin,DB00978,0
+moxifloxacin,DB00218,fluoroquinolone antibiotics,N/A,0
+lomefloxacin,DB00978,fluoroquinolone antibiotics,N/A,0
+moxifloxacin,DB00218,fluoroquinolones,N/A,0
+moxifloxacin,DB00218,sucralfate,DB00364,0
+moxifloxacin,DB00218,gelusil,N/A,0
+moxifloxacin,DB00218,erythromycin,DB00199,0
+moxifloxacin,DB00218,multi minerals,N/A,0
+fluoroquinolones,N/A,sucralfate,DB00364,0
+fluoroquinolones,N/A,gelusil,N/A,0
+fluoroquinolones,N/A,erythromycin,DB00199,0
+fluoroquinolones,N/A,multi minerals,N/A,0
+sucralfate,DB00364,gelusil,N/A,0
+sucralfate,DB00364,erythromycin,DB00199,0
+sucralfate,DB00364,multi minerals,N/A,0
+gelusil,N/A,erythromycin,DB00199,0
+gelusil,N/A,multi minerals,N/A,0
+erythromycin,DB00199,multi minerals,N/A,0
+moxifloxacin,DB00218,lomefloxacin,DB00978,0
+moxifloxacin,DB00218,sucralfate,DB00364,1
+moxifloxacin,DB00218,gelusil,N/A,1
+moxifloxacin,DB00218,erythromycin,DB00199,1
+moxifloxacin,DB00218,multi-minerals,N/A,1
+lomefloxacin,DB00978,sucralfate,DB00364,1
+lomefloxacin,DB00978,gelusil,N/A,1
+lomefloxacin,DB00978,erythromycin,DB00199,1
+lomefloxacin,DB00978,multi-minerals,N/A,1
+sucralfate,DB00364,multi-minerals,N/A,0
+gelusil,N/A,multi-minerals,N/A,0
+erythromycin,DB00199,multi-minerals,N/A,0
+tamoxifen,DB00675,estrogen antagonist,N/A,0
+paroxetine,DB00715,fluoxetine,DB00472,0
+paroxetine,DB00715,endoxifen,N/A,1
+fluoxetine,DB00472,endoxifen,N/A,1
+tamoxifen,DB00675,ssri antidepressants,N/A,1
+tamoxifen,DB00675,paroxetine,DB00715,1
+tamoxifen,DB00675,fluoxetine,DB00472,1
+ssri antidepressants,N/A,paroxetine,DB00715,0
+ssri antidepressants,N/A,fluoxetine,DB00472,0
+paroxetine,DB00715,fluoxetine,DB00472,0
+antidepressant drug,N/A,antidepressants,N/A,0
+antidepressant,N/A,tamoxifen,DB00675,1
+antidepressant,N/A,anastrozole,DB01217,0
+tamoxifen,DB00675,anastrozole,DB01217,0
+amlodipine,DB00381,valsartan,DB00177,1
+amlodipine,DB00381,antihypertensive drugs,N/A,0
+valsartan,DB00177,antihypertensive drugs,N/A,0
+dacarbazine,DB00851,imexon,DB05003,0
+dacarbazine,DB00851,dtic,N/A,0
+dtic,N/A,imexon,DB05003,0
+imexon,DB05003,dtic,N/A,0
+imexon,DB05003,dacarbazine,DB00851,1
+hemantane,N/A,doxycycline,DB00254,1
+anti-parkinsonian drug,N/A,hemantane,N/A,0
+anti-parkinsonian drug,N/A,(2-adamantyl)hexamethylenimine,N/A,0
+hemantane,N/A,(2-adamantyl)hexamethylenimine,N/A,0
+antibiotic drug,N/A,doxycycline,DB00254,0
+antibiotic drug,N/A,"1-methyl-4-phenyl-1,2,3,4-tetrahydropyridine",N/A,0
+antibiotic drug,N/A,mptp,N/A,0
+doxycycline,DB00254,"1-methyl-4-phenyl-1,2,3,4-tetrahydropyridine",N/A,0
+doxycycline,DB00254,mptp,N/A,0
+"1-methyl-4-phenyl-1,2,3,4-tetrahydropyridine",N/A,mptp,N/A,0
+1-aminobenzotriazole,N/A,abt,N/A,0
+abt,N/A,precocene i,N/A,1
+precocene i,N/A,tranylcypromine,DB00752,0
+abt,N/A,diethyldithiocarbamate,N/A,0
+abt,N/A,tranylcypromine,DB00752,0
+abt,N/A,ketoconazole,DB01026,0
+diethyldithiocarbamate,N/A,tranylcypromine,DB00752,0
+diethyldithiocarbamate,N/A,ketoconazole,DB01026,0
+tranylcypromine,DB00752,ketoconazole,DB01026,0
+furafylline,DB14029,sulfaphenazole,DB06729,0
+furafylline,DB14029,quinidine,DB00908,0
+furafylline,DB14029,precocene i,N/A,0
+sulfaphenazole,DB06729,quinidine,DB00908,0
+sulfaphenazole,DB06729,precocene i,N/A,0
+quinidine,DB00908,precocene i,N/A,1
+precocene i,N/A,precocene i,N/A,0
